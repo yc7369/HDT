@@ -307,7 +307,7 @@
         <member name="F:HearthDb.CardIds.Collectible.Deathknight.GuidingFigure">
             <summary>
             <b><b>Spellburst</b>:</b> Trigger a random friendly minion's <b>Deathrattle</b>. <b>Starship Piece</b><br/>
-            2-Cost 3/2 Minion
+            3-Cost 3/2 Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.Collectible.Deathknight.SoulboundSpire">
@@ -1212,7 +1212,7 @@
         </member>
         <member name="F:HearthDb.CardIds.Collectible.Deathknight.ReanimateTheTerror">
             <summary>
-            <b>Quest:</b> Spend 18 <b>Corpses</b>. <b>Reward:</b> Tyrax, Bone Terror.<br/>
+            <b>Quest:</b> Spend 15 <b>Corpses</b>. <b>Reward:</b> Tyrax, Bone Terror.<br/>
             1-Cost Spell
             </summary>
         </member>
@@ -1411,7 +1411,7 @@
         <member name="F:HearthDb.CardIds.Collectible.Deathknight.BrittleboneBuccaneer">
             <summary>
             Whenever you play a <b>Deathrattle</b> minion, give it <b>Reborn</b>.<br/>
-            2-Cost 1/4 Undead/Pirate Minion
+            2-Cost 1/3 Undead/Pirate Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.Collectible.Deathknight.Buttons">
@@ -2851,7 +2851,7 @@
         <member name="F:HearthDb.CardIds.Collectible.Demonhunter.SockPuppetSlitherspear">
             <summary>
             This minion's Attack is improved by your hero's.<br/>
-            1-Cost 1/3 Naga Minion
+            1-Cost 1/2 Naga Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.Collectible.Demonhunter.GibberingReject">
@@ -3204,13 +3204,13 @@
         </member>
         <member name="F:HearthDb.CardIds.Collectible.Demonhunter.GorishiWasp">
             <summary>
-            Whenever this takes damage, get a 1-Cost Gorishi Stinger.<br/>
-            6-Cost 2/8 Beast Minion
+            <b>Rush</b>. Whenever this takes damage, get a 1-Cost Gorishi Stinger.<br/>
+            5-Cost 2/7 Beast Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.Collectible.Demonhunter.UnleashTheColossus">
             <summary>
-            <b>Quest:</b> Deal exactly 2 damage to an enemy on your turn, 15 times. <b>Reward:</b> Gorishi Colossus.<br/>
+            <b>Quest:</b> Deal exactly 2 damage to an enemy on your turn, 12 times. <b>Reward:</b> Gorishi Colossus.<br/>
             1-Cost Spell
             </summary>
         </member>
@@ -3235,7 +3235,7 @@
         <member name="F:HearthDb.CardIds.Collectible.Demonhunter.EntomologistToru">
             <summary>
             <b>Battlecry:</b> Put each minion in your hand into 0/1 Jars that cost (1). Break them to release the minions!<br/>
-            9-Cost 7/7 Minion
+            8-Cost 7/7 Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.Collectible.Demonhunter.HiveMap">
@@ -3282,7 +3282,7 @@
         </member>
         <member name="F:HearthDb.CardIds.Collectible.Demonhunter.BallHog">
             <summary>
-            <b>Lifesteal</b> <b>Battlecry and Deathrattle:</b> Deal 3 damage to the lowest Health enemy.<br/>
+            <b>Lifesteal</b> <b>Battlecry and Deathrattle:</b> Deal 2 damage to the lowest Health enemy.<br/>
             4-Cost 3/3 Quilboar Minion
             </summary>
         </member>
@@ -6024,7 +6024,7 @@
         <member name="F:HearthDb.CardIds.Collectible.Druid.LohTheLivingLegend">
             <summary>
             <b>Battlecry:</b> Your minions cost (5) this game.<br/>
-            7-Cost 5/5 Minion
+            9-Cost 5/5 Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.Collectible.Druid.SparklingPhial">
@@ -12448,7 +12448,7 @@
         <member name="F:HearthDb.CardIds.Collectible.Mage.TitanographerOsk">
             <summary>
             Gains a random <b>Titan</b> ability in your hand that changes each turn.<br/>
-            7-Cost 7/7 Minion
+            6-Cost 6/6 Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.Collectible.Mage.TheForbiddenSequence">
@@ -16236,7 +16236,7 @@
         </member>
         <member name="F:HearthDb.CardIds.Collectible.Neutral.MenagerieJugCore">
             <summary>
-            <b>Battlecry:</b> Give 3 random friendly minions of different minion types +3/+3.<br/>
+            <b>Battlecry:</b> Give 3 random friendly minions of different minion types +2/+2.<br/>
             5-Cost 3/3 Minion
             </summary>
         </member>
@@ -18790,8 +18790,8 @@
         </member>
         <member name="F:HearthDb.CardIds.Collectible.Neutral.Braingill">
             <summary>
-            <b>Battlecry:</b> Give all friendly Murlocs "<b>Deathrattle:</b> Draw a card."<br/>
-            2-Cost 2/1 Murloc Minion
+            <b>Battlecry:</b> Give your other Murlocs "<b>Deathrattle:</b> Draw a card."<br/>
+            3-Cost 3/2 Murloc Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.Collectible.Neutral.HarthStonebrew">
@@ -21900,12 +21900,12 @@
         <member name="F:HearthDb.CardIds.Collectible.Neutral.CloudSerpent">
             <summary>
             <b>Battlecry:</b> Get a copy of another Elemental or Dragon in your hand.<br/>
-            4-Cost 4/3 Elemental/Dragon Minion
+            3-Cost 3/3 Elemental/Dragon Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.Collectible.Neutral.QuestingAssistant">
             <summary>
-            <b>Battlecry:</b> If you played a <b>Quest</b> this game, deal 2 damage.<br/>
+            <b>Battlecry:</b> If you played a <b>Quest</b> this game, deal 3 damage to an enemy minion.<br/>
             2-Cost 3/2 Minion
             </summary>
         </member>
@@ -24675,7 +24675,7 @@
         </member>
         <member name="F:HearthDb.CardIds.Collectible.Neutral.MenagerieJug">
             <summary>
-            <b>Battlecry:</b> Give 3 random friendly minions of different minion types +3/+3.<br/>
+            <b>Battlecry:</b> Give 3 random friendly minions of different minion types +2/+2.<br/>
             5-Cost 3/3 Minion
             </summary>
         </member>
@@ -26198,8 +26198,8 @@
         </member>
         <member name="F:HearthDb.CardIds.Collectible.Paladin.AegisOfLight">
             <summary>
-            Summon a random 1-Cost minion and give it <b>Taunt</b>. <b>Imbue</b> your Hero Power.<br/>
-            1-Cost Spell
+            Summon a random 2-Cost minion and give it <b>Taunt</b>. <b>Imbue</b> your Hero Power.<br/>
+            2-Cost Spell
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.Collectible.Paladin.GoldpetalDrake">
@@ -27540,7 +27540,7 @@
         </member>
         <member name="F:HearthDb.CardIds.Collectible.Paladin.HotSpringGlider">
             <summary>
-            <b>Battlecry:</b> Your next Murloc costs (2) less. <b>Kindred:</b> And gains <b>Divine Shield</b>.<br/>
+            <b>Battlecry:</b> Your next Murloc costs (1) less. <b>Kindred:</b> And gains <b>Divine Shield</b>.<br/>
             3-Cost 2/4 Murloc Minion
             </summary>
         </member>
@@ -30792,7 +30792,7 @@
         </member>
         <member name="F:HearthDb.CardIds.Collectible.Priest.ReachEquilibrium">
             <summary>
-            <b>Quest:</b> Cast 5 Holy spells <b>Reward:</b> Life's Breath. <b>Quest:</b> Cast 5 Shadow spells. <b>Reward:</b> Death's Touch.<br/>
+            <b>Quest:</b> Cast 4 Holy spells <b>Reward:</b> Life's Breath. <b>Quest:</b> Cast 4 Shadow spells. <b>Reward:</b> Death's Touch.<br/>
             1-Cost Spell
             </summary>
         </member>
@@ -30817,7 +30817,7 @@
         <member name="F:HearthDb.CardIds.Collectible.Priest.WiltedShadow">
             <summary>
             <b>Lifesteal</b> Whenever you heal an enemy, this attacks it.<br/>
-            7-Cost 7/7 Elemental Minion
+            7-Cost 6/7 Elemental Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.Collectible.Priest.StoryOfAmara">
@@ -31237,7 +31237,7 @@
         <member name="F:HearthDb.CardIds.Collectible.Priest.BrainMasseuse">
             <summary>
             Whenever this minion takes damage, also deal that amount to your hero.<br/>
-            1-Cost 2/4 Undead/Pirate Minion
+            1-Cost 2/3 Undead/Pirate Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.Collectible.Priest.ChillinVoljin">
@@ -32820,8 +32820,8 @@
         </member>
         <member name="F:HearthDb.CardIds.Collectible.Rogue.EverburningPhoenix">
             <summary>
-            Costs (1) less for each card you've played this turn. <b>Deathrattle:</b> Return this to your hand.<br/>
-            4-Cost 2/2 Elemental/Beast Minion
+            Costs (1) less for each card you've played this turn. <b>Deathrattle:</b> Return this to hand at end of turn.<br/>
+            4-Cost 3/2 Elemental/Beast Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.Collectible.Rogue.SmokeBomb">
@@ -33949,7 +33949,7 @@
         <member name="F:HearthDb.CardIds.Collectible.Rogue.UnderbrushTracker">
             <summary>
             <b>Rush</b> Costs (1) less for each time you've shuffled cards into your deck.<br/>
-            7-Cost 5/5 Minion
+            6-Cost 5/5 Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.Collectible.Rogue.EyesInTheSky">
@@ -33960,7 +33960,7 @@
         </member>
         <member name="F:HearthDb.CardIds.Collectible.Rogue.OpuTheUnseen">
             <summary>
-            <b>Battlecry, Combo, and Deathrattle:</b> Cast 'Fan of Knives'.<br/>
+            <b><b>Stealth</b>.</b> <b>Battlecry, Combo, and Deathrattle:</b> Cast 'Fan of Knives'.<br/>
             6-Cost 6/4 Minion
             </summary>
         </member>
@@ -35994,7 +35994,7 @@
         </member>
         <member name="F:HearthDb.CardIds.Collectible.Shaman.Murmur">
             <summary>
-            Your <b>Battlecry</b> minions cost (1), but immediately die after being played.<br/>
+            Your first <b>Battlecry</b> minion each turn costs (1), but immediately dies after being played.<br/>
             7-Cost 6/6 Elemental Minion
             </summary>
         </member>
@@ -37086,7 +37086,7 @@
         </member>
         <member name="F:HearthDb.CardIds.Collectible.Shaman.SpiritOfTheMountain">
             <summary>
-            <b>Quest:</b> Play 7 minions of unique types. <b>Reward:</b> Ashalon.<br/>
+            <b>Quest:</b> Play 6 minions of unique types. <b>Reward:</b> Ashalon.<br/>
             1-Cost Spell
             </summary>
         </member>
@@ -40286,7 +40286,7 @@
         </member>
         <member name="F:HearthDb.CardIds.Collectible.Warlock.EscapeTheUnderfel">
             <summary>
-            <b>Quest:</b> Play 6 <b>Temporary</b> cards. <b>Reward:</b> Underfel Rift.<br/>
+            <b>Quest:</b> Play 5 <b>Temporary</b> cards. <b>Reward:</b> Underfel Rift.<br/>
             1-Cost Spell
             </summary>
         </member>
@@ -59175,7 +59175,7 @@
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Hunter.TheFoodChain_ShokkJungleTyrantToken">
             <summary>
-            <b>Rush</b> <b>Battlecry:</b> Get a random 8, 6, and 4-Attack Beast. Set their Costs to (2).<br/>
+            <b>Rush</b> <b>Battlecry:</b> <b>Discover</b> any 8, 6, and 4-Attack Beast. Set their Costs to (2).<br/>
             5-Cost 9/9 Beast Minion
             </summary>
         </member>
@@ -93705,187 +93705,187 @@
         <member name="F:HearthDb.CardIds.NonCollectible.Mage.TitanographerOsk_TitanographerOskToken1">
             <summary>
             <b>Battlecry:</b> Destroy an enemy minion. This minion and your hero gain its Health.<br/>
-            7-Cost 7/7 Minion
+            6-Cost 6/6 Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Mage.TitanographerOsk_TitanographerOskToken2">
             <summary>
             <b>Battlecry:</b> Deal 5 damage.<br/>
-            7-Cost 7/7 Minion
+            6-Cost 6/6 Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Mage.TitanographerOsk_TitanographerOskToken3">
             <summary>
             <b>Battlecry:</b> Cast 1 random Mage <b>Secret</b>.<br/>
-            7-Cost 7/7 Minion
+            6-Cost 6/6 Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Mage.TitanographerOsk_TitanographerOskToken4">
             <summary>
             <b>Battlecry:</b> Enemy cards cost (1) more next turn.<br/>
-            7-Cost 7/7 Minion
+            6-Cost 6/6 Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Mage.TitanographerOsk_TitanographerOskToken5">
             <summary>
             <b>Battlecry:</b> Set the Attack and Health of all enemy minions to 2.<br/>
-            7-Cost 7/7 Minion
+            6-Cost 6/6 Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Mage.TitanographerOsk_TitanographerOskToken6">
             <summary>
             <b>Battlecry:</b> Give your other minions +2/+2.<br/>
-            7-Cost 7/7 Minion
+            6-Cost 6/6 Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Mage.TitanographerOsk_TitanographerOskToken7">
             <summary>
             <b>Battlecry:</b> Draw 2 minions. Set their Attack, Health, and Cost to 2.<br/>
-            7-Cost 7/7 Minion
+            6-Cost 6/6 Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Mage.TitanographerOsk_TitanographerOskToken8">
             <summary>
             <b>Battlecry:</b> Choose a non-<b>Titan</b> minion. Summon a copy of it with +2/+2.<br/>
-            7-Cost 7/7 Minion
+            6-Cost 6/6 Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Mage.TitanographerOsk_TitanographerOskToken9">
             <summary>
             <b>Battlecry:</b> The next spell you cast costs (3) less and has <b>Spell Damage +3</b>.<br/>
-            7-Cost 7/7 Minion
+            6-Cost 6/6 Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Mage.TitanographerOsk_TitanographerOskToken10">
             <summary>
             <b>Battlecry:</b> Summon a random 6-Cost minion. Give it <b>Taunt</b> and <b>Lifesteal</b>.<br/>
-            7-Cost 7/7 Minion
+            6-Cost 6/6 Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Mage.TitanographerOsk_TitanographerOskToken11">
             <summary>
             <b>Battlecry:</b> Choose two enemy minions. Remove them from the game.<br/>
-            7-Cost 7/7 Minion
+            6-Cost 6/6 Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Mage.TitanographerOsk_TitanographerOskToken12">
             <summary>
             <b>Battlecry:</b> Gain +2/+1. Deal 4 damage to a random enemy.<br/>
-            7-Cost 7/7 Minion
+            6-Cost 6/6 Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Mage.TitanographerOsk_TitanographerOskToken13">
             <summary>
             <b>Battlecry:</b> Gain +1/+2. Draw a card.<br/>
-            7-Cost 7/7 Minion
+            6-Cost 6/6 Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Mage.TitanographerOsk_TitanographerOskToken14">
             <summary>
             <b>Battlecry:</b> Gain +3 Health and <b>Elusive</b>.<br/>
-            7-Cost 7/7 Minion
+            6-Cost 6/6 Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Mage.TitanographerOsk_TitanographerOskToken15">
             <summary>
             <b>Battlecry:</b> Deal 20 damage to another minion.<br/>
-            7-Cost 7/7 Minion
+            6-Cost 6/6 Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Mage.TitanographerOsk_TitanographerOskToken16">
             <summary>
             <b>Battlecry:</b> Deal 3 damage to all enemies and restore 6 Health to all friendly characters.<br/>
-            7-Cost 7/7 Minion
+            6-Cost 6/6 Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Mage.TitanographerOsk_TitanographerOskToken17">
             <summary>
             <b>Battlecry:</b> Summon two 6/6 Infernals.<br/>
-            7-Cost 7/7 Minion
+            6-Cost 6/6 Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Mage.TitanographerOsk_TitanographerOskToken18">
             <summary>
             <b>Battlecry:</b> Send all other minions into the Twisting Nether.<br/>
-            7-Cost 7/7 Minion
+            6-Cost 6/6 Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Mage.TitanographerOsk_TitanographerOskToken19">
             <summary>
             <b>Battlecry:</b> Summon two 3/3 Undead with <b>Taunt</b> and <b>Reborn</b>.<br/>
-            7-Cost 7/7 Minion
+            6-Cost 6/6 Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Mage.TitanographerOsk_TitanographerOskToken20">
             <summary>
             <b>Battlecry:</b> Gain +5 Health. Give your hero 5 Armor.<br/>
-            7-Cost 7/7 Minion
+            6-Cost 6/6 Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Mage.TitanographerOsk_TitanographerOskToken21">
             <summary>
             <b>Battlecry:</b> Gain +5 Attack. Give your hero +5 Attack this turn.<br/>
-            7-Cost 7/7 Minion
+            6-Cost 6/6 Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Mage.TitanographerOsk_TitanographerOskToken22">
             <summary>
             <b>Battlecry:</b> Gain +2/+2. Draw a weapon.<br/>
-            7-Cost 7/7 Minion
+            6-Cost 6/6 Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Mage.TitanographerOsk_TitanographerOskToken23">
             <summary>
             <b>Battlecry:</b> Fill your hand with 1/1 Chaotic Tendrils.<br/>
-            7-Cost 7/7 Minion
+            6-Cost 6/6 Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Mage.TitanographerOsk_TitanographerOskToken24">
             <summary>
             <b>Battlecry:</b> Force each enemy minion to attack a random enemy minion.<br/>
-            7-Cost 7/7 Minion
+            6-Cost 6/6 Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Mage.TitanographerOsk_TitanographerOskToken25">
             <summary>
             <b>Battlecry:</b> Take control of an enemy minion.<br/>
-            7-Cost 7/7 Minion
+            6-Cost 6/6 Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Mage.TitanographerOsk_TitanographerOskToken26">
             <summary>
             <b>Battlecry:</b> <b>Discover</b> a <b>Deathrattle</b> minion. It costs (3) less.<br/>
-            7-Cost 7/7 Minion
+            6-Cost 6/6 Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Mage.TitanographerOsk_TitanographerOskToken27">
             <summary>
             <b>Battlecry:</b> Reduce the Cost of all minions in your hand by (2).<br/>
-            7-Cost 7/7 Minion
+            6-Cost 6/6 Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Mage.TitanographerOsk_TitanographerOskToken28">
             <summary>
             <b>Battlecry:</b> Summon four 2/2 Elementals with <b>Taunt</b>.<br/>
-            7-Cost 7/7 Minion
+            6-Cost 6/6 Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Mage.TitanographerOsk_TitanographerOskToken29">
             <summary>
             <b>Battlecry:</b> Draw cards until your hand is full.<br/>
-            7-Cost 7/7 Minion
+            6-Cost 6/6 Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Mage.TitanographerOsk_TitanographerOskToken30">
             <summary>
             <b>Battlecry:</b> Restore your hero to full Health.<br/>
-            7-Cost 7/7 Minion
+            6-Cost 6/6 Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Mage.TitanographerOsk_TitanographerOskToken31">
             <summary>
             <b>Battlecry:</b> Refresh your Mana Crystals.<br/>
-            7-Cost 7/7 Minion
+            6-Cost 6/6 Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Mage.TheForbiddenSequence_TheOriginStoneToken">
@@ -128716,23 +128716,23 @@
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.SinrunnerBlanchy">
             <summary>
             Normal (this):<br/>
-            <b>Reborn</b>. This is <b>Reborn</b> with full Health and enchantments.<br/>
-            Tier-5 4/4 Undead/Beast Minion<br/>
+            <b>Reborn</b>. This is <b>Reborn</b> with full Health and enchantments in combat.<br/>
+            Tier-4 4/4 Undead/Beast Minion<br/>
             --------------------<br/>
             Triple:<br/>
-            <b>Reborn</b>. This is <b>Reborn</b> with full Health and enchantments.<br/>
-            Tier-5 8/8 Undead/Beast Minion
+            <b>Reborn</b>. This is <b>Reborn</b> with full Health and enchantments in combat.<br/>
+            Tier-4 8/8 Undead/Beast Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.SinrunnerBlanchy_SinrunnerBlanchy">
             <summary>
             Triple (this):<br/>
-            <b>Reborn</b>. This is <b>Reborn</b> with full Health and enchantments.<br/>
-            Tier-5 8/8 Undead/Beast Minion<br/>
+            <b>Reborn</b>. This is <b>Reborn</b> with full Health and enchantments in combat.<br/>
+            Tier-4 8/8 Undead/Beast Minion<br/>
             --------------------<br/>
             Normal:<br/>
-            <b>Reborn</b>. This is <b>Reborn</b> with full Health and enchantments.<br/>
-            Tier-5 4/4 Undead/Beast Minion
+            <b>Reborn</b>. This is <b>Reborn</b> with full Health and enchantments in combat.<br/>
+            Tier-4 4/4 Undead/Beast Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.SinrunnerBlanchy_RebornRemovedEnchantment">
@@ -130098,12 +130098,12 @@
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.EternalKnight">
             <summary>
             Normal (this):<br/>
-            Has +2/+1 for each friendly Eternal Knight that died this game <i>(wherever this is)</i>.<br/>
-            Tier-2 5/1 Undead Minion<br/>
+            Has +3/+1 for each friendly Eternal Knight that died this game <i>(wherever this is)</i>.<br/>
+            Tier-2 3/1 Undead Minion<br/>
             --------------------<br/>
             Triple:<br/>
-            Has +4/+2 for each friendly Eternal Knight that died this game <i>(wherever this is)</i>.<br/>
-            Tier-2 10/2 Undead Minion
+            Has +6/+2 for each friendly Eternal Knight that died this game <i>(wherever this is)</i>.<br/>
+            Tier-2 6/2 Undead Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.EternalKnight_EternalLegion">
@@ -130115,12 +130115,12 @@
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.EternalKnight_EternalKnight">
             <summary>
             Triple (this):<br/>
-            Has +4/+2 for each friendly Eternal Knight that died this game <i>(wherever this is)</i>.<br/>
-            Tier-2 10/2 Undead Minion<br/>
+            Has +6/+2 for each friendly Eternal Knight that died this game <i>(wherever this is)</i>.<br/>
+            Tier-2 6/2 Undead Minion<br/>
             --------------------<br/>
             Normal:<br/>
-            Has +2/+1 for each friendly Eternal Knight that died this game <i>(wherever this is)</i>.<br/>
-            Tier-2 5/1 Undead Minion
+            Has +3/+1 for each friendly Eternal Knight that died this game <i>(wherever this is)</i>.<br/>
+            Tier-2 3/1 Undead Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.EternalKnight_EternalKnightPlayerEnchantDnt">
@@ -130514,23 +130514,23 @@
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.CaptainSanders">
             <summary>
             Normal (this):<br/>
-            <b>Battlecry:</b> Make a friendly minion Golden.<br/>
-            Tier-7 7/7 Pirate Minion<br/>
+            <b>Battlecry:</b> Make a friendly Pirate Golden.<br/>
+            Tier-7 10/10 Pirate Minion<br/>
             --------------------<br/>
             Triple:<br/>
-            <b>Battlecry:</b> Make 2 friendly minions Golden.<br/>
-            Tier-7 14/14 Pirate Minion
+            <b>Battlecry:</b> Make 2 friendly Pirates Golden.<br/>
+            Tier-7 20/20 Pirate Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.CaptainSanders_CaptainSanders">
             <summary>
             Triple (this):<br/>
-            <b>Battlecry:</b> Make 2 friendly minions Golden.<br/>
-            Tier-7 14/14 Pirate Minion<br/>
+            <b>Battlecry:</b> Make 2 friendly Pirates Golden.<br/>
+            Tier-7 20/20 Pirate Minion<br/>
             --------------------<br/>
             Normal:<br/>
-            <b>Battlecry:</b> Make a friendly minion Golden.<br/>
-            Tier-7 7/7 Pirate Minion
+            <b>Battlecry:</b> Make a friendly Pirate Golden.<br/>
+            Tier-7 10/10 Pirate Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.Pufferquil">
@@ -134148,23 +134148,23 @@
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.ChampionOfSargeras">
             <summary>
             Normal (this):<br/>
-            Minions in the Tavern have +10/+10.<br/>
-            Tier-7 10/10 Demon Minion<br/>
+            <b>Battlecry and Deathrattle:</b> Minions in the Tavern have +5/+5 this game.<br/>
+            Tier-7 12/12 Demon Minion<br/>
             --------------------<br/>
             Triple:<br/>
-            Minions in the Tavern have +20/+20.<br/>
-            Tier-7 20/20 Demon Minion
+            <b>Battlecry and Deathrattle:</b> Minions in the Tavern have +10/+10 this game.<br/>
+            Tier-7 24/24 Demon Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.ChampionofSargeras_ChampionOfSargeras">
             <summary>
             Triple (this):<br/>
-            Minions in the Tavern have +20/+20.<br/>
-            Tier-7 20/20 Demon Minion<br/>
+            <b>Battlecry and Deathrattle:</b> Minions in the Tavern have +10/+10 this game.<br/>
+            Tier-7 24/24 Demon Minion<br/>
             --------------------<br/>
             Normal:<br/>
-            Minions in the Tavern have +10/+10.<br/>
-            Tier-7 10/10 Demon Minion
+            <b>Battlecry and Deathrattle:</b> Minions in the Tavern have +5/+5 this game.<br/>
+            Tier-7 12/12 Demon Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.ChampionofSargeras_PowerOfSargerasEnchantment">
@@ -134295,22 +134295,22 @@
             <summary>
             Normal (this):<br/>
             <b>Magnetic</b> <b>Reborn</b>, <b>Divine Shield</b>, <b>Taunt</b>, <b>Windfury</b><br/>
-            Tier-7 20/20 Mechanical Minion<br/>
+            Tier-7 30/30 Mechanical Minion<br/>
             --------------------<br/>
             Triple:<br/>
             <b>Magnetic</b> <b>Reborn</b>, <b>Divine Shield</b>, <b>Taunt</b>, <b>Windfury</b><br/>
-            Tier-7 40/40 Mechanical Minion
+            Tier-7 60/60 Mechanical Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.TheBoommobile_TheBoommobile1">
             <summary>
             Triple (this):<br/>
             <b>Magnetic</b> <b>Reborn</b>, <b>Divine Shield</b>, <b>Taunt</b>, <b>Windfury</b><br/>
-            Tier-7 40/40 Mechanical Minion<br/>
+            Tier-7 60/60 Mechanical Minion<br/>
             --------------------<br/>
             Normal:<br/>
             <b>Magnetic</b> <b>Reborn</b>, <b>Divine Shield</b>, <b>Taunt</b>, <b>Windfury</b><br/>
-            Tier-7 20/20 Mechanical Minion
+            Tier-7 30/30 Mechanical Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.TheBoommobile_TheBoommobile2">
@@ -135994,23 +135994,23 @@
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.MoroesStewardOfDeath">
             <summary>
             Normal (this):<br/>
-            <b><b>Reborn</b>. Deathrattle:</b> Give your Undead +3/+5.<br/>
-            Tier-5 5/3 Undead Minion<br/>
+            <b><b>Reborn</b>. Deathrattle:</b> Give your Undead +4/+6.<br/>
+            Tier-5 6/4 Undead Minion<br/>
             --------------------<br/>
             Triple:<br/>
-            <b><b>Reborn</b>. Deathrattle:</b> Give your Undead +6/+10.<br/>
-            Tier-5 10/6 Undead Minion
+            <b><b>Reborn</b>. Deathrattle:</b> Give your Undead +8/+12.<br/>
+            Tier-5 12/8 Undead Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.MoroesStewardofDeath_MoroesStewardOfDeath">
             <summary>
             Triple (this):<br/>
-            <b><b>Reborn</b>. Deathrattle:</b> Give your Undead +6/+10.<br/>
-            Tier-5 10/6 Undead Minion<br/>
+            <b><b>Reborn</b>. Deathrattle:</b> Give your Undead +8/+12.<br/>
+            Tier-5 12/8 Undead Minion<br/>
             --------------------<br/>
             Normal:<br/>
-            <b><b>Reborn</b>. Deathrattle:</b> Give your Undead +3/+5.<br/>
-            Tier-5 5/3 Undead Minion
+            <b><b>Reborn</b>. Deathrattle:</b> Give your Undead +4/+6.<br/>
+            Tier-5 6/4 Undead Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.MoroesStewardofDeath_StewardsDuty">
@@ -140319,7 +140319,7 @@
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.AutomatonPortrait">
             <summary>
             Get an Ancestral Automaton. <b>Start of Combat:</b> Summon an Ancestral Automaton.<br/>
-            6-Cost BattlegroundTrinket
+            7-Cost BattlegroundTrinket
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.RivendarePortrait">
@@ -140469,7 +140469,7 @@
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.LorewalkerScroll_LorewalkerScrollToken">
             <summary>
             Whenever you cast a spell on a minion, give it +7/+7.<br/>
-            2-Cost BattlegroundTrinket
+            4-Cost BattlegroundTrinket
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.InnkeepersStein">
@@ -140577,7 +140577,7 @@
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.AllianceKeychain">
             <summary>
             The first time a friendly minion dies each combat, give its maximum stats to a random friendly minion.<br/>
-            3-Cost BattlegroundTrinket
+            2-Cost BattlegroundTrinket
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.AllianceKeychain_AllianceFanEnchantment">
@@ -140637,7 +140637,7 @@
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.DesignerEyepatch">
             <summary>
             You only need 2 copies of a Pirate to make it Golden.<br/>
-            6-Cost BattlegroundTrinket
+            7-Cost BattlegroundTrinket
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.BoomController">
@@ -140661,7 +140661,7 @@
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.BloodGolemSticker">
             <summary>
             Whenever a friendly Quilboar dies, summon a Golem with stats equal to its <b>Blood Gems</b>. <i>(3 times per combat.)</i>3Whenever a friendly Quilboar dies, summon a Golem with stats equal to its <b>Blood Gems</b>. <i>({0} left!)</i><br/>
-            3-Cost BattlegroundTrinket
+            5-Cost BattlegroundTrinket
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.BloodGolemSticker_BloodGolemToken1">
@@ -140749,7 +140749,7 @@
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.NomiSticker_NomiStickerToken">
             <summary>
             After you play an Elemental, Elementals in the Tavern have +4/+4 this game.<br/>
-            2-Cost BattlegroundTrinket
+            0-Cost BattlegroundTrinket
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.FridgeMagnet">
@@ -140833,7 +140833,7 @@
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.ReflectivePendant">
             <summary>
             Get a plain copy of a random friendly minion. At the start of each turn, repeat this.<br/>
-            5-Cost BattlegroundTrinket
+            6-Cost BattlegroundTrinket
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.TickatusSticker">
@@ -140953,7 +140953,7 @@
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.GlowingGauntlet">
             <summary>
             Minions in the Tavern have +4/+4.<br/>
-            2-Cost BattlegroundTrinket
+            1-Cost BattlegroundTrinket
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.GlowingGauntlet_RunningTheGauntletEnchantment1">
@@ -140989,7 +140989,7 @@
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.GoblinWallet">
             <summary>
             At the end of each turn, increase your maximum Gold by 1.<br/>
-            0-Cost BattlegroundTrinket
+            1-Cost BattlegroundTrinket
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.GilneanThornedRose">
@@ -141043,7 +141043,7 @@
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.DalaranCheeseWheel_DalaranCheeseWheelToken">
             <summary>
             Minions in the Tavern have +{1}/+{1}. Upgrades every 4 times you <b>Refresh</b>. <i>({0} left!)</i><br/>
-            4-Cost BattlegroundTrinket
+            2-Cost BattlegroundTrinket
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.FeralTalisman">
@@ -141097,7 +141097,7 @@
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.DragonwingGlider">
             <summary>
             Whenever you play a card, give a friendly Dragon +3/+1.<br/>
-            4-Cost BattlegroundTrinket
+            2-Cost BattlegroundTrinket
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.DragonwingGlider_WinginItEnchantment1">
@@ -141169,7 +141169,7 @@
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.EssenceOfDreams">
             <summary>
             Get 2 Dreamer's Embraces. At the start of each turn, get 2 more.<br/>
-            6-Cost BattlegroundTrinket
+            7-Cost BattlegroundTrinket
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.RustyTrident">
@@ -141283,7 +141283,7 @@
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.RedeemerPortrait">
             <summary>
             Get a Nalaa the Redeemer. Tavern spells cost (1) less <i>(but not less than 1)</i>.<br/>
-            3-Cost BattlegroundTrinket
+            0-Cost BattlegroundTrinket
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.LavaLamp">
@@ -141355,7 +141355,7 @@
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.BlingtronsSunglasses">
             <summary>
             After you summon a Mech in combat, give a friendly Mech <b>Divine Shield</b>.<br/>
-            6-Cost BattlegroundTrinket
+            3-Cost BattlegroundTrinket
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.BlingtronsSunglasses_BlingBlingEnchantment">
@@ -141379,7 +141379,7 @@
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.TheEyeOfDalaran">
             <summary>
             Whenever a friendly minion with no type dies, get a random Tavern spell.<br/>
-            6-Cost BattlegroundTrinket
+            3-Cost BattlegroundTrinket
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.ShamanPrayerBeads">
@@ -141427,7 +141427,7 @@
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.GreatBoarSticker">
             <summary>
             Your <b>Blood Gems</b> give an extra +3 Attack.<br/>
-            1-Cost BattlegroundTrinket
+            0-Cost BattlegroundTrinket
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.GreatBoarSticker_GreatBoarStickerToken">
@@ -141505,7 +141505,7 @@
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.BronzeTimepiece">
             <summary>
             <b>Start of Combat:</b> Give each of your minions Health equal to half its Attack.<br/>
-            3-Cost BattlegroundTrinket
+            5-Cost BattlegroundTrinket
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.BronzeTimepiece_PreservedInBronzeEnchantment">
@@ -141989,22 +141989,22 @@
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.HoloRover">
             <summary>
             Normal (this):<br/>
-            Whenever this attacks, get a random <b>Magnetic</b> Mech.<br/>
+            <b>Divine Shield</b> Whenever this attacks, get a random <b>Magnetic</b> Mech.<br/>
             Tier-5 4/8 Mechanical Minion<br/>
             --------------------<br/>
             Triple:<br/>
-            Whenever this attacks, get 2 random <b>Magnetic</b> Mechs.<br/>
+            <b>Divine Shield</b> Whenever this attacks, get 2 random <b>Magnetic</b> Mechs.<br/>
             Tier-5 8/16 Mechanical Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.HoloRover_HoloRover">
             <summary>
             Triple (this):<br/>
-            Whenever this attacks, get 2 random <b>Magnetic</b> Mechs.<br/>
+            <b>Divine Shield</b> Whenever this attacks, get 2 random <b>Magnetic</b> Mechs.<br/>
             Tier-5 8/16 Mechanical Minion<br/>
             --------------------<br/>
             Normal:<br/>
-            Whenever this attacks, get a random <b>Magnetic</b> Mech.<br/>
+            <b>Divine Shield</b> Whenever this attacks, get a random <b>Magnetic</b> Mech.<br/>
             Tier-5 4/8 Mechanical Minion
             </summary>
         </member>
@@ -142479,23 +142479,23 @@
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.BellowingTyrant">
             <summary>
             Normal (this):<br/>
-            <b>Taunt</b> Has +3/+2 for each Beast you've summoned this game <i>(wherever this is)</i>.<br/>
-            Tier-7 3/2 Beast Minion<br/>
+            <b>Taunt</b> Has +4/+3 for each Beast you've summoned this game <i>(wherever this is)</i>.<br/>
+            Tier-7 4/3 Beast Minion<br/>
             --------------------<br/>
             Triple:<br/>
-            <b>Taunt</b> Has +6/+4 for each Beast you've summoned this game <i>(wherever this is)</i>.<br/>
-            Tier-7 6/4 Beast Minion
+            <b>Taunt</b> Has +8/+6 for each Beast you've summoned this game <i>(wherever this is)</i>.<br/>
+            Tier-7 8/6 Beast Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.BellowingTyrant_BellowingTyrant">
             <summary>
             Triple (this):<br/>
-            <b>Taunt</b> Has +6/+4 for each Beast you've summoned this game <i>(wherever this is)</i>.<br/>
-            Tier-7 6/4 Beast Minion<br/>
+            <b>Taunt</b> Has +8/+6 for each Beast you've summoned this game <i>(wherever this is)</i>.<br/>
+            Tier-7 8/6 Beast Minion<br/>
             --------------------<br/>
             Normal:<br/>
-            <b>Taunt</b> Has +3/+2 for each Beast you've summoned this game <i>(wherever this is)</i>.<br/>
-            Tier-7 3/2 Beast Minion
+            <b>Taunt</b> Has +4/+3 for each Beast you've summoned this game <i>(wherever this is)</i>.<br/>
+            Tier-7 4/3 Beast Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.BellowingTyrant_TyrannicalEnchantment">
@@ -143638,22 +143638,22 @@
             <summary>
             Normal (this):<br/>
             When you sell this, get a copy of a Tavern spell in the Tavern.<br/>
-            Tier-5 3/6 Demon Minion<br/>
+            Tier-4 3/6 Demon Minion<br/>
             --------------------<br/>
             Triple:<br/>
             When you sell this, get 2 copies of a Tavern spell in the Tavern.<br/>
-            Tier-5 6/12 Demon Minion
+            Tier-4 6/12 Demon Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.TardyTraveler_TardyTraveler">
             <summary>
             Triple (this):<br/>
             When you sell this, get 2 copies of a Tavern spell in the Tavern.<br/>
-            Tier-5 6/12 Demon Minion<br/>
+            Tier-4 6/12 Demon Minion<br/>
             --------------------<br/>
             Normal:<br/>
             When you sell this, get a copy of a Tavern spell in the Tavern.<br/>
-            Tier-5 3/6 Demon Minion
+            Tier-4 3/6 Demon Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.AllianceFlag">
@@ -143826,8 +143826,8 @@
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.BladeOfAmbition">
             <summary>
-            Choose a minion. Set its Attack and Health to match the highest in your warband.<br/>
-            Tier-7 6-Cost BattlegroundSpell
+            Choose a friendly minion. Set its Attack and Health to match the highest in your warband.<br/>
+            Tier-7 7-Cost BattlegroundSpell
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.BladeofAmbition_AmbitiousEnchantment">
@@ -146097,23 +146097,23 @@
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.FaunaWhisperer">
             <summary>
             Normal (this):<br/>
-            At the end of your turn, cast Natural Blessing on the minion to the left of this.<br/>
-            Tier-6 3/8 Naga Minion<br/>
+            At the end of your turn, cast Natural Blessing on adjacent minions.<br/>
+            Tier-6 4/9 Naga Minion<br/>
             --------------------<br/>
             Triple:<br/>
-            At the end of your turn, cast Natural Blessing on adjacent minions.<br/>
-            Tier-6 6/16 Naga Minion
+            At the end of your turn, cast Natural Blessing on adjacent minions twice.<br/>
+            Tier-6 8/18 Naga Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.FaunaWhisperer_FaunaWhisperer">
             <summary>
             Triple (this):<br/>
-            At the end of your turn, cast Natural Blessing on adjacent minions.<br/>
-            Tier-6 6/16 Naga Minion<br/>
+            At the end of your turn, cast Natural Blessing on adjacent minions twice.<br/>
+            Tier-6 8/18 Naga Minion<br/>
             --------------------<br/>
             Normal:<br/>
-            At the end of your turn, cast Natural Blessing on the minion to the left of this.<br/>
-            Tier-6 3/8 Naga Minion
+            At the end of your turn, cast Natural Blessing on adjacent minions.<br/>
+            Tier-6 4/9 Naga Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.SandSwirler">
@@ -146275,23 +146275,23 @@
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.ShoalfinMystic">
             <summary>
             Normal (this):<br/>
-            <b>Battlecry:</b> Your Tavern spells that give stats grant an extra +1/+1 this game.<br/>
-            Tier-5 5/5 Murloc Minion<br/>
+            When you sell this, your Tavern spells that give stats grant an extra +2/+1 this game<br/>
+            Tier-4 4/4 Murloc Minion<br/>
             --------------------<br/>
             Triple:<br/>
-            <b>Battlecry:</b> Your Tavern spells that give stats grant an extra +2/+2 this game.<br/>
-            Tier-5 10/10 Murloc Minion
+            When you sell this, your Tavern spells that give stats grant an extra +4/+2 this game<br/>
+            Tier-4 8/8 Murloc Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.ShoalfinMystic_ShoalfinMystic">
             <summary>
             Triple (this):<br/>
-            <b>Battlecry:</b> Your Tavern spells that give stats grant an extra +2/+2 this game.<br/>
-            Tier-5 10/10 Murloc Minion<br/>
+            When you sell this, your Tavern spells that give stats grant an extra +4/+2 this game<br/>
+            Tier-4 8/8 Murloc Minion<br/>
             --------------------<br/>
             Normal:<br/>
-            <b>Battlecry:</b> Your Tavern spells that give stats grant an extra +1/+1 this game.<br/>
-            Tier-5 5/5 Murloc Minion
+            When you sell this, your Tavern spells that give stats grant an extra +2/+1 this game<br/>
+            Tier-4 4/4 Murloc Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.TempTavernSpellPlayerEnchantDnt">
@@ -146370,22 +146370,22 @@
             <summary>
             Normal (this):<br/>
             <b>Deathrattle:</b> Get a Staff of Enrichment.<br/>
-            Tier-4 4/2 Demon Minion<br/>
+            Tier-5 5/2 Demon Minion<br/>
             --------------------<br/>
             Triple:<br/>
             <b>Deathrattle:</b> Get 2 Staffs of Enrichment.<br/>
-            Tier-4 8/4 Demon Minion
+            Tier-5 10/4 Demon Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.Shadowdancer_Shadowdancer">
             <summary>
             Triple (this):<br/>
             <b>Deathrattle:</b> Get 2 Staffs of Enrichment.<br/>
-            Tier-4 8/4 Demon Minion<br/>
+            Tier-5 10/4 Demon Minion<br/>
             --------------------<br/>
             Normal:<br/>
             <b>Deathrattle:</b> Get a Staff of Enrichment.<br/>
-            Tier-4 4/2 Demon Minion
+            Tier-5 5/2 Demon Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.DreamInquisitor">
@@ -146446,7 +146446,7 @@
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.GreaterPouches">
             <summary>
-            On Turns 6 and 9, buy a Greater <b>Trinket</b>. There are no Lesser <b>Trinkets</b> in this game.<br/>
+            On Turns 8 and 9, buy a Greater <b>Trinket</b>. There are no Lesser <b>Trinkets</b> in this game.<br/>
             BattlegroundAnomaly
             </summary>
         </member>
@@ -146501,7 +146501,7 @@
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.SpellPoweredWrench">
             <summary>
             After you play a <b>Magnetic</b> minion, get a random Tavern spell.<br/>
-            5-Cost BattlegroundTrinket
+            4-Cost BattlegroundTrinket
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.DivineSignet">
@@ -146585,7 +146585,7 @@
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.GildedAnchor_GildedAnchorToken">
             <summary>
             At the end of each turn, give your Golden minions +10/+10.<br/>
-            1-Cost BattlegroundTrinket
+            0-Cost BattlegroundTrinket
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.SharkCannon">
@@ -146633,7 +146633,7 @@
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.ReusableBatteries">
             <summary>
             The first time you buy a minion each turn, get a <b>Magnetic</b> Satellite with its stats.<br/>
-            4-Cost BattlegroundTrinket
+            2-Cost BattlegroundTrinket
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.ReusableBatteries_ReusableEnchantment">
@@ -146681,7 +146681,7 @@
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.TurbochargedDrill">
             <summary>
             Get 5 different <b>Magnetic</b> Mechs of ANY Tier.<br/>
-            2-Cost BattlegroundTrinket
+            0-Cost BattlegroundTrinket
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.CzarinaPortrait">
@@ -146711,7 +146711,7 @@
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.BassgillPortrait">
             <summary>
             Get a Bassgill. After you summon a Murloc in combat, give it <b>Divine Shield</b>.<br/>
-            1-Cost BattlegroundTrinket
+            3-Cost BattlegroundTrinket
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.BassgillPortrait_SolidBassEnchantment">
@@ -146765,7 +146765,7 @@
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.InnkeepersHearth">
             <summary>
             <b>Discover</b> a minion of your Tier. Set its stats to 15/15.<br/>
-            2-Cost BattlegroundTrinket
+            1-Cost BattlegroundTrinket
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.InnkeepersHearth_HearthsideEnchantment">
@@ -146789,7 +146789,7 @@
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.FaerieDragonScale">
             <summary>
             Whenever a friendly Dragon attacks, give it <b>Divine Shield</b>. <i>(3 times per combat.)</i>3Whenever a friendly Dragon attacks, give it <b>Divine Shield</b>. <i>({0} left!)</i><br/>
-            5-Cost BattlegroundTrinket
+            6-Cost BattlegroundTrinket
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.FaerieDragonScale_FaerieScaleEnchantment">
@@ -146807,7 +146807,7 @@
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.ValdrakkenWindChimes">
             <summary>
             Your <b>Start of Combat</b> effects trigger twice.<br/>
-            6-Cost BattlegroundTrinket
+            7-Cost BattlegroundTrinket
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.GuidingCandle">
@@ -146843,7 +146843,7 @@
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.TarecgosaSticker">
             <summary>
             Your left- and right-most Dragons permanently keep enchantments from combat.<br/>
-            2-Cost BattlegroundTrinket
+            1-Cost BattlegroundTrinket
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.YulonSticker">
@@ -146860,8 +146860,8 @@
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.MarvelousMushroom">
             <summary>
-            Your Tavern spells that give stats grant an extra +{0} Health. At the start of each turn, increase this by 1.<br/>
-            0-Cost BattlegroundTrinket
+            'Your Tavern spells that give stats grant an extra +{0}/+{1}. At the start of each turn, improve this.<br/>
+            2-Cost BattlegroundTrinket
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.TheotarSticker">
@@ -146879,7 +146879,7 @@
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.HeartOfTheForest">
             <summary>
             Your Tavern spells that give stats grant an extra +2/+1.<br/>
-            2-Cost BattlegroundTrinket
+            0-Cost BattlegroundTrinket
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.HeartoftheForest_HeartOfTheForestToken">
@@ -146927,7 +146927,7 @@
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.CuratorSticker">
             <summary>
             Get a 20/20 Mishmash and a 20/20 Amalgam with <b>Venomous</b>.<br/>
-            2-Cost BattlegroundTrinket
+            1-Cost BattlegroundTrinket
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.CuratorSticker_MassiveMenagerieEnchantment">
@@ -146981,7 +146981,7 @@
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.BazaarSticker">
             <summary>
             1 Tavern spell each turn costs Health instead of Gold to buy. <i>(1 left!)</i><br/>
-            3-Cost BattlegroundTrinket
+            2-Cost BattlegroundTrinket
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.WaxImprinter">
@@ -146999,13 +146999,13 @@
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.FelementalPortrait">
             <summary>
             Get a Felemental. Your Felementals also trigger on <b>Deathrattle</b>.<br/>
-            1-Cost BattlegroundTrinket
+            0-Cost BattlegroundTrinket
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.SellementalPortrait">
             <summary>
             Get a Sellemental. At the start of each turn, get another.<br/>
-            3-Cost BattlegroundTrinket
+            5-Cost BattlegroundTrinket
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.WindfallPortrait">
@@ -147101,7 +147101,7 @@
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.ShadowyElixir">
             <summary>
             Gain 5 Armor. After you play a Demon, deal 1 damage to your hero.<br/>
-            1-Cost BattlegroundTrinket
+            0-Cost BattlegroundTrinket
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.RecyclingSticker">
@@ -147137,7 +147137,7 @@
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.VibrantBubble">
             <summary>
             <b>Spellcraft:</b> Give a Murloc a random <b>Bonus Keyword</b>.<br/>
-            2-Cost BattlegroundTrinket
+            3-Cost BattlegroundTrinket
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.VibrantBubble_VibrantBubbleToken">
@@ -147203,7 +147203,7 @@
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.ThaumaturgistPortrait">
             <summary>
             Get a Thaumaturgist. Your Thaumaturgists' <b>Spellcrafts</b> are permanent.<br/>
-            4-Cost BattlegroundTrinket
+            2-Cost BattlegroundTrinket
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.CharmingPanpipes">
@@ -147245,7 +147245,7 @@
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.VashjirAnemone">
             <summary>
             <b>Start of Combat:</b> Give your Naga +{1} Health. <i>(Improved by every 4 spells you've cast this game!)</i>4<b>Start of Combat:</b> Give your Naga +{1} Health. <i>(Cast {0}/4 spells to improve!)</i><br/>
-            3-Cost BattlegroundTrinket
+            1-Cost BattlegroundTrinket
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.VashjirAnemone_VashjirVitalityEnchantment">
@@ -147257,7 +147257,7 @@
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.WearyPortrait">
             <summary>
             Get a Weary Mage. Your Weary Mages' <b>Spellcrafts</b> are permanent.<br/>
-            4-Cost BattlegroundTrinket
+            5-Cost BattlegroundTrinket
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.DazzlingDagger">
@@ -147281,7 +147281,7 @@
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.EmpowermentPortrait">
             <summary>
             Get an Azerite Empowerment. At the start of each turn, get another.<br/>
-            2-Cost BattlegroundTrinket
+            0-Cost BattlegroundTrinket
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.GrittyPortrait">
@@ -147323,7 +147323,7 @@
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.CrochetedSungill">
             <summary>
             After your last minion dies each combat, summon the highest-Health minion from your hand.<br/>
-            1-Cost BattlegroundTrinket
+            0-Cost BattlegroundTrinket
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.BehemothPortrait">
@@ -148328,22 +148328,22 @@
             <summary>
             Normal (this):<br/>
             <b>Battlecry:</b> Increase your team's maximum Gold by (1).<br/>
-            Tier-4 5/2 Dragon Minion<br/>
+            Tier-5 6/2 Dragon Minion<br/>
             --------------------<br/>
             Triple:<br/>
             <b>Battlecry:</b> Increase your team's maximum Gold by (2).<br/>
-            Tier-4 10/4 Dragon Minion
+            Tier-5 12/4 Dragon Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.SelflessSightseer_SelflessSightseer">
             <summary>
             Triple (this):<br/>
             <b>Battlecry:</b> Increase your team's maximum Gold by (2).<br/>
-            Tier-4 10/4 Dragon Minion<br/>
+            Tier-5 12/4 Dragon Minion<br/>
             --------------------<br/>
             Normal:<br/>
             <b>Battlecry:</b> Increase your team's maximum Gold by (1).<br/>
-            Tier-4 5/2 Dragon Minion
+            Tier-5 6/2 Dragon Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.SelflessSightseer_SelflessSightseerGoldenSpellDnt">
@@ -179705,9 +179705,9 @@
             Enchantment
             </summary>
         </member>
-        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.DopEmergencyEnchant2CorePlaceholderEnchantment">
+        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.EverburningCorePlaceholderEnchantment">
             <summary>
-            Use this enchant (present but unused in client builds for emergency hotfixes) when we need to add an enchantment to a hotfix.<br/>
+            Get Everburning Phoenix at the end of the turn.<br/>
             Enchantment
             </summary>
         </member>
@@ -181551,7 +181551,7 @@
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.MenagerieJug_GulpOfTeaEnchantmentWONDERS">
             <summary>
-            +3/+3.<br/>
+            +2/+2.<br/>
             Enchantment
             </summary>
         </member>
@@ -187751,7 +187751,7 @@
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Paladin.HotSpringGlider_WeeeeeEnchantment">
             <summary>
-            Your next Murloc this turn costs (2) less.<br/>
+            Your next Murloc this turn costs (1) less.<br/>
             Enchantment
             </summary>
         </member>
@@ -191123,13 +191123,13 @@
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Priest.ReachEquilibrium_CleanseTheShadowToken">
             <summary>
-            <b>Quest:</b> Cast 5 Holy spells. <b>Reward:</b> Life's Breath.<br/>
+            <b>Quest:</b> Cast 4 Holy spells. <b>Reward:</b> Life's Breath.<br/>
             1-Cost Spell
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Priest.ReachEquilibrium_CorruptTheLightToken">
             <summary>
-            <b>Quest:</b> Cast 5 Shadow spells. <b>Reward:</b> Death's Touch.<br/>
+            <b>Quest:</b> Cast 4 Shadow spells. <b>Reward:</b> Death's Touch.<br/>
             1-Cost Spell
             </summary>
         </member>
@@ -195347,7 +195347,7 @@
         <member name="F:HearthDb.CardIds.NonCollectible.Rogue.LieinWait_MasterDuskToken">
             <summary>
             <b>Battlecry:</b> Summon two 3/3 Ninjas with <b>Stealth</b>. Your Ninjas now shuffle back into your deck when they die.<br/>
-            5-Cost Hero
+            3-Cost Hero
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Rogue.LieinWait_TortollanNinjaToken">
@@ -199353,7 +199353,7 @@
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Shaman.SpiritoftheMountain_AshalonRidgeGuardianToken">
             <summary>
-            <b>Battlecry:</b> <b>Adapt</b> twice. For the rest of the game, give minions you play those <b>Adaptations</b>.<br/>
+            <b>Rush</b>. <b>Battlecry:</b> <b>Adapt</b> twice. For the rest of the game, give minions you play those <b><b>Adapt</b>ations</b>.<br/>
             5-Cost 8/8 Elemental/Beast Minion
             </summary>
         </member>
@@ -203718,7 +203718,7 @@
         <member name="F:HearthDb.CardIds.NonCollectible.Warlock.EscapetheUnderfel_UnderfelRiftToken1">
             <summary>
             Open a Rift to the Underfel. Throw a card in to summon 2 random Fel Beasts. <i>(Once per turn.)</i><br/>
-            5-Cost Spell
+            3-Cost Spell
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Warlock.EscapetheUnderfel_UnderfelRiftToken2">
