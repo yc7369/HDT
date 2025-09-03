@@ -166,6 +166,24 @@
             2-Cost Spell
             </summary>
         </member>
+        <member name="F:HearthDb.CardIds.Collectible.Deathknight.StoryOfUmbra">
+            <summary>
+            <b>Discover</b> a <b>Deathrattle</b> minion that costs (5) or more. Summon it and trigger its <b>Deathrattle</b>.<br/>
+            7-Cost Spell
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.Collectible.Deathknight.HollowDirehorn">
+            <summary>
+            <b>Rush</b> After a friendly minion dies, spend 3 <b>Corpses</b> to gain <b>Reborn</b>.<br/>
+            5-Cost 5/4 Beast/Undead Minion
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.Collectible.Deathknight.SoulrestCeremony">
+            <summary>
+            Give your minions +1 Attack and <b>Rush</b>. They die at the end of your turn.<br/>
+            1-Cost Spell
+            </summary>
+        </member>
         <member name="F:HearthDb.CardIds.Collectible.Deathknight.HideousHusk">
             <summary>
             Your Leeches steal 1 more Health from their victims. <b>Battlecry:</b> Summon two 0/2 Leeches.<br/>
@@ -2230,6 +2248,24 @@
             4-Cost Spell
             </summary>
         </member>
+        <member name="F:HearthDb.CardIds.Collectible.Demonhunter.HornOfFeasting">
+            <summary>
+            Summon three 2/1 Raptors with <b>Rush</b>. <b>Outcast:</b> Give them <b>Immune</b> while attacking this turn.<br/>
+            4-Cost Spell
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.Collectible.Demonhunter.SkittishSaucier">
+            <summary>
+            <b>Battlecry:</b> Reduce the Cost of adjacent cards in your hand by (1).<br/>
+            3-Cost 4/2 Minion
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.Collectible.Demonhunter.DiabolusRex">
+            <summary>
+            <b>Kindred:</b> Deal 6 damage to your opponent's left and right-most minions.<br/>
+            6-Cost 6/5 Beast/Demon Minion
+            </summary>
+        </member>
         <member name="F:HearthDb.CardIds.Collectible.Demonhunter.LineHopper">
             <summary>
             Your <b>Outcast</b> cards cost (1) less.<br/>
@@ -2699,6 +2735,12 @@
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.Collectible.Demonhunter.IllidanStormrage_ArachnidKerriganHeroHeroSkins">
+            <summary>
+            (No Text)<br/>
+            0-Cost Hero
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.Collectible.Demonhunter.IllidanStormrageHeroic_SecretDestinyArannaHeroHeroSkins">
             <summary>
             (No Text)<br/>
             0-Cost Hero
@@ -4534,6 +4576,24 @@
             3-Cost 3/2 Minion
             </summary>
         </member>
+        <member name="F:HearthDb.CardIds.Collectible.Druid.LongneckEgg">
+            <summary>
+            <b>Deathrattle:</b> Summon a 1/2 Beast. Give your minions +1/+1.<br/>
+            2-Cost 0/2 Minion
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.Collectible.Druid.Seismopod">
+            <summary>
+            <b>Taunt</b>, <b>Elusive</b> <b>Deathrattle:</b> Give all minions in your hand and deck +3/+3.<br/>
+            9-Cost 9/9 Beast Minion
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.Collectible.Druid.PantherMask">
+            <summary>
+            Set a minion's stats to 5/4 and give it <b>Stealth</b>. Draw 2 cards.<br/>
+            4-Cost Spell
+            </summary>
+        </member>
         <member name="F:HearthDb.CardIds.Collectible.Druid.LunarEclipse">
             <summary>
             Deal $3 damage to a minion. Your next spell this turn costs (2) less.<br/>
@@ -5261,6 +5321,12 @@
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.Collectible.Druid.MalfurionStormrage_DinoDreamerYseraHeroHeroSkins">
+            <summary>
+            (No Text)<br/>
+            0-Cost Hero
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.Collectible.Druid.MalfurionStormrage_OrweynaHeroHeroSkinsEnchantment">
             <summary>
             (No Text)<br/>
             0-Cost Hero
@@ -7672,6 +7738,24 @@
             6-Cost 4/6 Elemental Minion
             </summary>
         </member>
+        <member name="F:HearthDb.CardIds.Collectible.Hunter.DevilsaurMask">
+            <summary>
+            Set a minion's stats to 8/8. Give it <b>Charge</b>.<br/>
+            8-Cost Spell
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.Collectible.Hunter.Ankylodon">
+            <summary>
+            <b><b>Taunt</b>. Deathrattle:</b> Summon two random 3-Cost Beasts. They attack random enemies.<br/>
+            8-Cost 7/7 Beast Minion
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.Collectible.Hunter.RaptorNestNurse">
+            <summary>
+            <b>Battlecry:</b> Get a random 1-Cost minion. <b><b>Deathrattle:</b> </b>Get a random 1-Cost spell.<br/>
+            1-Cost 1/1 Minion
+            </summary>
+        </member>
         <member name="F:HearthDb.CardIds.Collectible.Hunter.DancingCobra">
             <summary>
             <b>Corrupt:</b> Gain <b>Poisonous</b>.<br/>
@@ -8423,6 +8507,12 @@
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.Collectible.Hunter.Rexxar_MonsterSlayerVivianHeroHeroSkins">
+            <summary>
+            (No Text)<br/>
+            0-Cost Hero
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.Collectible.Hunter.Rexxar_VoidAlleriaHeroHeroSkinsEnchantment">
             <summary>
             (No Text)<br/>
             0-Cost Hero
@@ -10940,6 +11030,24 @@
             <summary>
             Costs (1) less for each spell you've cast while holding this.<br/>
             5-Cost 5/5 Elemental/Naga Minion
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.Collectible.Mage.Techysaurus">
+            <summary>
+            <b>Taunt</b>. Costs (1) less for each card you played this game that didn't start in your deck.<br/>
+            7-Cost 3/6 Beast/Mechanical Minion
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.Collectible.Mage.TributeDance">
+            <summary>
+            Choose a minion. Choose a different minion to transform it into.<br/>
+            5-Cost Spell
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.Collectible.Mage.SheepMask">
+            <summary>
+            Set a minion's stats to 1/1 and give it "<b>Deathrattle:</b> Deal 2 damage to all minions."<br/>
+            4-Cost Spell
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.Collectible.Mage.ConfectionCyclone">
@@ -16927,6 +17035,36 @@
             <summary>
             <b>Battlecry:</b> If your deck started with no duplicates, <b>Discover</b> an Elemental to summon. Add the others to your hand.<br/>
             7-Cost 5/6 Minion
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.Collectible.Neutral.TheEggOfKhelos">
+            <summary>
+            <b>Deathrattle:</b> Summon a slightly cracked Egg. <i>(Break 5 times to hatch into a 20/20 Beast!)</i><br/>
+            3-Cost 0/3 Minion
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.Collectible.Neutral.HolyEggbearer">
+            <summary>
+            <b>Battlecry:</b> Draw a 0-Attack minion.<br/>
+            2-Cost 1/2 Minion
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.Collectible.Neutral.HerbivoreAssistant">
+            <summary>
+            <b>Battlecry:</b> Give a friendly Beast +2/+2 and <b>Rush</b>.<br/>
+            3-Cost 3/2 Minion
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.Collectible.Neutral.BeastSpeakerTaka">
+            <summary>
+            <b>Battlecry:</b> <b>Discover</b> a <b>Legendary</b> Beast from any class to gain its stats. <b>Deathrattle:</b> Summon it.<br/>
+            7-Cost 2/2 Minion
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.Collectible.Neutral.CraterExperiment">
+            <summary>
+            <b>Kindred:</b> Summon a copy of this.<br/>
+            5-Cost 3/4 All Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.Collectible.Neutral.NzothGodOfTheDeep">
@@ -25958,6 +26096,24 @@
             4-Cost 3/4 Beast/Undead Minion
             </summary>
         </member>
+        <member name="F:HearthDb.CardIds.Collectible.Paladin.Firegill">
+            <summary>
+            <b>Kindred:</b> Give your other minions <b>Rush</b>.<br/>
+            2-Cost 3/2 Murloc/Elemental Minion
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.Collectible.Paladin.HatchingCeremony">
+            <summary>
+            At the end of your next turn, give your minions +2/+2.<br/>
+            3-Cost Spell
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.Collectible.Paladin.HerosWelcome">
+            <summary>
+            <b>Discover</b> a <b>Legendary</b> minion to summon. Set its stats to 10/10.<br/>
+            8-Cost Spell
+            </summary>
+        </member>
         <member name="F:HearthDb.CardIds.Collectible.Paladin.CarouselGryphon">
             <summary>
             <b>Divine Shield</b> <b>Corrupt:</b> Gain +3/+3 and <b>Taunt</b>.<br/>
@@ -26703,6 +26859,12 @@
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.Collectible.Paladin.UtherLightbringer_AdventureFinleyHeroHeroSkinsEnchantment">
+            <summary>
+            (No Text)<br/>
+            0-Cost Hero
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.Collectible.Paladin.UtherLightbringer_FaerinLotharHeroHeroSkins">
             <summary>
             (No Text)<br/>
             0-Cost Hero
@@ -29204,6 +29366,24 @@
             3-Cost Spell
             </summary>
         </member>
+        <member name="F:HearthDb.CardIds.Collectible.Priest.RitualOfLife">
+            <summary>
+            <b>Discover</b> a 3-Cost minion. Summon a 2/2 copy of it.<br/>
+            2-Cost Spell
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.Collectible.Priest.BehemothMask">
+            <summary>
+            Set a minion's stats to 8/10 and give it <b>Lifesteal</b>. Force a random enemy minion to attack it.<br/>
+            7-Cost Spell
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.Collectible.Priest.Atlasaurus">
+            <summary>
+            <b>Taunt</b>. <b>Deathrattle:</b> Summon a random <b>Taunt</b> minion that costs (5) or more.<br/>
+            8-Cost 5/10 Beast Minion
+            </summary>
+        </member>
         <member name="F:HearthDb.CardIds.Collectible.Priest.BloodOfGhuun">
             <summary>
             <b>Taunt</b> At the end of your turn, summon a 5/5 copy of a minion in your deck.<br/>
@@ -29967,6 +30147,12 @@
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.Collectible.Priest.AnduinWrynn_FieldMedicXyrellaHeroHeroSkins">
+            <summary>
+            (No Text)<br/>
+            0-Cost Hero
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.Collectible.Priest.AnduinWrynn_XalatathHeroHeroSkins">
             <summary>
             (No Text)<br/>
             0-Cost Hero
@@ -32406,6 +32592,24 @@
             <summary>
             Get a random Golden Pirate and Elemental from other classes.<br/>
             1-Cost Spell
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.Collectible.Rogue.MirrexTheCrystalline">
+            <summary>
+            While in your hand, this is a 3/3 copy of the last minion your opponent played.<br/>
+            3-Cost 3/3 Beast/Elemental Minion
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.Collectible.Rogue.CrystalTusk">
+            <summary>
+            <b>Battlecry:</b> Shuffle the left- most card in your hand into your deck. <b>Deathrattle:</b> Draw 2 cards.<br/>
+            2-Cost Weapon
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.Collectible.Rogue.CostumeMerchant">
+            <summary>
+            <b>Battlecry:</b> Get a random Mask from another class. <b>Combo:</b> It costs (2) less.<br/>
+            3-Cost 1/3 Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.Collectible.Rogue.TenwuOfTheRedSmoke">
@@ -35534,6 +35738,24 @@
             4-Cost Spell
             </summary>
         </member>
+        <member name="F:HearthDb.CardIds.Collectible.Shaman.FireBreath">
+            <summary>
+            Deal $4 damage. Give your Elementals +1/+1.<br/>
+            3-Cost Spell
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.Collectible.Shaman.Tortotem">
+            <summary>
+            At the end of your turn, get a random minion with multiple minion types.<br/>
+            2-Cost 0/4 Totem Minion
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.Collectible.Shaman.ChillspineStegodon">
+            <summary>
+            <b>Battlecry:</b> Deal 2 damage to two random enemy minions. <b>Kindred:</b> And <b>Freeze</b> them.<br/>
+            4-Cost 3/4 Beast/Elemental Minion
+            </summary>
+        </member>
         <member name="F:HearthDb.CardIds.Collectible.Shaman.Revolve">
             <summary>
             Transform all minions into random ones with the same Cost.<br/>
@@ -36285,6 +36507,12 @@
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.Collectible.Shaman.Thrall_CrystalCarverDisidraHeroHeroSkins">
+            <summary>
+            (No Text)<br/>
+            0-Cost Hero
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.Collectible.Shaman.Thrall_WorldShamanThrallHeroHeroSkins">
             <summary>
             (No Text)<br/>
             0-Cost Hero
@@ -38712,6 +38940,24 @@
             <summary>
             <b>Freeze</b> a minion and its neighbors. Deal damage to your hero equal to the number <b>Frozen</b>.<br/>
             1-Cost Spell
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.Collectible.Warlock.PossessedAnimancer">
+            <summary>
+            <b>Deathrattle:</b> Summon a random Beast from your deck. Give it <b>Lifesteal</b>.<br/>
+            6-Cost 2/2 Minion
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.Collectible.Warlock.Asphyxiodon">
+            <summary>
+            <b>Taunt</b>. At the end of your turn, deal 5 damage to a random enemy minion.<br/>
+            8-Cost 6/10 Beast/Demon Minion
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.Collectible.Warlock.BatMask">
+            <summary>
+            Set a friendly minion's stats to 1/1. Fill your board with copies of it.<br/>
+            8-Cost Spell
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.Collectible.Warlock.FireBreather">
@@ -41958,6 +42204,24 @@
             6-Cost 2/4 Minion
             </summary>
         </member>
+        <member name="F:HearthDb.CardIds.Collectible.Warrior.BarricadeBasher">
+            <summary>
+            Whenever you gain Armor, gain +2/+2 and attack a random enemy minion.<br/>
+            3-Cost 4/3 Beast Minion
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.Collectible.Warrior.TheGreatDracorex">
+            <summary>
+            <b>Rush</b> After this attacks an enemy minion, it damages ALL other enemy minions.<br/>
+            8-Cost 5/12 Beast/Dragon Minion
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.Collectible.Warrior.GuardDuty">
+            <summary>
+            Summon a random 6, 4, and 2-Cost <b>Taunt</b> minion.<br/>
+            7-Cost Spell
+            </summary>
+        </member>
         <member name="F:HearthDb.CardIds.Collectible.Warrior.SwordEater">
             <summary>
             <b>Taunt</b> <b>Battlecry:</b> Equip a 3/2 Sword.<br/>
@@ -42697,6 +42961,12 @@
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.Collectible.Warrior.GarroshHellscream_ShandrisFeathermoonHeroHeroSkins">
+            <summary>
+            (No Text)<br/>
+            0-Cost Hero
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.Collectible.Warrior.GarroshHellscream_MagniReforgedHeroHeroSkins">
             <summary>
             (No Text)<br/>
             0-Cost Hero
@@ -46344,6 +46614,12 @@
             Spell
             </summary>
         </member>
+        <member name="F:HearthDb.CardIds.NonCollectible.Deathknight.SoulrestCeremony_SoulrestEnchantment">
+            <summary>
+            +1 Attack and <b>Rush</b>. At the end of your turn, this minion dies.<br/>
+            Enchantment
+            </summary>
+        </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Deathknight.ReanimatetheTerror_TyraxBoneTerrorToken">
             <summary>
             <b>Deathrattle:</b> Open Terror's Grave. It has "<b>Deathrattle:</b> Resummon Tyrax."<br/>
@@ -48906,6 +49182,12 @@
             Enchantment
             </summary>
         </member>
+        <member name="F:HearthDb.CardIds.NonCollectible.Demonhunter.HornofFeasting_RavenousRaptorToken">
+            <summary>
+            <b>Rush</b><br/>
+            2-Cost 2/1 Beast Minion
+            </summary>
+        </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Demonhunter.GorishiWasp_GorishiStingerToken">
             <summary>
             Deal $2 damage. Summon a 2/1 Grub with <b>Rush</b>.<br/>
@@ -49531,6 +49813,18 @@
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Druid.MalfurionStormrageHeroic_DireShapeshiftHeroSkins2">
+            <summary>
+            <b>Hero Power</b> +$a2 Attack this turn. +$d2 Armor.<br/>
+            2-Cost HeroPower
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.NonCollectible.Druid.MalfurionStormrageHeroic_ShapeshiftHeroSkinsEnchantment">
+            <summary>
+            <b>Hero Power</b> +$a1 Attack this turn. +$d1 Armor.<br/>
+            2-Cost HeroPower
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.NonCollectible.Druid.MalfurionStormrageHeroic_DireShapeshiftHeroSkinsEnchantment">
             <summary>
             <b>Hero Power</b> +$a2 Attack this turn. +$d2 Armor.<br/>
             2-Cost HeroPower
@@ -54308,13 +54602,13 @@
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Druid.DozingDragon_OversleepingEnchantment">
             <summary>
-            <b>Dormant</b>. Awaken in 2 turns.<br/>
+            End of turn summon<br/>
             Enchantment
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Druid.DozingDragon_SleepyEnchantment">
             <summary>
-            (No Text)<br/>
+            <b>Dormant</b>. Awaken in 2 turns.<br/>
             Enchantment
             </summary>
         </member>
@@ -54579,6 +54873,30 @@
         <member name="F:HearthDb.CardIds.NonCollectible.Druid.KeeperofFlame_BurningUpEnchantment2">
             <summary>
             This card is on fire!<br/>
+            Enchantment
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.NonCollectible.Druid.LongneckEgg_LongNeckEnchantment">
+            <summary>
+            +1/+1.<br/>
+            Enchantment
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.NonCollectible.Druid.LongneckEgg_LittleLongneckToken">
+            <summary>
+            (No Text)<br/>
+            1-Cost 1/2 Beast Minion
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.NonCollectible.Druid.Seismopod_SeismicEnchantment">
+            <summary>
+            +3/+3.<br/>
+            Enchantment
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.NonCollectible.Druid.PantherMask_PantherMaskEnchantment">
+            <summary>
+            5/4 and <b>Stealth</b>.<br/>
             Enchantment
             </summary>
         </member>
@@ -59055,6 +59373,12 @@
         <member name="F:HearthDb.CardIds.NonCollectible.Hunter.BrollBearmantle_VerdantDreamsaberEnchantment">
             <summary>
             Doubled Attack and Health.<br/>
+            Enchantment
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.NonCollectible.Hunter.DevilsaurMask_DevilsaurMaskEnchantment">
+            <summary>
+            8/8 and <b>Charge</b>.<br/>
             Enchantment
             </summary>
         </member>
@@ -89016,6 +89340,12 @@
             0/0 Mechanical Minion
             </summary>
         </member>
+        <member name="F:HearthDb.CardIds.NonCollectible.Invalid.HornofFeasting_FeastingEnchantment">
+            <summary>
+            <b>Immune</b> while attacking.<br/>
+            Enchantment
+            </summary>
+        </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Invalid.UndercoverCultist_NestingRaptorToken">
             <summary>
             <b>Rush</b><br/>
@@ -93422,6 +93752,18 @@
         <member name="F:HearthDb.CardIds.NonCollectible.Mage.StellarBalance_StellarBalanceEnchantment">
             <summary>
             <b>Spell Damage +1</b>.<br/>
+            Enchantment
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.NonCollectible.Mage.TributeDance_TributeEnchantment">
+            <summary>
+            This minion has been transformed.<br/>
+            Enchantment
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.NonCollectible.Mage.SheepMask_SheepMaskEnchantment">
+            <summary>
+            1/1 and <b>Deathrattle:</b> Deal 2 damage to all minions.<br/>
             Enchantment
             </summary>
         </member>
@@ -125010,6 +125352,12 @@
             0-Cost Hero
             </summary>
         </member>
+        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.CarielRoame_LynxriderCariel">
+            <summary>
+            (No Text)<br/>
+            0-Cost Hero
+            </summary>
+        </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.CarielRoame_CarielWatcherEnchantment">
             <summary>
             (No Text)<br/>
@@ -125904,6 +126252,12 @@
             0-Cost Hero
             </summary>
         </member>
+        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.VanndarStormpike_EarthenVanndar">
+            <summary>
+            (No Text)<br/>
+            0-Cost Hero
+            </summary>
+        </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.VanndarStormpike_LieutenantsLeadershipEnchantment">
             <summary>
             Increased Health.<br/>
@@ -126057,6 +126411,18 @@
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.QueenAzshara_PrimalNagaQueenAzshara">
+            <summary>
+            (No Text)<br/>
+            0-Cost Hero
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.QueenAzshara_NerubianQueenAzshara">
+            <summary>
+            (No Text)<br/>
+            0-Cost Hero
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.QueenAzshara_NerubianNagaQueenAzshara">
             <summary>
             (No Text)<br/>
             0-Cost Hero
@@ -127349,6 +127715,12 @@
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.HeistbaronTogwaggle_SafecrackerTogwaggle">
+            <summary>
+            (No Text)<br/>
+            0-Cost Hero
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.HeistbaronTogwaggle_CandleKingTogwaggle">
             <summary>
             (No Text)<br/>
             0-Cost Hero
@@ -136754,22 +137126,22 @@
             <summary>
             Normal (this):<br/>
             <b>Choose One - </b>Your <b>Blood Gems</b> give an extra +1/+1 this game; or Get 4 <b>Blood Gems</b>.<br/>
-            Tier-4 3/5 Quilboar Minion<br/>
+            Tier-5 3/5 Quilboar Minion<br/>
             --------------------<br/>
             Triple:<br/>
             <b>Choose One - </b>Your <b>Blood Gems</b> give an extra +2/+2 this game; or Get 8 <b>Blood Gems</b>.<br/>
-            Tier-4 6/10 Quilboar Minion
+            Tier-5 6/10 Quilboar Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.FearlessFoodie_FearlessFoodie">
             <summary>
             Triple (this):<br/>
             <b>Choose One - </b>Your <b>Blood Gems</b> give an extra +2/+2 this game; or Get 8 <b>Blood Gems</b>.<br/>
-            Tier-4 6/10 Quilboar Minion<br/>
+            Tier-5 6/10 Quilboar Minion<br/>
             --------------------<br/>
             Normal:<br/>
             <b>Choose One - </b>Your <b>Blood Gems</b> give an extra +1/+1 this game; or Get 4 <b>Blood Gems</b>.<br/>
-            Tier-4 3/5 Quilboar Minion
+            Tier-5 3/5 Quilboar Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.FearlessFoodie_DigIn">
@@ -137119,6 +137491,12 @@
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.MarinTheManagerBATTLEGROUNDS">
+            <summary>
+            (No Text)<br/>
+            0-Cost Hero
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.MarintheManager_AviatorMarin">
             <summary>
             (No Text)<br/>
             0-Cost Hero
@@ -140720,6 +141098,12 @@
             0-Cost Hero
             </summary>
         </member>
+        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.FarseerNobundo_LamplighterNobundo">
+            <summary>
+            (No Text)<br/>
+            0-Cost Hero
+            </summary>
+        </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.FarseerNobundo_TheGalaxysLens">
             <summary>
             Get a copy of the last Tavern spell you cast. Each turn, your next Hero Power costs (1) less.<br/>
@@ -140745,6 +141129,12 @@
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.ExarchOthaar">
+            <summary>
+            (No Text)<br/>
+            0-Cost Hero
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.ExarchOthaar_ArathiOthaar">
             <summary>
             (No Text)<br/>
             0-Cost Hero
@@ -143480,7 +143870,7 @@
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.MarvelousMushroom">
             <summary>
-            'Your Tavern spells that give stats grant an extra +{0}/+{1}. At the start of each turn, improve this.<br/>
+            Your Tavern spells that give stats grant an extra +{0}/+{1}. At the start of each turn, improve this.<br/>
             2-Cost BattlegroundTrinket
             </summary>
         </member>
@@ -143944,22 +144334,22 @@
             <summary>
             Normal (this):<br/>
             <b>Deathrattle</b>: Get a Haunted Carapace.<br/>
-            Tier-4 6/3 Undead Minion<br/>
+            Tier-5 6/3 Undead Minion<br/>
             --------------------<br/>
             Triple:<br/>
             <b>Deathrattle</b>: Get 2 Haunted Carapaces.<br/>
-            Tier-4 12/6 Undead Minion
+            Tier-5 12/6 Undead Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.CarapaceRaiser_CarapaceRaiser">
             <summary>
             Triple (this):<br/>
             <b>Deathrattle</b>: Get 2 Haunted Carapaces.<br/>
-            Tier-4 12/6 Undead Minion<br/>
+            Tier-5 12/6 Undead Minion<br/>
             --------------------<br/>
             Normal:<br/>
             <b>Deathrattle</b>: Get a Haunted Carapace.<br/>
-            Tier-4 6/3 Undead Minion
+            Tier-5 6/3 Undead Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.HauntedCarapace">
@@ -148836,6 +149226,12 @@
             0-Cost Hero
             </summary>
         </member>
+        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.TradePrinceGallywix_DarkfuseGallywixTavernBrawl">
+            <summary>
+            (No Text)<br/>
+            0-Cost Hero
+            </summary>
+        </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.TradePrinceGallywix_TradePrinceGallywixTavernBrawl">
             <summary>
             (No Text)<br/>
@@ -150736,6 +151132,12 @@
             0-Cost Hero
             </summary>
         </member>
+        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.DinotamerBrann_DelveExplorerBrannTavernBrawl">
+            <summary>
+            (No Text)<br/>
+            0-Cost Hero
+            </summary>
+        </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.IvoryQueenSylvanasTavernBrawl">
             <summary>
             (No Text)<br/>
@@ -152572,6 +152974,12 @@
             0-Cost Hero
             </summary>
         </member>
+        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.NZoth_AerialNzothTavernBrawl">
+            <summary>
+            (No Text)<br/>
+            0-Cost Hero
+            </summary>
+        </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.TickatusTavernBrawl">
             <summary>
             (No Text)<br/>
@@ -153742,6 +154150,18 @@
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.MagniBronzebeardTavernBrawl">
+            <summary>
+            (No Text)<br/>
+            0-Cost Hero
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.AlleriaTavernBrawl">
+            <summary>
+            (No Text)<br/>
+            0-Cost Hero
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.XalatathTavernBrawl">
             <summary>
             (No Text)<br/>
             0-Cost Hero
@@ -156268,6 +156688,12 @@
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.ScabbsCutterbutter_CookinEnchantment1">
             <summary>
             Your next two cards this turn costs (2) less.<br/>
+            Enchantment
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.ScabbsCutterbutter_CookinEnchantment2">
+            <summary>
+            Your next two cards this turn costs (3) less.<br/>
             Enchantment
             </summary>
         </member>
@@ -176837,9 +177263,9 @@
             Enchantment
             </summary>
         </member>
-        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.EverburningCorePlaceholderEnchantment">
+        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.DopEmergencyEnchant2CorePlaceholderEnchantment">
             <summary>
-            Get Everburning Phoenix at the end of the turn.<br/>
+            Use this enchant (present but unused in client builds for emergency hotfixes) when we need to add an enchantment to a hotfix.<br/>
             Enchantment
             </summary>
         </member>
@@ -179967,10 +180393,70 @@
             Enchantment
             </summary>
         </member>
+        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.EverburningPhoenix_EverburningEnchantment">
+            <summary>
+            Get Everburning Phoenix at the end of the turn.<br/>
+            Enchantment
+            </summary>
+        </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.PetalPicker_ManaBloomEnchantment">
             <summary>
             Gain 1 Mana Crystal this turn only.<br/>
             Enchantment
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.TheEggofKhelos_KhelosToken">
+            <summary>
+            (No Text)<br/>
+            10-Cost 20/20 Beast Minion
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.TheEggofKhelos_TheEggOfKhelosToken1">
+            <summary>
+            <b>Deathrattle:</b> Summon a more cracked Egg. <i>(Break 4 more times to hatch into a 20/20 Beast!)</i><br/>
+            3-Cost 0/3 Minion
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.TheEggofKhelos_TheEggOfKhelosToken2">
+            <summary>
+            <b>Deathrattle:</b> Summon a very cracked Egg. <i>(Break 3 more times to hatch into a 20/20 Beast!)</i><br/>
+            3-Cost 0/3 Minion
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.TheEggofKhelos_TheEggOfKhelosToken3">
+            <summary>
+            <b>Deathrattle:</b> Summon the most cracked Egg. <i>(Break 2 more times to hatch into a 20/20 Beast!)</i><br/>
+            3-Cost 0/3 Minion
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.TheEggofKhelos_TheEggOfKhelosToken4">
+            <summary>
+            <b>Deathrattle:</b> Summon a 20/20 Khelos. <i>(Break to hatch!)</i><br/>
+            3-Cost 0/3 Minion
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.HerbivoreAssistant_MakingProgressEnchantment">
+            <summary>
+            +2/+2 and <b>Rush</b>.<br/>
+            Enchantment
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.BeastSpeakerTaka_LegendaryMountEnchantment">
+            <summary>
+            Increased stats.<br/>
+            Enchantment
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.TheCoinTHE_LOST_CITY1">
+            <summary>
+            Gain 1 Mana Crystal this turn only.<br/>
+            0-Cost Spell
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.TheCoinTHE_LOST_CITY2">
+            <summary>
+            Gain 1 Mana Crystal this turn only.<br/>
+            0-Cost Spell
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.ElisetheNavigator_UngoroJungleToken">
@@ -180227,7 +180713,7 @@
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.PetrifiedOgre_PetrifiedPowerupEnchantment">
             <summary>
-            <b>Dormant</b>. 50% chance to awaken.<br/>
+            Apply +2/+2 while dormant<br/>
             Enchantment
             </summary>
         </member>
@@ -180287,7 +180773,7 @@
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.Platysaur_PlatysaurEnchantment3">
             <summary>
-            (No Text)<br/>
+            <b>Deathrattle:</b> Discard {0}.<br/>
             Enchantment
             </summary>
         </member>
@@ -180327,13 +180813,13 @@
             3-Cost 3/3 Beast Minion
             </summary>
         </member>
-        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.TheCoinTHE_LOST_CITY1">
+        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.TheCoinTHE_LOST_CITY3">
             <summary>
             Gain 1 Mana Crystal this turn only.<br/>
             0-Cost Spell
             </summary>
         </member>
-        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.TheCoinTHE_LOST_CITY2">
+        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.TheCoinTHE_LOST_CITY4">
             <summary>
             Gain 1 Mana Crystal this turn only.<br/>
             0-Cost Spell
@@ -180358,6 +180844,30 @@
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.CrystalKrush">
+            <summary>
+            (No Text)<br/>
+            0-Cost Pet
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.Rabbitath">
+            <summary>
+            (No Text)<br/>
+            0-Cost Pet
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.AngelicRabbitath">
+            <summary>
+            (No Text)<br/>
+            0-Cost Pet
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.EtherealRabbitath">
+            <summary>
+            (No Text)<br/>
+            0-Cost Pet
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.CorruptedRabbitath">
             <summary>
             (No Text)<br/>
             0-Cost Pet
@@ -180704,18 +181214,6 @@
             2-Cost HeroPower
             </summary>
         </member>
-        <member name="F:HearthDb.CardIds.NonCollectible.Paladin.UtherLightbringer_ReinforceHeroSkinsEnchantment">
-            <summary>
-            <b>Hero Power</b> Summon a 1/1 Silver Hand Recruit.<br/>
-            2-Cost HeroPower
-            </summary>
-        </member>
-        <member name="F:HearthDb.CardIds.NonCollectible.Paladin.UtherLightbringer_TheSilverHandHeroSkinsEnchantment">
-            <summary>
-            <b>Hero Power</b> Summon two 1/1 Recruits.<br/>
-            2-Cost HeroPower
-            </summary>
-        </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Paladin.UtherLightbringer_ReinforceHeroSkins7">
             <summary>
             <b>Hero Power</b> Summon a 1/1 Silver Hand Recruit.<br/>
@@ -180728,9 +181226,15 @@
             2-Cost HeroPower
             </summary>
         </member>
-        <member name="F:HearthDb.CardIds.NonCollectible.Paladin.UtherLightbringer_Reinforce_YrelHeroSkins">
+        <member name="F:HearthDb.CardIds.NonCollectible.Paladin.UtherLightbringer_ReinforceHeroSkinsEnchantment">
             <summary>
             <b>Hero Power</b> Summon a 1/1 Silver Hand Recruit.<br/>
+            2-Cost HeroPower
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.NonCollectible.Paladin.UtherLightbringer_TheSilverHandHeroSkinsEnchantment">
+            <summary>
+            <b>Hero Power</b> Summon two 1/1 Recruits.<br/>
             2-Cost HeroPower
             </summary>
         </member>
@@ -180743,6 +181247,12 @@
         <member name="F:HearthDb.CardIds.NonCollectible.Paladin.UtherLightbringer_TheSilverHandHeroSkins8">
             <summary>
             <b>Hero Power</b> Summon two 1/1 Recruits.<br/>
+            2-Cost HeroPower
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.NonCollectible.Paladin.UtherLightbringer_Reinforce_YrelHeroSkins">
+            <summary>
+            <b>Hero Power</b> Summon a 1/1 Silver Hand Recruit.<br/>
             2-Cost HeroPower
             </summary>
         </member>
@@ -180765,6 +181275,18 @@
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Paladin.UtherLightbringer_TheSilverHandHeroSkins10">
+            <summary>
+            <b>Hero Power</b> Summon two 1/1 Recruits.<br/>
+            2-Cost HeroPower
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.NonCollectible.Paladin.UtherLightbringer_ReinforceHeroSkins11">
+            <summary>
+            <b>Hero Power</b> Summon a 1/1 Silver Hand Recruit.<br/>
+            2-Cost HeroPower
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.NonCollectible.Paladin.UtherLightbringer_TheSilverHandHeroSkins11">
             <summary>
             <b>Hero Power</b> Summon two 1/1 Recruits.<br/>
             2-Cost HeroPower
@@ -184591,6 +185113,18 @@
             Enchantment
             </summary>
         </member>
+        <member name="F:HearthDb.CardIds.NonCollectible.Paladin.HatchingCeremony_HatchedEnchantment">
+            <summary>
+            +2/+2.<br/>
+            Enchantment
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.NonCollectible.Paladin.HerosWelcome_HerosCelebrationEnchantment">
+            <summary>
+            10/10.<br/>
+            Enchantment
+            </summary>
+        </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Paladin.Tyrannogill_DinolocToken1">
             <summary>
             (No Text)<br/>
@@ -184909,19 +185443,31 @@
             2-Cost HeroPower
             </summary>
         </member>
-        <member name="F:HearthDb.CardIds.NonCollectible.Priest.AnduinWrynn_LesserHealHeroSkins7">
-            <summary>
-            <b>Hero Power</b> Restore #2 Health.<br/>
-            2-Cost HeroPower
-            </summary>
-        </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Priest.AnduinWrynn_HealHeroSkins6">
             <summary>
             <b>Hero Power</b> Restore #4 Health.<br/>
             2-Cost HeroPower
             </summary>
         </member>
+        <member name="F:HearthDb.CardIds.NonCollectible.Priest.AnduinWrynn_LesserHealHeroSkins7">
+            <summary>
+            <b>Hero Power</b> Restore #2 Health.<br/>
+            2-Cost HeroPower
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.NonCollectible.Priest.AnduinWrynn_LesserHealHeroSkins8">
+            <summary>
+            <b>Hero Power</b> Restore #2 Health.<br/>
+            2-Cost HeroPower
+            </summary>
+        </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Priest.AnduinWrynn_HealHeroSkins7">
+            <summary>
+            <b>Hero Power</b> Restore #4 Health.<br/>
+            2-Cost HeroPower
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.NonCollectible.Priest.AnduinWrynn_HealHeroSkins8">
             <summary>
             <b>Hero Power</b> Restore #4 Health.<br/>
             2-Cost HeroPower
@@ -187993,6 +188539,18 @@
             3-Cost Spell
             </summary>
         </member>
+        <member name="F:HearthDb.CardIds.NonCollectible.Priest.RitualofLife_LastingLifeEnchantment">
+            <summary>
+            2/2.<br/>
+            Enchantment
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.NonCollectible.Priest.BehemothMask_BehemothMaskEnchantment">
+            <summary>
+            8/10 and <b>Lifesteal</b>.<br/>
+            Enchantment
+            </summary>
+        </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Priest.PurifyingVines">
             <summary>
             Choose a minion. If it's friendly, give it +2 Health. If it's an enemy, give it -2 Health.<br/>
@@ -190590,9 +191148,21 @@
             Enchantment
             </summary>
         </member>
-        <member name="F:HearthDb.CardIds.NonCollectible.Rogue.ScabbsCutterbutter_CookinEnchantment2">
+        <member name="F:HearthDb.CardIds.NonCollectible.Rogue.ScabbsCutterbutter_ScabbsCutterbutter">
+            <summary>
+            <b>Combo:</b> The next two cards you play this turn cost (3) less.<br/>
+            4-Cost 3/3 Minion
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.NonCollectible.Rogue.ScabbsCutterbutter_CookinEnchantment3">
             <summary>
             The next two cards you play this turn costs (2) less.<br/>
+            Enchantment
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.NonCollectible.Rogue.ScabbsCutterbutter_CookinEnchantment4">
+            <summary>
+            The next two cards you play this turn costs (3) less.<br/>
             Enchantment
             </summary>
         </member>
@@ -192222,6 +192792,18 @@
             Enchantment
             </summary>
         </member>
+        <member name="F:HearthDb.CardIds.NonCollectible.Rogue.MirrextheCrystalline_ReflectingEnchantment">
+            <summary>
+            Transforming into the last minion your opponent plays.<br/>
+            Enchantment
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.NonCollectible.Rogue.MirrextheCrystalline_CrystallineEnchantment">
+            <summary>
+            3/3.<br/>
+            Enchantment
+            </summary>
+        </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Rogue.LieinWait_SneakyEnchantment">
             <summary>
             When this dies, shuffle it into your deck.<br/>
@@ -192577,6 +193159,18 @@
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Shaman.ThrallHeroic_TotemicSlamHeroSkins3">
+            <summary>
+            <b>Hero Power</b> Summon a Totem of your choice.<br/>
+            2-Cost HeroPower
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.NonCollectible.Shaman.ThrallHeroic_TotemicCallHeroSkins4">
+            <summary>
+            <b>Hero Power</b> Summon a random basic Totem.<br/>
+            2-Cost HeroPower
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.NonCollectible.Shaman.ThrallHeroic_TotemicSlamHeroSkins4">
             <summary>
             <b>Hero Power</b> Summon a Totem of your choice.<br/>
             2-Cost HeroPower
@@ -196215,6 +196809,12 @@
         <member name="F:HearthDb.CardIds.NonCollectible.Shaman.RenferaltheMalignant_WebbedEnchantment">
             <summary>
             Can't be played for a turn.<br/>
+            Enchantment
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.NonCollectible.Shaman.FireBreath_FireBreatherEnchantment">
+            <summary>
+            +1/+1.<br/>
             Enchantment
             </summary>
         </member>
@@ -200606,6 +201206,12 @@
             Enchantment
             </summary>
         </member>
+        <member name="F:HearthDb.CardIds.NonCollectible.Warlock.BatMask_BatMaskEnchantment">
+            <summary>
+            1/1.<br/>
+            Enchantment
+            </summary>
+        </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Warlock.EscapetheUnderfel_UnderfelRiftEnchantmentEnchantment">
             <summary>
             (No Text)<br/>
@@ -204182,6 +204788,12 @@
             3-Cost 2/4 Minion
             </summary>
         </member>
+        <member name="F:HearthDb.CardIds.NonCollectible.Warrior.DragonspawnLieutenant">
+            <summary>
+            <b>Taunt</b><br/>
+            Tier-1 2/3 Dragon Minion
+            </summary>
+        </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Warrior.JuggernautControl2">
             <summary>
             Activate this turn's Juggernaut Power!<br/>
@@ -205253,6 +205865,12 @@
         <member name="F:HearthDb.CardIds.NonCollectible.Warrior.DragonTurtle_TurtleMawEnchantment">
             <summary>
             +3 Attack this turn.<br/>
+            Enchantment
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.NonCollectible.Warrior.BarricadeBasher_BashfulEnchantment">
+            <summary>
+            +2/+2.<br/>
             Enchantment
             </summary>
         </member>
