@@ -5332,6 +5332,18 @@
             0-Cost Hero
             </summary>
         </member>
+        <member name="F:HearthDb.CardIds.Collectible.Druid.MalfurionStormrage_YseraTheAwakenedHeroHeroSkins">
+            <summary>
+            (No Text)<br/>
+            0-Cost Hero
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.Collectible.Druid.MalfurionStormrage_EmpressAlexstraszaHeroHeroSkins">
+            <summary>
+            (No Text)<br/>
+            0-Cost Hero
+            </summary>
+        </member>
         <member name="F:HearthDb.CardIds.Collectible.Druid.MalfurionStormrage_ShandoMalfurionHeroHeroSkins">
             <summary>
             (No Text)<br/>
@@ -8519,6 +8531,12 @@
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.Collectible.Hunter.Rexxar_ArachnidKerriganHeroHeroSkins">
+            <summary>
+            (No Text)<br/>
+            0-Cost Hero
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.Collectible.Hunter.Rexxar_SylvanasBreezerunnerHeroHeroSkins">
             <summary>
             (No Text)<br/>
             0-Cost Hero
@@ -11830,6 +11848,18 @@
             0-Cost Hero
             </summary>
         </member>
+        <member name="F:HearthDb.CardIds.Collectible.Mage.JainaProudmoore_TimewalkerChromieHeroHeroSkinsEnchantment">
+            <summary>
+            (No Text)<br/>
+            0-Cost Hero
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.Collectible.Mage.JainaProudmoore_OnyxiaRevealedHeroHeroSkins">
+            <summary>
+            (No Text)<br/>
+            0-Cost Hero
+            </summary>
+        </member>
         <member name="F:HearthDb.CardIds.Collectible.Mage.JainaProudmoore_StudyKayHeroHeroSkins">
             <summary>
             (No Text)<br/>
@@ -12536,6 +12566,12 @@
             <summary>
             While in your hand, this transforms after you cast a Fire, Frost, or Arcane spell.<br/>
             5-Cost 5/5 Naga Minion
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.Collectible.Mage.SemiStablePortal">
+            <summary>
+            <b>Rewind</b> Add a random minion to your hand. It costs (3) less.<br/>
+            2-Cost Spell
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.Collectible.Mage.WindsweptPageturner">
@@ -21777,6 +21813,24 @@
             4-Cost 5/4 Beast Minion
             </summary>
         </member>
+        <member name="F:HearthDb.CardIds.Collectible.Neutral.PortalVanguard">
+            <summary>
+            <b>Rewind</b> <b>Battlecry:</b> Draw a random minion. Give it +2/+2.<br/>
+            3-Cost 2/2 Dragon Minion
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.Collectible.Neutral.MisterClocksworth">
+            <summary>
+            <b>Rewind</b>, <b>Rewind</b>, <b>Rewind</b> <b>Battlecry:</b> Summon 2 random <b>Legendary</b> minions.<br/>
+            8-Cost 3/3 Mechanical Minion
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.Collectible.Neutral.TimelordNozdormu">
+            <summary>
+            <b>Dormant</b> for 5 turns. <b>Rush</b>. After you play a card from the newest expansion, awaken 1 turn sooner.<br/>
+            3-Cost 8/8 Dragon Minion
+            </summary>
+        </member>
         <member name="F:HearthDb.CardIds.Collectible.Neutral.EliseTheNavigator">
             <summary>
             <b>Battlecry:</b> If your deck started with 10 cards of different Costs, craft a custom location.<br/>
@@ -21985,6 +22039,12 @@
             <summary>
             <b>Battlecry:</b> If you played a <b>Quest</b> this game, deal 3 damage to an enemy minion.<br/>
             2-Cost 3/2 Minion
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.Collectible.Neutral.StormTheGates">
+            <summary>
+            <b>Sidequest:</b> Play 3 Beasts or Undead. <b>Reward:</b> Craft a custom Zombeast. It costs (3) less.<br/>
+            1-Cost Spell
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.Collectible.Neutral.TarSlime">
@@ -26870,6 +26930,12 @@
             0-Cost Hero
             </summary>
         </member>
+        <member name="F:HearthDb.CardIds.Collectible.Paladin.UtherLightbringerHeroic_NozdormuTheTimelessHeroHeroSkins">
+            <summary>
+            (No Text)<br/>
+            0-Cost Hero
+            </summary>
+        </member>
         <member name="F:HearthDb.CardIds.Collectible.Paladin.UtherLightbringer_DinoKnightLiadrinHeroHeroSkins">
             <summary>
             (No Text)<br/>
@@ -30158,6 +30224,12 @@
             0-Cost Hero
             </summary>
         </member>
+        <member name="F:HearthDb.CardIds.Collectible.Priest.AnduinWrynn_EmpressAlexstraszaHeroHeroSkinsEnchantment">
+            <summary>
+            (No Text)<br/>
+            0-Cost Hero
+            </summary>
+        </member>
         <member name="F:HearthDb.CardIds.Collectible.Priest.AnduinWrynn_KingAnduinHeroHeroSkins">
             <summary>
             (No Text)<br/>
@@ -33345,6 +33417,12 @@
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.Collectible.Rogue.ValeeraSanguinar_DinoPiratePatchesHeroHeroSkins">
+            <summary>
+            (No Text)<br/>
+            0-Cost Hero
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.Collectible.Rogue.ValeeraSanguinar_TessGreymaneHeroHeroSkins">
             <summary>
             (No Text)<br/>
             0-Cost Hero
@@ -42972,6 +43050,12 @@
             0-Cost Hero
             </summary>
         </member>
+        <member name="F:HearthDb.CardIds.Collectible.Warrior.GarroshHellscreamHeroic_DeathwingTheWorldbreakerHeroHeroSkins">
+            <summary>
+            (No Text)<br/>
+            0-Cost Hero
+            </summary>
+        </member>
         <member name="F:HearthDb.CardIds.Collectible.Warrior.GarroshHellscream_DeathwingHeroHeroSkins">
             <summary>
             (No Text)<br/>
@@ -49830,18 +49914,6 @@
             2-Cost HeroPower
             </summary>
         </member>
-        <member name="F:HearthDb.CardIds.NonCollectible.Druid.MalfurionStormrage_ShapeshiftHeroSkinsEnchantment">
-            <summary>
-            <b>Hero Power</b> +$a1 Attack this turn. +$d1 Armor.<br/>
-            2-Cost HeroPower
-            </summary>
-        </member>
-        <member name="F:HearthDb.CardIds.NonCollectible.Druid.MalfurionStormrage_DireShapeshiftHeroSkinsEnchantment">
-            <summary>
-            <b>Hero Power</b> +$a2 Attack this turn. +$d2 Armor.<br/>
-            2-Cost HeroPower
-            </summary>
-        </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Druid.MalfurionStormrage_ShapeshiftHeroSkins5">
             <summary>
             <b>Hero Power</b> +$a1 Attack this turn. +$d1 Armor.<br/>
@@ -49849,6 +49921,18 @@
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Druid.MalfurionStormrage_DireShapeshiftHeroSkins5">
+            <summary>
+            <b>Hero Power</b> +$a2 Attack this turn. +$d2 Armor.<br/>
+            2-Cost HeroPower
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.NonCollectible.Druid.MalfurionStormrage_ShapeshiftHeroSkinsEnchantment">
+            <summary>
+            <b>Hero Power</b> +$a1 Attack this turn. +$d1 Armor.<br/>
+            2-Cost HeroPower
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.NonCollectible.Druid.MalfurionStormrage_DireShapeshiftHeroSkinsEnchantment">
             <summary>
             <b>Hero Power</b> +$a2 Attack this turn. +$d2 Armor.<br/>
             2-Cost HeroPower
@@ -49897,6 +49981,18 @@
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Druid.MalfurionStormrage_DireShapeshiftHeroSkins9">
+            <summary>
+            <b>Hero Power</b> +$a2 Attack this turn. +$d2 Armor.<br/>
+            2-Cost HeroPower
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.NonCollectible.Druid.MalfurionStormrage_ShapeshiftHeroSkins10">
+            <summary>
+            <b>Hero Power</b> +$a1 Attack this turn. +$d1 Armor.<br/>
+            2-Cost HeroPower
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.NonCollectible.Druid.MalfurionStormrage_DireShapeshiftHeroSkins10">
             <summary>
             <b>Hero Power</b> +$a2 Attack this turn. +$d2 Armor.<br/>
             2-Cost HeroPower
@@ -54818,7 +54914,7 @@
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Druid.HamuulRunetotem_RunetotemsFavorEnchantment">
             <summary>
-            After you cast two spells, Imbue your Hero Power. <i>(2 left!)</i><br/>
+            After you cast two spells, <b>Imbue</b> your Hero Power. <i>(2 left!)</i><br/>
             Enchantment
             </summary>
         </member>
@@ -89346,12 +89442,6 @@
             Enchantment
             </summary>
         </member>
-        <member name="F:HearthDb.CardIds.NonCollectible.Invalid.UndercoverCultist_NestingRaptorToken">
-            <summary>
-            <b>Rush</b><br/>
-            1-Cost 2/1 Beast Minion
-            </summary>
-        </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Mage.JainaProudmoore_FireblastRank2">
             <summary>
             <b>Hero Power</b> Deal $2 damage.<br/>
@@ -89646,18 +89736,6 @@
             2-Cost HeroPower
             </summary>
         </member>
-        <member name="F:HearthDb.CardIds.NonCollectible.Mage.JainaProudmoore_FireblastHeroSkins10">
-            <summary>
-            <b>Hero Power</b> Deal $1 damage.<br/>
-            2-Cost HeroPower
-            </summary>
-        </member>
-        <member name="F:HearthDb.CardIds.NonCollectible.Mage.JainaProudmoore_FireblastRank2HeroSkins10">
-            <summary>
-            <b>Hero Power</b> Deal $2 damage.<br/>
-            2-Cost HeroPower
-            </summary>
-        </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Mage.JainaProudmoore_FireblastHeroSkinsEnchantment2">
             <summary>
             <b>Hero Power</b> Deal $1 damage.<br/>
@@ -89665,6 +89743,18 @@
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Mage.JainaProudmoore_FireblastRank2HeroSkinsEnchantment2">
+            <summary>
+            <b>Hero Power</b> Deal $2 damage.<br/>
+            2-Cost HeroPower
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.NonCollectible.Mage.JainaProudmoore_FireblastHeroSkins10">
+            <summary>
+            <b>Hero Power</b> Deal $1 damage.<br/>
+            2-Cost HeroPower
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.NonCollectible.Mage.JainaProudmoore_FireblastRank2HeroSkins10">
             <summary>
             <b>Hero Power</b> Deal $2 damage.<br/>
             2-Cost HeroPower
@@ -89682,7 +89772,13 @@
             2-Cost HeroPower
             </summary>
         </member>
-        <member name="F:HearthDb.CardIds.NonCollectible.Mage.JainaProudmoore_FireblastPrestorHeroSkins">
+        <member name="F:HearthDb.CardIds.NonCollectible.Mage.JainaProudmoore_FireblastHeroSkinsEnchantment3">
+            <summary>
+            <b>Hero Power</b> Deal $1 damage.<br/>
+            2-Cost HeroPower
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.NonCollectible.Mage.JainaProudmoore_FireblastRank2HeroSkinsEnchantment3">
             <summary>
             <b>Hero Power</b> Deal $2 damage.<br/>
             2-Cost HeroPower
@@ -89700,6 +89796,24 @@
             2-Cost HeroPower
             </summary>
         </member>
+        <member name="F:HearthDb.CardIds.NonCollectible.Mage.JainaProudmoore_FireblastPrestorHeroSkins">
+            <summary>
+            <b>Hero Power</b> Deal $2 damage.<br/>
+            2-Cost HeroPower
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.NonCollectible.Mage.JainaProudmoore_FireblastHeroSkins13">
+            <summary>
+            <b>Hero Power</b> Deal $1 damage.<br/>
+            2-Cost HeroPower
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.NonCollectible.Mage.JainaProudmoore_FireblastRank2HeroSkins13">
+            <summary>
+            <b>Hero Power</b> Deal $2 damage.<br/>
+            2-Cost HeroPower
+            </summary>
+        </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Mage.JainaProudmoore_FireblastHeroSkinsToken">
             <summary>
             <b>Hero Power</b> Deal $1 damage.<br/>
@@ -89712,7 +89826,7 @@
             2-Cost HeroPower
             </summary>
         </member>
-        <member name="F:HearthDb.CardIds.NonCollectible.Mage.JainaProudmoore_FireblastHeroSkins13">
+        <member name="F:HearthDb.CardIds.NonCollectible.Mage.JainaProudmoore_FireblastHeroSkins14">
             <summary>
             <b>Hero Power</b> Deal $1 damage.<br/>
             2-Cost HeroPower
@@ -123669,9 +123783,9 @@
             Tier-3 10/4 Beast Minion
             </summary>
         </member>
-        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.Rokara_Snarling1">
+        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.Rokara_Snarling">
             <summary>
-            +1 Health.<br/>
+            +{0}/+{1}.<br/>
             Enchantment
             </summary>
         </member>
@@ -123684,12 +123798,6 @@
             Normal:<br/>
             After a friendly minion kills an enemy, gain +1 Health permanently.<br/>
             Tier-3 5/2 Beast Minion
-            </summary>
-        </member>
-        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.Rokara_Snarling2">
-            <summary>
-            +2 Health.<br/>
-            Enchantment
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.Rokara_RokaraArcaneWarrior">
@@ -123736,7 +123844,7 @@
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.Rokara_GloryOfCombat">
             <summary>
-            <b>Passive.</b> After a friendly minion kills an enemy, give it +1 Attack permanently.<br/>
+            <b><b>Passive</b>.</b> After a friendly minion kills an enemy, give it +1 Attack permanently.<br/>
             HeroPower
             </summary>
         </member>
@@ -123755,35 +123863,29 @@
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.Xyrella_BabyElekk1">
             <summary>
             Normal (this):<br/>
-            After you play a minion with Attack equal to its Health, gain +2/+2.<br/>
-            Tier-2 2/2 Beast Minion<br/>
+            Whenever you play a minion with less Attack than this, give it +{0}/+{1} and improve this.<br/>
+            Tier-3 4/4 Beast Minion<br/>
             --------------------<br/>
             Triple:<br/>
-            After you play a minion with Attack equal to its Health, gain +4/+4.<br/>
-            Tier-2 4/4 Beast Minion
+            Whenever you play a minion with less Attack than this, give it +{0}/+{1} and improve this.<br/>
+            Tier-3 8/8 Beast Minion
             </summary>
         </member>
-        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.Xyrella_Straylight1">
+        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.Xyrella_ElekkTion">
             <summary>
-            +2/+2.<br/>
+            +{0}/+{1}.<br/>
             Enchantment
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.Xyrella_BabyElekk2">
             <summary>
             Triple (this):<br/>
-            After you play a minion with Attack equal to its Health, gain +4/+4.<br/>
-            Tier-2 4/4 Beast Minion<br/>
+            Whenever you play a minion with less Attack than this, give it +{0}/+{1} and improve this.<br/>
+            Tier-3 8/8 Beast Minion<br/>
             --------------------<br/>
             Normal:<br/>
-            After you play a minion with Attack equal to its Health, gain +2/+2.<br/>
-            Tier-2 2/2 Beast Minion
-            </summary>
-        </member>
-        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.Xyrella_Straylight2">
-            <summary>
-            +4/+4.<br/>
-            Enchantment
+            Whenever you play a minion with less Attack than this, give it +{0}/+{1} and improve this.<br/>
+            Tier-3 4/4 Beast Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.Xyrella_EmpyrealXyrella">
@@ -123855,23 +123957,23 @@
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.OverlordSaurfang_DranoshSaurfang1">
             <summary>
             Normal (this):<br/>
-            After you buy a minion, gain its stats.<br/>
-            Tier-5 6/6 Minion<br/>
+            After you buy a minion, gain half its stats.<br/>
+            Tier-4 6/6 Minion<br/>
             --------------------<br/>
             Triple:<br/>
-            After you buy a minion, gain double its stats.<br/>
-            Tier-5 12/12 Minion
+            After you buy a minion, gain its stats.<br/>
+            Tier-4 12/12 Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.OverlordSaurfang_DranoshSaurfang2">
             <summary>
             Triple (this):<br/>
-            After you buy a minion, gain double its stats.<br/>
-            Tier-5 12/12 Minion<br/>
+            After you buy a minion, gain its stats.<br/>
+            Tier-4 12/12 Minion<br/>
             --------------------<br/>
             Normal:<br/>
-            After you buy a minion, gain its stats.<br/>
-            Tier-5 6/6 Minion
+            After you buy a minion, gain half its stats.<br/>
+            Tier-4 6/6 Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.OverlordSaurfang_VigorOfTheHorde">
@@ -123916,33 +124018,15 @@
             Enchantment
             </summary>
         </member>
-        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.OverlordSaurfang_ForTheHorde1">
+        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.OverlordSaurfang_ForTheHorde">
             <summary>
-            Give a minion in the Tavern +{1}/+{2}. <i>(Doubles every {0} turns!)</i>3Give a minion in the Tavern +{1}/+{2}. <i>(Doubles in {0} turns!)</i><br/>
-            1-Cost HeroPower
+            <b>Passive.</b> Minions in the Tavern have +{1}/+{1}. Improves after you buy 5 minions. <i>({0} left!)</i><br/>
+            HeroPower
             </summary>
         </member>
-        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.OverlordSaurfang_SaurfangPlayerEnchantment">
+        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.OverlordSaurfang_HordeHoard">
             <summary>
-            Give extra Attack to the next minion you buy.<br/>
-            Enchantment
-            </summary>
-        </member>
-        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.OverlordSaurfang_SaurfangPlayerEnchantmentBuddy">
-            <summary>
-            Give extra Health to the next minion you buy this turn.<br/>
-            Enchantment
-            </summary>
-        </member>
-        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.OverlordSaurfang_ForTheHorde2">
-            <summary>
-            Increased Attack.<br/>
-            Enchantment
-            </summary>
-        </member>
-        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.OverlordSaurfang_ForTheHorde3">
-            <summary>
-            Increased Health.<br/>
+            Stats increased by For the Horde!<br/>
             Enchantment
             </summary>
         </member>
@@ -123956,22 +124040,22 @@
             <summary>
             Normal (this):<br/>
             After you get a <b>Blood Gem</b>, get an extra one.<br/>
-            Tier-6 3/7 Quilboar/Undead Minion<br/>
+            Tier-5 3/7 Quilboar/Undead Minion<br/>
             --------------------<br/>
             Triple:<br/>
             After you get a <b>Blood Gem</b>, get two extra.<br/>
-            Tier-6 6/14 Quilboar/Undead Minion
+            Tier-5 6/14 Quilboar/Undead Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.DeathSpeakerBlackthorn_DeathsHeadSage2">
             <summary>
             Triple (this):<br/>
             After you get a <b>Blood Gem</b>, get two extra.<br/>
-            Tier-6 6/14 Quilboar/Undead Minion<br/>
+            Tier-5 6/14 Quilboar/Undead Minion<br/>
             --------------------<br/>
             Normal:<br/>
             After you get a <b>Blood Gem</b>, get an extra one.<br/>
-            Tier-6 3/7 Quilboar/Undead Minion
+            Tier-5 3/7 Quilboar/Undead Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.DeathSpeakerBlackthorn_TidespeakerBlackthorn">
@@ -124007,23 +124091,29 @@
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.Voljin_MasterGadrin1">
             <summary>
             Normal (this):<br/>
-            Minions targeted by 'Spirit Swap' also gain each other's Health.<br/>
-            Tier-6 7/6 Minion<br/>
+            <b>Start of Combat:</b> Give the minion to the left of this Health equal to its Attack.<br/>
+            Tier-4 7/6 Minion<br/>
             --------------------<br/>
             Triple:<br/>
-            Minions targeted by 'Spirit Swap' also gain double each other's Health.<br/>
-            Tier-6 14/12 Minion
+            <b>Start of Combat:</b> Give adjacent minions Health equal to their Attack.<br/>
+            Tier-4 14/12 Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.Voljin_MasterGadrin2">
             <summary>
             Triple (this):<br/>
-            Minions targeted by 'Spirit Swap' also gain double each other's Health.<br/>
-            Tier-6 14/12 Minion<br/>
+            <b>Start of Combat:</b> Give adjacent minions Health equal to their Attack.<br/>
+            Tier-4 14/12 Minion<br/>
             --------------------<br/>
             Normal:<br/>
-            Minions targeted by 'Spirit Swap' also gain each other's Health.<br/>
-            Tier-6 7/6 Minion
+            <b>Start of Combat:</b> Give the minion to the left of this Health equal to its Attack.<br/>
+            Tier-4 7/6 Minion
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.Voljin_MastersGuidance">
+            <summary>
+            +{0}/+{1}.<br/>
+            Enchantment
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.Voljin_ChillinVoljin">
@@ -124095,23 +124185,23 @@
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.MasterNguyen_LeiFlamepaw1">
             <summary>
             Normal (this):<br/>
-            'Power of the Storm' offers 3 options instead of 2.<br/>
-            Tier-1 2/5 Minion<br/>
+            At the start of your turn, get the <b>Buddy</b> of your Hero Power.<br/>
+            Tier-5 4/7 Minion<br/>
             --------------------<br/>
             Triple:<br/>
-            'Power of the Storm' offers 4 options instead of 2.<br/>
-            Tier-1 4/10 Minion
+            At the start of your turn, get 2 copies of the <b>Buddy</b> of your Hero Power.<br/>
+            Tier-5 8/14 Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.MasterNguyen_LeiFlamepaw2">
             <summary>
             Triple (this):<br/>
-            'Power of the Storm' offers 4 options instead of 2.<br/>
-            Tier-1 4/10 Minion<br/>
+            At the start of your turn, get 2 copies of the <b>Buddy</b> of your Hero Power.<br/>
+            Tier-5 8/14 Minion<br/>
             --------------------<br/>
             Normal:<br/>
-            'Power of the Storm' offers 3 options instead of 2.<br/>
-            Tier-1 2/5 Minion
+            At the start of your turn, get the <b>Buddy</b> of your Hero Power.<br/>
+            Tier-5 4/7 Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.MasterNguyen_BanLuNguyen">
@@ -124312,22 +124402,22 @@
             <summary>
             Normal (this):<br/>
             After a friendly minion dies, gain its Attack.<br/>
-            Tier-4 0/14 Undead Minion<br/>
+            Tier-4 5/10 Undead Minion<br/>
             --------------------<br/>
             Triple:<br/>
             After a friendly minion dies, gain its Attack twice.<br/>
-            Tier-4 0/28 Undead Minion
+            Tier-4 10/20 Undead Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.TamsinRoame_Monstrosity2">
             <summary>
             Triple (this):<br/>
             After a friendly minion dies, gain its Attack twice.<br/>
-            Tier-4 0/28 Undead Minion<br/>
+            Tier-4 10/20 Undead Minion<br/>
             --------------------<br/>
             Normal:<br/>
             After a friendly minion dies, gain its Attack.<br/>
-            Tier-4 0/14 Undead Minion
+            Tier-4 5/10 Undead Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.TamsinRoame_Monstrous">
@@ -124372,9 +124462,15 @@
             0-Cost Hero
             </summary>
         </member>
+        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.TamsinRoame_ImpendingSacrificeEnchantment">
+            <summary>
+            <b>Deathrattle:</b> Give your other minions this minion's Attack.<br/>
+            Enchantment
+            </summary>
+        </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.TamsinRoame_FragrantPhylactery">
             <summary>
-            <b>Start of Combat:</b> Destroy your lowest-Health minion. Give its stats to your other minions.<br/>
+            <b>Start of Combat:</b> Give your lowest-Attack minion "<b>Deathrattle:</b> Give your other minions this minion's Attack."<br/>
             0-Cost HeroPower
             </summary>
         </member>
@@ -124462,7 +124558,7 @@
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.Galewing_Westfall1">
             <summary>
-            <b>Passive.</b> In 1 turn, give your left-most minion +2/+2. <i>(1 left!)</i><br/>
+            <b>Passive.</b> In 1 turn, get a random 1-Cost Tavern spell. <i>(1 turn left!)</i><br/>
             HeroPower
             </summary>
         </member>
@@ -124474,13 +124570,13 @@
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.Galewing_Ironforge">
             <summary>
-            <b>Passive</b> In 2 turns, gain 2 Gold. <i>(2 left!)</i><br/>
+            <b>Passive</b> In 2 turns, gain 2 Gold. <i>(2 turns left!)</i><br/>
             HeroPower
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.Galewing_EasternPlaguelands">
             <summary>
-            <b>Passive.</b> In 3 turns, <b>Discover</b> a minion of your Tier. <i>(3 left!)</i><br/>
+            <b>Passive.</b> In 3 turns, <b>Discover</b> a minion of your Tier. <i>(3 turns left!)</i><br/>
             HeroPower
             </summary>
         </member>
@@ -125267,22 +125363,22 @@
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.CarielRoame_CaptainFairmount1">
             <summary>
             Normal (this):<br/>
-            <b>Choose One</b> - For the rest of the game, 'Conviction' gives an extra +2 Attack; or +2 Health.<br/>
+            At the end of your turn, randomly improve 'Conviction'.<br/>
             Tier-4 7/5 Minion<br/>
             --------------------<br/>
             Triple:<br/>
-            <b>Choose One</b> - For the rest of the game, 'Conviction' gives an extra +4 Attack; or +4 Health.<br/>
+            At the end of your turn, randomly improve 'Conviction' twice.<br/>
             Tier-4 14/10 Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.CarielRoame_CaptainFairmount2">
             <summary>
             Triple (this):<br/>
-            <b>Choose One</b> - For the rest of the game, 'Conviction' gives an extra +4 Attack; or +4 Health.<br/>
+            At the end of your turn, randomly improve 'Conviction' twice.<br/>
             Tier-4 14/10 Minion<br/>
             --------------------<br/>
             Normal:<br/>
-            <b>Choose One</b> - For the rest of the game, 'Conviction' gives an extra +2 Attack; or +2 Health.<br/>
+            At the end of your turn, randomly improve 'Conviction'.<br/>
             Tier-4 7/5 Minion
             </summary>
         </member>
@@ -125366,13 +125462,13 @@
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.CarielRoame_Conviction">
             <summary>
-            Give {2} friendly minions +{0}/+{1}. <i>(After you upgrade the Tavern, choose an improvement!)</i>1Give {2} friendly minions +{0}/+{1}.<br/>
-            1-Cost HeroPower
+            Give {2} random friendly minion +{0}/+{1}. <b><b>Passive</b>:</b> After each combat, choose an improvement.1Give {2} random friendly minions +{0}/+{1}. <b><b>Passive</b>:</b> After each combat, choose an improvement.<br/>
+            2-Cost HeroPower
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.CarielRoame_UnitedStance">
             <summary>
-            'Conviction'gives stats to an extra friendly minion this game.<br/>
+            'Conviction' gives stats to an extra friendly minion this game.<br/>
             0-Cost Spell
             </summary>
         </member>
@@ -125525,11 +125621,11 @@
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.Sneed_PilotedWhirlOTron1">
             <summary>
             Normal (this):<br/>
-            <b>Start of Combat:</b> Copy your two left-most minions' <b>Deathrattles</b> <i>(except Piloted Whirl-O-Tron)</i>.<br/>
+            <b>Start of Combat:</b> Copy your two left-most <b>Deathrattles</b> <i>(except Piloted Whirl-O-Tron)</i>.<br/>
             Tier-6 6/4 Mechanical Minion<br/>
             --------------------<br/>
             Triple:<br/>
-            <b>Start of Combat:</b> Copy your two left-most minions' <b>Deathrattles</b> twice <i>(except Piloted Whirl-O-Tron)</i>.<br/>
+            <b>Start of Combat:</b> Copy your two left-most <b>Deathrattles</b> twice <i>(except Piloted Whirl-O-Tron)</i>.<br/>
             Tier-6 12/8 Mechanical Minion
             </summary>
         </member>
@@ -125542,11 +125638,11 @@
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.Sneed_PilotedWhirlOTron2">
             <summary>
             Triple (this):<br/>
-            <b>Start of Combat:</b> Copy your two left-most minions' <b>Deathrattles</b> twice <i>(except Piloted Whirl-O-Tron)</i>.<br/>
+            <b>Start of Combat:</b> Copy your two left-most <b>Deathrattles</b> twice <i>(except Piloted Whirl-O-Tron)</i>.<br/>
             Tier-6 12/8 Mechanical Minion<br/>
             --------------------<br/>
             Normal:<br/>
-            <b>Start of Combat:</b> Copy your two left-most minions' <b>Deathrattles</b> <i>(except Piloted Whirl-O-Tron)</i>.<br/>
+            <b>Start of Combat:</b> Copy your two left-most <b>Deathrattles</b> <i>(except Piloted Whirl-O-Tron)</i>.<br/>
             Tier-6 6/4 Mechanical Minion
             </summary>
         </member>
@@ -125580,16 +125676,38 @@
             0-Cost Hero
             </summary>
         </member>
-        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.Sneed_SneedsReplicator">
+        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.Sneed_PilotTheShredder">
             <summary>
-            Give a minion "<b>Deathrattle:</b> Summon a random minion from a Tier lower."<br/>
-            1-Cost HeroPower
+            <b>Passive</b>. Start the game with a 2/1 Shredder that summons the highest-Health minion from your hand.<br/>
+            HeroPower
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.Sneed_Replicate">
             <summary>
             <b>Deathrattle</b>: Summon a random minion from a Tier lower.<br/>
             Enchantment
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.Sneed_SneedsNewShredderToken1">
+            <summary>
+            Normal (this):<br/>
+            <b>Deathrattle:</b> Summon the highest-Health minion from your hand for this combat only.<br/>
+            Tier-1 2/1 Mechanical Minion<br/>
+            --------------------<br/>
+            Triple:<br/>
+            <b>Deathrattle:</b> Summon the 2 highest-Health minions from your hand for this combat only.<br/>
+            Tier-1 4/2 Mechanical Minion
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.Sneed_SneedsNewShredderToken2">
+            <summary>
+            Triple (this):<br/>
+            <b>Deathrattle:</b> Summon the 2 highest-Health minions from your hand for this combat only.<br/>
+            Tier-1 4/2 Mechanical Minion<br/>
+            --------------------<br/>
+            Normal:<br/>
+            <b>Deathrattle:</b> Summon the highest-Health minion from your hand for this combat only.<br/>
+            Tier-1 2/1 Mechanical Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.BabyKrush">
@@ -125782,7 +125900,7 @@
             Tier-5 5/6 Minion
             </summary>
         </member>
-        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.BuddyMeter">
+        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.BuddyButton">
             <summary>
             (No Text)<br/>
             BattlegroundHeroBuddy
@@ -125815,28 +125933,22 @@
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.TavishStormpike_Crabby1">
             <summary>
             Normal (this):<br/>
-            After your Hero Power deals damage, give adjacent minions stats equal to the damage dealt.<br/>
+            After you remove a minion with 'Lock and Load,' get a plain copy of it.<br/>
             Tier-4 2/3 Beast Minion<br/>
             --------------------<br/>
             Triple:<br/>
-            After your Hero Power deals damage, give adjacent minions stats equal to twice the damage dealt.<br/>
+            After you remove a minion with 'Lock and Load,' get 2 plain copies of it.<br/>
             Tier-4 4/6 Beast Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.TavishStormpike_Crabby2">
             <summary>
-            +{0}/+{1}.<br/>
-            Enchantment
-            </summary>
-        </member>
-        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.TavishStormpike_Crabby3">
-            <summary>
             Triple (this):<br/>
-            After your Hero Power deals damage, give adjacent minions stats equal to twice the damage dealt.<br/>
+            After you remove a minion with 'Lock and Load,' get 2 plain copies of it.<br/>
             Tier-4 4/6 Beast Minion<br/>
             --------------------<br/>
             Normal:<br/>
-            After your Hero Power deals damage, give adjacent minions stats equal to the damage dealt.<br/>
+            After you remove a minion with 'Lock and Load,' get a plain copy of it.<br/>
             Tier-4 2/3 Beast Minion
             </summary>
         </member>
@@ -125872,31 +125984,37 @@
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.TavishStormpike_Deadeye">
             <summary>
-            Take aim! <b>Start of Combat:</b> Deal {1} damage to your target. <i> (Doubles every {0} turns!)</i>3Take aim! <b>Start of Combat:</b> Deal {1} damage to your target. <i> (Doubles in {0} turns!)</i><br/>
+            Take aim! <b>Start of Combat:</b> Deal {1} damage to your target.<br/>
+            0-Cost HeroPower
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.TavishStormpike_LockAndLoad">
+            <summary>
+            Remove a minion in the Tavern. When you have space next combat, fire it at a random enemy minion.<br/>
             0-Cost HeroPower
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.TavishStormpike_AimLeft">
             <summary>
-            <b>Passive. Start of Combat</b>: Deal {1} damage to the left-most enemy minion. <i>(Doubles in {0} turns!)</i><br/>
+            <b>Passive. Start of Combat</b>: Deal {1} damage to the left-most enemy minion.<br/>
             HeroPower
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.TavishStormpike_AimLow">
             <summary>
-            <b>Passive. Start of Combat</b>: Deal {1} damage to the lowest- Health enemy minion. <i>(Doubles in {0} turns!)</i><br/>
+            <b>Passive. Start of Combat</b>: Deal {1} damage to the lowest- Health enemy minion.<br/>
             HeroPower
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.TavishStormpike_AimHigh">
             <summary>
-            <b>Passive. Start of Combat</b>: Deal {1} damage to the highest- Health enemy minion. <i>(Doubles in {0} turns!)</i><br/>
+            <b>Passive. Start of Combat</b>: Deal {1} damage to the highest- Health enemy minion.<br/>
             HeroPower
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.TavishStormpike_AimRight">
             <summary>
-            <b>Passive. Start of Combat</b>: Deal {1} damage to the right-most enemy minion. <i>(Doubles in {0} turns!)</i><br/>
+            <b>Passive. Start of Combat</b>: Deal {1} damage to the right-most enemy minion.<br/>
             HeroPower
             </summary>
         </member>
@@ -126054,19 +126172,19 @@
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.Brukan_WaterInvocation1">
             <summary>
-            <b>Start of Combat:</b> Give your right-most minion +3 Health and <b>Taunt</b>.<br/>
+            <b>Start of Combat:</b> Give your right-most minion <b>Divine Shield</b> and <b>Taunt</b>.<br/>
             HeroPower
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.Brukan_WaterInvocation2">
             <summary>
-            Give your right-most minion +3 Health and <b>Taunt</b>.<br/>
+            Give your right-most minion <b>Divine Shield</b> and <b>Taunt</b>.<br/>
             0-Cost Spell
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.Brukan_ElementWater">
             <summary>
-            +3 Health and <b>Taunt</b>.<br/>
+            <b>Divine Shield</b> and <b>Taunt</b><br/>
             Enchantment
             </summary>
         </member>
@@ -126091,41 +126209,29 @@
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.DrekThar_FrostwolfLieutenant1">
             <summary>
             Normal (this):<br/>
-            <b>Avenge (2):</b> Minions in the Tavern have +1 Attack this game.<br/>
+            At the end of your turn, give your left-most minion +10 Attack.<br/>
             Tier-3 7/4 Minion<br/>
             --------------------<br/>
             Triple:<br/>
-            <b>Avenge (2):</b> Minions in the Tavern have +2 Attack this game.<br/>
+            At the end of your turn, give your left-most minion +20 Attack.<br/>
             Tier-3 14/8 Minion
             </summary>
         </member>
-        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.DrekThar_LieutenantsLeadership1">
+        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.DrekThar_FrostwolfLeadership">
             <summary>
-            Increased Attack.<br/>
+            +{0}/+{1}.<br/>
             Enchantment
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.DrekThar_FrostwolfLieutenant2">
             <summary>
             Triple (this):<br/>
-            <b>Avenge (2):</b> Minions in the Tavern have +2 Attack this game.<br/>
+            At the end of your turn, give your left-most minion +20 Attack.<br/>
             Tier-3 14/8 Minion<br/>
             --------------------<br/>
             Normal:<br/>
-            <b>Avenge (2):</b> Minions in the Tavern have +1 Attack this game.<br/>
+            At the end of your turn, give your left-most minion +10 Attack.<br/>
             Tier-3 7/4 Minion
-            </summary>
-        </member>
-        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.DrekThar_LieutenantsLeadership2">
-            <summary>
-            Increased Attack.<br/>
-            Enchantment
-            </summary>
-        </member>
-        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.DrekThar_FrostwolfPlayerEnchantDnt">
-            <summary>
-            Minions in the Tavern have increased Attack from Frostwolf Lieutenant.<br/>
-            Enchantment
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.DrekThar_DiscoDrekthar">
@@ -126164,22 +126270,10 @@
             Enchantment
             </summary>
         </member>
-        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.DrekThar_LeadTheFrostwolves">
-            <summary>
-            <b>Passive</b> <b>Avenge (2):</b> Give your minions +1 Attack permanently.<br/>
-            HeroPower
-            </summary>
-        </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.DrekThar_FrostwolfFervor">
             <summary>
-            Copied highest Attack until next turn.<br/>
-            Enchantment
-            </summary>
-        </member>
-        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.DrekThar_ModifiedAttackUntilNextTurn">
-            <summary>
-            Attack is increased or decreased until next turn.<br/>
-            Enchantment
+            <b>Passive</b>. When you have space in combat, summon a copy of your highest-Attack minion. <i>(Unlocks on Turn 7.)</i><br/>
+            HeroPower
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.VanndarStormpikeBATTLEGROUNDS">
@@ -126191,41 +126285,29 @@
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.VanndarStormpike_StormpikeLieutenant1">
             <summary>
             Normal (this):<br/>
-            <b>Avenge (2):</b> Minions in the Tavern have +1 Health this game.<br/>
+            At the end of your turn, give your right-most minion +10 Health.<br/>
             Tier-3 4/7 Minion<br/>
             --------------------<br/>
             Triple:<br/>
-            <b>Avenge (2):</b> Minions in the Tavern have +2 Health this game.<br/>
+            At the end of your turn, give your right-most minion +20 Health.<br/>
             Tier-3 8/14 Minion
             </summary>
         </member>
-        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.VanndarStormpike_LieutenantsLeadership1">
+        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.VanndarStormpike_StormpikeLeadership">
             <summary>
-            Increased Health.<br/>
+            +{0}/+{1}.<br/>
             Enchantment
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.VanndarStormpike_StormpikeLieutenant2">
             <summary>
             Triple (this):<br/>
-            <b>Avenge (2):</b> Minions in the Tavern have +2 Health this game.<br/>
+            At the end of your turn, give your right-most minion +20 Health.<br/>
             Tier-3 8/14 Minion<br/>
             --------------------<br/>
             Normal:<br/>
-            <b>Avenge (2):</b> Minions in the Tavern have +1 Health this game.<br/>
+            At the end of your turn, give your right-most minion +10 Health.<br/>
             Tier-3 4/7 Minion
-            </summary>
-        </member>
-        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.VanndarStormpike_LieutenantsLeadership2">
-            <summary>
-            Increased Health.<br/>
-            Enchantment
-            </summary>
-        </member>
-        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.VanndarStormpike_StormpikePlayerEnchantDnt">
-            <summary>
-            Minions in the Tavern have increased Health from Stormpike Lieutenant.<br/>
-            Enchantment
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.VanndarStormpike_CommanderVanndar">
@@ -126264,22 +126346,10 @@
             Enchantment
             </summary>
         </member>
-        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.VanndarStormpike_LeadTheStormpikes">
-            <summary>
-            <b>Passive</b> <b>Avenge (2):</b> Give your minions +1 Health permanently.<br/>
-            HeroPower
-            </summary>
-        </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.VanndarStormpike_StormpikeStrength">
             <summary>
-            Copied highest Health until next turn.<br/>
-            Enchantment
-            </summary>
-        </member>
-        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.VanndarStormpike_ModifiedHealthUntilNextTurn">
-            <summary>
-            Health is increased or decreased until next turn.<br/>
-            Enchantment
+            <b>Passive</b>. When you have space in combat, summon a copy of your highest-Health minion. <i>(Unlocks on Turn 7.)</i><br/>
+            HeroPower
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.VardenDawngraspBATTLEGROUNDS">
@@ -126361,23 +126431,23 @@
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.QueenAzshara_ImperialDefender1">
             <summary>
             Normal (this):<br/>
-            Whenever you cast a <b>Spellcraft</b> spell on a different friendly minion, you also cast it on this.<br/>
-            Tier-6 4/8 Naga Minion<br/>
+            After you cast a spell on a different friendly minion, you also cast it on this. <i>(Once per turn.)</i><br/>
+            Tier-3 3/4 Naga Minion<br/>
             --------------------<br/>
             Triple:<br/>
-            Whenever you cast a <b>Spellcraft</b> spell on a different friendly minion, you also cast it on this twice.<br/>
-            Tier-6 8/16 Naga Minion
+            After you cast a spell on a different friendly minion, you also cast it on this twice. <i>(Once per turn.)</i><br/>
+            Tier-3 6/8 Naga Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.QueenAzshara_ImperialDefender2">
             <summary>
             Triple (this):<br/>
-            Whenever you cast a <b>Spellcraft</b> spell on a different friendly minion, you also cast it on this twice.<br/>
-            Tier-6 8/16 Naga Minion<br/>
+            After you cast a spell on a different friendly minion, you also cast it on this twice. <i>(Once per turn.)</i><br/>
+            Tier-3 6/8 Naga Minion<br/>
             --------------------<br/>
             Normal:<br/>
-            Whenever you cast a <b>Spellcraft</b> spell on a different friendly minion, you also cast it on this.<br/>
-            Tier-6 4/8 Naga Minion
+            After you cast a spell on a different friendly minion, you also cast it on this. <i>(Once per turn.)</i><br/>
+            Tier-3 3/4 Naga Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.QueenAzshara_MidsummerQueen">
@@ -126446,12 +126516,6 @@
             0-Cost Hero
             </summary>
         </member>
-        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.StormpikePlayerEnchantEnchantment">
-            <summary>
-            Minions in the Tavern have increased Attack.<br/>
-            Enchantment
-            </summary>
-        </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.IniStormcoilBATTLEGROUNDS">
             <summary>
             (No Text)<br/>
@@ -126469,9 +126533,9 @@
             Tier-5 12/12 Mechanical Minion
             </summary>
         </member>
-        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.IniStormcoil_ScrubADubDub1">
+        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.IniStormcoil_ScrubADubDub">
             <summary>
-            +2/+2.<br/>
+            +{0}/+{1}.<br/>
             Enchantment
             </summary>
         </member>
@@ -126484,12 +126548,6 @@
             Normal:<br/>
             After you play a Mech, gain +2/+2.<br/>
             Tier-5 6/6 Mechanical Minion
-            </summary>
-        </member>
-        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.IniStormcoil_ScrubADubDub2">
-            <summary>
-            +4/+4.<br/>
-            Enchantment
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.IniStormcoil_IniSnowmaster">
@@ -126588,7 +126646,7 @@
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.AmbassadorFaelin_ExpeditionPlans">
             <summary>
-            <b>Passive.</b> Skip your first turn. <b>Discover</b> a Tier 2, 4, and 6 minion to get at those Tiers.<br/>
+            <b>Passive</b> Skip your first turn. <b>Discover</b> a Tier 6, 4, and 2 minion to get at those Tiers.<br/>
             HeroPower
             </summary>
         </member>
@@ -126615,9 +126673,9 @@
             Tier-2 8/4 Dragon Minion
             </summary>
         </member>
-        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.Onyxia_Swarming1">
+        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.Onyxia_Swarming">
             <summary>
-            +2/+2.<br/>
+            +{0}/+{1}.<br/>
             Enchantment
             </summary>
         </member>
@@ -126630,12 +126688,6 @@
             Normal:<br/>
             Whenever you summon a Whelp, gain +2/+2 permanently.<br/>
             Tier-2 4/2 Dragon Minion
-            </summary>
-        </member>
-        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.Onyxia_Swarming2">
-            <summary>
-            +4/+4.<br/>
-            Enchantment
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.Onyxia_OmencallerPrestor">
@@ -126662,9 +126714,15 @@
             0-Cost Hero
             </summary>
         </member>
+        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.Onyxia_GrowingWhelpEnchantment">
+            <summary>
+            Stats set to {0}/{1}.<br/>
+            Enchantment
+            </summary>
+        </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.Onyxia_Broodmother">
             <summary>
-            <b>Passive</b> <b>Avenge (4):</b> Summon a 3/1 Whelp. It attacks immediately.<br/>
+            <b>Avenge (4):</b> Summon a {0}/{0} Whelp that attacks immediately. Improve this by +1/+1.<br/>
             HeroPower
             </summary>
         </member>
@@ -126672,22 +126730,40 @@
             <summary>
             Normal (this):<br/>
             (No Text)<br/>
-            Tier-1 3/1 Dragon Minion<br/>
+            Tier-1 1/1 Dragon Minion<br/>
             --------------------<br/>
             Triple:<br/>
             (No Text)<br/>
-            Tier-1 6/2 Dragon Minion
+            Tier-1 2/2 Dragon Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.Onyxia_OnyxianWhelpToken2">
             <summary>
             Triple (this):<br/>
             (No Text)<br/>
-            Tier-1 6/2 Dragon Minion<br/>
+            Tier-1 2/2 Dragon Minion<br/>
             --------------------<br/>
             Normal:<br/>
             (No Text)<br/>
-            Tier-1 3/1 Dragon Minion
+            Tier-1 1/1 Dragon Minion
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.Onyxia_WhelpToken">
+            <summary>
+            Increased stats.<br/>
+            Enchantment
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.Onyxia_BroodmotherEnchantmentToken">
+            <summary>
+            Increased stats.<br/>
+            Enchantment
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.Onyxia_OnyxianWhelpPlayerEnchantToken">
+            <summary>
+            Counts the number of Whelps that you've summoned. [DNT]<br/>
+            Enchantment
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.MiniMyrmidon">
@@ -127337,23 +127413,29 @@
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.Ozumat_Tamuzo1">
             <summary>
             Normal (this):<br/>
-            <b>Avenge (2):</b> Upgrade 'Tentacular' by +1/+1.<br/>
-            Tier-2 4/4 Beast Minion<br/>
+            After you summon a minion in combat, double its stats.<br/>
+            Tier-5 4/4 Beast Minion<br/>
             --------------------<br/>
             Triple:<br/>
-            <b>Avenge (2):</b> Upgrade 'Tentacular' by +2/+2.<br/>
-            Tier-2 8/8 Beast Minion
+            After you summon a minion in combat, triple its stats.<br/>
+            Tier-5 8/8 Beast Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.Ozumat_Tamuzo2">
             <summary>
             Triple (this):<br/>
-            <b>Avenge (2):</b> Upgrade 'Tentacular' by +2/+2.<br/>
-            Tier-2 8/8 Beast Minion<br/>
+            After you summon a minion in combat, triple its stats.<br/>
+            Tier-5 8/8 Beast Minion<br/>
             --------------------<br/>
             Normal:<br/>
-            <b>Avenge (2):</b> Upgrade 'Tentacular' by +1/+1.<br/>
-            Tier-2 4/4 Beast Minion
+            After you summon a minion in combat, double its stats.<br/>
+            Tier-5 4/4 Beast Minion
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.Ozumat_ThatWasOzum">
+            <summary>
+            Stats set to {0}/{1}.<br/>
+            Enchantment
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.Ozumat_OzumatGlacialHorror">
@@ -127664,8 +127746,8 @@
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.LadyVashj_RelicsOfTheDeep">
             <summary>
-            <b>Discover</b> a <b>Spellcraft</b> spell of your Tier or lower. Its effect is permanent.<br/>
-            1-Cost HeroPower
+            <b>Passive</b> At the start of each turn, get a random <b>Spellcraft</b> spell.<br/>
+            0-Cost HeroPower
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.HeistbaronTogwaggle">
@@ -127741,12 +127823,12 @@
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.SylvanasWindrunner_NathanosBlightcaller1">
             <summary>
             Normal (this):<br/>
-            <b>Battlecry:</b> Remove a friendly minion. Give its stats to its neighbors.<br/>
-            Tier-6 6/6 Undead Minion<br/>
+            <b>Battlecry:</b> Sell a friendly minion. Split its stats evenly amongst its neighbors.<br/>
+            Tier-4 6/7 Undead Minion<br/>
             --------------------<br/>
             Triple:<br/>
-            <b>Battlecry:</b> Remove a friendly minion. Give double its stats to its neighbors.<br/>
-            Tier-6 12/12 Undead Minion
+            <b>Battlecry:</b> Sell a friendly minion. Split double its stats evenly amongst its neighbors.<br/>
+            Tier-4 12/14 Undead Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.SylvanasWindrunner_CallOfTheBlight">
@@ -127758,12 +127840,12 @@
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.SylvanasWindrunner_NathanosBlightcaller2">
             <summary>
             Triple (this):<br/>
-            <b>Battlecry:</b> Remove a friendly minion. Give double its stats to its neighbors.<br/>
-            Tier-6 12/12 Undead Minion<br/>
+            <b>Battlecry:</b> Sell a friendly minion. Split double its stats evenly amongst its neighbors.<br/>
+            Tier-4 12/14 Undead Minion<br/>
             --------------------<br/>
             Normal:<br/>
-            <b>Battlecry:</b> Remove a friendly minion. Give its stats to its neighbors.<br/>
-            Tier-6 6/6 Undead Minion
+            <b>Battlecry:</b> Sell a friendly minion. Split its stats evenly amongst its neighbors.<br/>
+            Tier-4 6/7 Undead Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.SylvanasWindrunner_SoulInfusedEnchantment">
@@ -127774,8 +127856,8 @@
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.SylvanasWindrunner_ReclaimedSouls">
             <summary>
-            Give +3/+1 to your minions that died last combat.<br/>
-            1-Cost HeroPower
+            <b>Discover</b> a plain copy of a minion that died last combat. <i>(Unlocks on Turn 3.)</i><br/>
+            2-Cost HeroPower
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.SpellcraftInHandEnchDnt">
@@ -127788,22 +127870,22 @@
             <summary>
             Normal (this):<br/>
             At the end of your turn, give your Dragons +{1} Attack and upgrade this.<br/>
-            Tier-4 2/6 Dragon Minion<br/>
+            Tier-5 4/8 Dragon Minion<br/>
             --------------------<br/>
             Triple:<br/>
             At the end of your turn, give your Dragons +{1} Attack and upgrade this.<br/>
-            Tier-4 4/12 Dragon Minion
+            Tier-5 8/16 Dragon Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.NetherDrake_NetherDrake">
             <summary>
             Triple (this):<br/>
             At the end of your turn, give your Dragons +{1} Attack and upgrade this.<br/>
-            Tier-4 4/12 Dragon Minion<br/>
+            Tier-5 8/16 Dragon Minion<br/>
             --------------------<br/>
             Normal:<br/>
             At the end of your turn, give your Dragons +{1} Attack and upgrade this.<br/>
-            Tier-4 2/6 Dragon Minion
+            Tier-5 4/8 Dragon Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.NetherDrake_NetherAgainEnchantment">
@@ -128315,28 +128397,28 @@
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.EnhanceoMechano_EnhanceOMedico1">
             <summary>
             Normal (this):<br/>
-            Minions in the Tavern with <b>Taunt</b>, <b>Reborn</b>, <b>Windfury</b>, or <b>Divine Shield</b> have +2/+2 for each.<br/>
-            Tier-1 2/2 Mechanical Minion<br/>
+            After you buy a minion, gain +2/+2 for each <b>Bonus Keyword</b> it has.<br/>
+            Tier-2 2/2 Mechanical Minion<br/>
             --------------------<br/>
             Triple:<br/>
-            Minions in the Tavern with <b>Taunt</b>, <b>Reborn</b>, <b>Windfury</b>, or <b>Divine Shield</b> have +4/+4 for each.<br/>
-            Tier-1 4/4 Mechanical Minion
+            After you buy a minion, gain +4/+4 for each <b>Bonus Keyword</b> it has.<br/>
+            Tier-2 4/4 Mechanical Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.EnhanceoMechano_EnhanceOMedico2">
             <summary>
             Triple (this):<br/>
-            Minions in the Tavern with <b>Taunt</b>, <b>Reborn</b>, <b>Windfury</b>, or <b>Divine Shield</b> have +4/+4 for each.<br/>
-            Tier-1 4/4 Mechanical Minion<br/>
+            After you buy a minion, gain +4/+4 for each <b>Bonus Keyword</b> it has.<br/>
+            Tier-2 4/4 Mechanical Minion<br/>
             --------------------<br/>
             Normal:<br/>
-            Minions in the Tavern with <b>Taunt</b>, <b>Reborn</b>, <b>Windfury</b>, or <b>Divine Shield</b> have +2/+2 for each.<br/>
-            Tier-1 2/2 Mechanical Minion
+            After you buy a minion, gain +2/+2 for each <b>Bonus Keyword</b> it has.<br/>
+            Tier-2 2/2 Mechanical Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.EnhanceoMechano_TunedUp">
             <summary>
-            Stats increased by Enhance-o Medico.<br/>
+            +{0}/+{1}.<br/>
             Enchantment
             </summary>
         </member>
@@ -128366,7 +128448,7 @@
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.EnhanceoMechano_Enhancification">
             <summary>
-            <b>Passive.</b> After each <b>Refresh</b>, give a minion in the Tavern <b>Taunt</b>, <b>Windfury</b>, <b>Reborn</b>, or <b>Divine Shield</b>.<br/>
+            <b>Passive</b> After each <b>Refresh</b>, give a minion in the Tavern a random <b>Bonus Keyword</b>.<br/>
             HeroPower
             </summary>
         </member>
@@ -128391,6 +128473,18 @@
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.EnhanceoMechano_EnhanceOWindfuryo">
             <summary>
             <b>Windfury</b><br/>
+            Enchantment
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.EnhanceoMechano_EnhanceOStealtho">
+            <summary>
+            <b>Stealth</b><br/>
+            Enchantment
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.EnhanceoMechano_EnhanceOVenomo">
+            <summary>
+            <b>Venomous</b><br/>
             Enchantment
             </summary>
         </member>
@@ -128682,7 +128776,7 @@
             Enchantment
             </summary>
         </member>
-        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.PartnerInCrime">
+        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.PartnerInCrimeBATTLEGROUNDS1">
             <summary>
             Get your Golden <b>Buddy</b>.<br/>
             BattlegroundQuestReward
@@ -129827,23 +129921,23 @@
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.SlyRaptor">
             <summary>
             Normal (this):<br/>
-            <b>Deathrattle:</b> Summon a random Beast. Set its stats to 7/7.<br/>
-            Tier-4 1/3 Beast Minion<br/>
+            <b>Deathrattle:</b> Summon a random Beast. Set its stats to 6/6.<br/>
+            Tier-3 1/3 Beast Minion<br/>
             --------------------<br/>
             Triple:<br/>
-            <b>Deathrattle:</b> Summon a random Beast. Set its stats to 14/14.<br/>
-            Tier-4 2/6 Beast Minion
+            <b>Deathrattle:</b> Summon a random Beast. Set its stats to 12/12.<br/>
+            Tier-3 2/6 Beast Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.SlyRaptor_SlyRaptor">
             <summary>
             Triple (this):<br/>
-            <b>Deathrattle:</b> Summon a random Beast. Set its stats to 14/14.<br/>
-            Tier-4 2/6 Beast Minion<br/>
+            <b>Deathrattle:</b> Summon a random Beast. Set its stats to 12/12.<br/>
+            Tier-3 2/6 Beast Minion<br/>
             --------------------<br/>
             Normal:<br/>
-            <b>Deathrattle:</b> Summon a random Beast. Set its stats to 7/7.<br/>
-            Tier-4 1/3 Beast Minion
+            <b>Deathrattle:</b> Summon a random Beast. Set its stats to 6/6.<br/>
+            Tier-3 1/3 Beast Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.SlyRaptor_FreedEnchantment">
@@ -130029,23 +130123,23 @@
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.ProfessorPutricide_Festergut1">
             <summary>
             Normal (this):<br/>
-            <b>Deathrattle:</b> Summon a random Undead Creation.<br/>
-            Tier-4 6/2 Undead Minion<br/>
+            <b>Deathrattle:</b> Summon and get a random Undead Creation.<br/>
+            Tier-5 6/2 Undead Minion<br/>
             --------------------<br/>
             Triple:<br/>
-            <b>Deathrattle:</b> Summon 2 random Undead Creations.<br/>
-            Tier-4 12/4 Undead Minion
+            <b>Deathrattle:</b> Summon and get 2 random Undead Creations.<br/>
+            Tier-5 12/4 Undead Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.ProfessorPutricide_Festergut2">
             <summary>
             Triple (this):<br/>
-            <b>Deathrattle:</b> Summon 2 random Undead Creations.<br/>
-            Tier-4 12/4 Undead Minion<br/>
+            <b>Deathrattle:</b> Summon and get 2 random Undead Creations.<br/>
+            Tier-5 12/4 Undead Minion<br/>
             --------------------<br/>
             Normal:<br/>
-            <b>Deathrattle:</b> Summon a random Undead Creation.<br/>
-            Tier-4 6/2 Undead Minion
+            <b>Deathrattle:</b> Summon and get a random Undead Creation.<br/>
+            Tier-5 6/2 Undead Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.ProfessorPutricide_OilBaronPutricide">
@@ -130087,23 +130181,23 @@
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.TeronGorefiend_ShadowyConstruct1">
             <summary>
             Normal (this):<br/>
-            <b>Deathrattle:</b> Give this minion's maximum stats to another friendly minion.<br/>
-            Tier-5 5/5 Undead Minion<br/>
+            After a friendly minion dies, gain its maximum stats. <i>(Once per combat.)</i><br/>
+            Tier-4 4/4 Undead Minion<br/>
             --------------------<br/>
             Triple:<br/>
-            <b>Deathrattle:</b> Give this minion's maximum stats to another friendly minion, twice.<br/>
-            Tier-5 10/10 Undead Minion
+            After a friendly minion dies, gain its maximum stats. <i>(Twice per combat.)</i><br/>
+            Tier-4 8/8 Undead Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.TeronGorefiend_ShadowyConstruct2">
             <summary>
             Triple (this):<br/>
-            <b>Deathrattle:</b> Give this minion's maximum stats to another friendly minion, twice.<br/>
-            Tier-5 10/10 Undead Minion<br/>
+            After a friendly minion dies, gain its maximum stats. <i>(Twice per combat.)</i><br/>
+            Tier-4 8/8 Undead Minion<br/>
             --------------------<br/>
             Normal:<br/>
-            <b>Deathrattle:</b> Give this minion's maximum stats to another friendly minion.<br/>
-            Tier-5 5/5 Undead Minion
+            After a friendly minion dies, gain its maximum stats. <i>(Once per combat.)</i><br/>
+            Tier-4 4/4 Undead Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.TeronGorefiend_FromTheShadows">
@@ -131799,29 +131893,23 @@
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.CapnHoggarr_ShiningSailor1">
             <summary>
             Normal (this):<br/>
-            After you buy 2 Pirates, gain +1/+1 and add a Pirate to the Tavern. <i>(2 left!)</i><br/>
-            Tier-5 4/7 Pirate Minion<br/>
+            <b>Divine Shield</b> The Tavern offers an extra Pirate whenever it is <b>Refreshed</b>.<br/>
+            Tier-4 4/5 Pirate Minion<br/>
             --------------------<br/>
             Triple:<br/>
-            After you buy 2 Pirates, gain +2/+2 and add a Pirate to the Tavern. <i>(2 left!)</i><br/>
-            Tier-5 8/14 Pirate Minion
+            <b>Divine Shield</b> The Tavern offers 2 extra Pirates whenever it is <b>Refreshed</b>.<br/>
+            Tier-4 8/10 Pirate Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.CapnHoggarr_ShiningSailor2">
             <summary>
             Triple (this):<br/>
-            After you buy 2 Pirates, gain +2/+2 and add a Pirate to the Tavern. <i>(2 left!)</i><br/>
-            Tier-5 8/14 Pirate Minion<br/>
+            <b>Divine Shield</b> The Tavern offers 2 extra Pirates whenever it is <b>Refreshed</b>.<br/>
+            Tier-4 8/10 Pirate Minion<br/>
             --------------------<br/>
             Normal:<br/>
-            After you buy 2 Pirates, gain +1/+1 and add a Pirate to the Tavern. <i>(2 left!)</i><br/>
-            Tier-5 4/7 Pirate Minion
-            </summary>
-        </member>
-        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.CapnHoggarr_Pearly">
-            <summary>
-            +{0}/+{1}.<br/>
-            Enchantment
+            <b>Divine Shield</b> The Tavern offers an extra Pirate whenever it is <b>Refreshed</b>.<br/>
+            Tier-4 4/5 Pirate Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.CapnHoggarr_ImTheCapnNow">
@@ -132337,22 +132425,22 @@
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.TransmutedBramblewitch">
             <summary>
             Normal (this):<br/>
-            When this attacks, set the defender's stats to 3/3. <i>(Once per combat.)</i><br/>
+            <b>Rally:</b> Set the target's stats to 3/3. <i>(Once per combat.)</i><br/>
             Tier-5 4/4 Elemental/Quilboar Minion<br/>
             --------------------<br/>
             Triple:<br/>
-            When this attacks, set the defender's stats to 3/3. <i>(Twice per combat.)</i><br/>
+            <b>Rally:</b> Set the target's stats to 3/3. <i>(Twice per combat.)</i><br/>
             Tier-5 8/8 Elemental/Quilboar Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.TransmutedBramblewitch_TransmutedBramblewitch">
             <summary>
             Triple (this):<br/>
-            When this attacks, set the defender's stats to 3/3. <i>(Twice per combat.)</i><br/>
+            <b>Rally:</b> Set the target's stats to 3/3. <i>(Twice per combat.)</i><br/>
             Tier-5 8/8 Elemental/Quilboar Minion<br/>
             --------------------<br/>
             Normal:<br/>
-            When this attacks, set the defender's stats to 3/3. <i>(Once per combat.)</i><br/>
+            <b>Rally:</b> Set the target's stats to 3/3. <i>(Once per combat.)</i><br/>
             Tier-5 4/4 Elemental/Quilboar Minion
             </summary>
         </member>
@@ -134461,23 +134549,23 @@
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.SandstoneDrake">
             <summary>
             Normal (this):<br/>
-            At the end of your turn, gain +1 Attack. Repeat for each card you played this turn.<br/>
-            Tier-5 0/9 Dragon/Elemental Minion<br/>
+            At the end of your turn, gain +1 Attack. Repeat for each card you played this turn. <i>()</i><br/>
+            Tier-3 0/5 Dragon/Elemental Minion<br/>
             --------------------<br/>
             Triple:<br/>
-            At the end of your turn, gain +2 Attack. Repeat for each card you played this turn.<br/>
-            Tier-5 0/18 Dragon/Elemental Minion
+            At the end of your turn, gain +2 Attack. Repeat for each card you played this turn. <i>()</i><br/>
+            Tier-3 0/10 Dragon/Elemental Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.SandstoneDrake_SandstoneDrake">
             <summary>
             Triple (this):<br/>
-            At the end of your turn, gain +2 Attack. Repeat for each card you played this turn.<br/>
-            Tier-5 0/18 Dragon/Elemental Minion<br/>
+            At the end of your turn, gain +2 Attack. Repeat for each card you played this turn. <i>()</i><br/>
+            Tier-3 0/10 Dragon/Elemental Minion<br/>
             --------------------<br/>
             Normal:<br/>
-            At the end of your turn, gain +1 Attack. Repeat for each card you played this turn.<br/>
-            Tier-5 0/9 Dragon/Elemental Minion
+            At the end of your turn, gain +1 Attack. Repeat for each card you played this turn. <i>()</i><br/>
+            Tier-3 0/5 Dragon/Elemental Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.SandstoneDrake_StoneScalesEnchantment">
@@ -134990,7 +135078,7 @@
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.StaffOfEnrichment">
             <summary>
-            Minions in the Tavern have +{0}/+{1} this game.<br/>
+            Give minions in the Tavern +{0}/+{1} this game.<br/>
             Tier-3 1-Cost BattlegroundSpell
             </summary>
         </member>
@@ -136520,22 +136608,22 @@
             <summary>
             Normal (this):<br/>
             <b>Divine Shield</b> Whenever this gains stats, add +2/+1 to that amount <i>(wherever this is)</i>.<br/>
-            Tier-4 2/1 Murloc Minion<br/>
+            Tier-5 2/1 Murloc Minion<br/>
             --------------------<br/>
             Triple:<br/>
             <b>Divine Shield</b> Whenever this gains stats, add +4/+2 to that amount <i>(wherever this is)</i>.<br/>
-            Tier-4 4/2 Murloc Minion
+            Tier-5 4/2 Murloc Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.LocPrince_LocPrince">
             <summary>
             Triple (this):<br/>
             <b>Divine Shield</b> Whenever this gains stats, add +4/+2 to that amount <i>(wherever this is)</i>.<br/>
-            Tier-4 4/2 Murloc Minion<br/>
+            Tier-5 4/2 Murloc Minion<br/>
             --------------------<br/>
             Normal:<br/>
             <b>Divine Shield</b> Whenever this gains stats, add +2/+1 to that amount <i>(wherever this is)</i>.<br/>
-            Tier-4 2/1 Murloc Minion
+            Tier-5 2/1 Murloc Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.LocPrince_SmoochedEnchantment">
@@ -137307,23 +137395,23 @@
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.CatacombCrasher">
             <summary>
             Normal (this):<br/>
-            Whenever you would summon a minion that doesn't fit in your warband, give your Undead +2/+2 permanently.<br/>
-            Tier-5 6/10 Undead Minion<br/>
+            Whenever you would summon a minion that doesn't fit in your warband, give your minions +1/+1 permanently.<br/>
+            Tier-5 5/10 Undead Minion<br/>
             --------------------<br/>
             Triple:<br/>
-            Whenever you would summon a minion that doesn't fit in your warband, give your Undead +4/+4 permanently.<br/>
-            Tier-5 12/20 Undead Minion
+            Whenever you would summon a minion that doesn't fit in your warband, give your minions +2/+2 permanently.<br/>
+            Tier-5 10/20 Undead Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.CatacombCrasher_CatacombCrasher">
             <summary>
             Triple (this):<br/>
-            Whenever you would summon a minion that doesn't fit in your warband, give your Undead +4/+4 permanently.<br/>
-            Tier-5 12/20 Undead Minion<br/>
+            Whenever you would summon a minion that doesn't fit in your warband, give your minions +2/+2 permanently.<br/>
+            Tier-5 10/20 Undead Minion<br/>
             --------------------<br/>
             Normal:<br/>
-            Whenever you would summon a minion that doesn't fit in your warband, give your Undead +2/+2 permanently.<br/>
-            Tier-5 6/10 Undead Minion
+            Whenever you would summon a minion that doesn't fit in your warband, give your minions +1/+1 permanently.<br/>
+            Tier-5 5/10 Undead Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.CatacombCrasher_DownInTheCatacombsEnchantment">
@@ -137494,6 +137582,28 @@
             <summary>
             (No Text)<br/>
             0-Cost Hero
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.MarintheManager_FantasticBellhop1">
+            <summary>
+            Normal (this):<br/>
+            At the end of your turn, get a helpful card.<br/>
+            Tier-4 6/6 Pirate Minion<br/>
+            --------------------<br/>
+            Triple:<br/>
+            At the end of your turn, get 2 helpful cards.<br/>
+            Tier-4 12/12 Pirate Minion
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.MarintheManager_FantasticBellhop2">
+            <summary>
+            Triple (this):<br/>
+            At the end of your turn, get 2 helpful cards.<br/>
+            Tier-4 12/12 Pirate Minion<br/>
+            --------------------<br/>
+            Normal:<br/>
+            At the end of your turn, get a helpful card.<br/>
+            Tier-4 6/6 Pirate Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.MarintheManager_AviatorMarin">
@@ -140309,28 +140419,28 @@
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.NetherConstruct">
             <summary>
             Normal (this):<br/>
-            <b>Choose One</b> - Minions in the Tavern have +4/+4 this game; or Consume all minions in the Tavern to gain their stats.<br/>
+            <b>Choose One</b> - Give minions in the Tavern +4/+4 this game; or Consume all minions in the Tavern to gain their stats.<br/>
             Tier-6 4/4 Demon/Elemental Minion<br/>
             --------------------<br/>
             Triple:<br/>
-            <b>Choose One</b> - Minions in the Tavern have +8/+8 this game; or Consume all minions in the Tavern to gain twice their stats.<br/>
+            <b>Choose One</b> - Give minions in the Tavern +8/+8 this game; or Consume all minions in the Tavern to gain their stats.<br/>
             Tier-6 8/8 Demon/Elemental Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.NetherConstruct_NetherConstruct">
             <summary>
             Triple (this):<br/>
-            <b>Choose One</b> - Minions in the Tavern have +8/+8 this game; or Consume all minions in the Tavern to gain twice their stats.<br/>
+            <b>Choose One</b> - Give minions in the Tavern +8/+8 this game; or Consume all minions in the Tavern to gain their stats.<br/>
             Tier-6 8/8 Demon/Elemental Minion<br/>
             --------------------<br/>
             Normal:<br/>
-            <b>Choose One</b> - Minions in the Tavern have +4/+4 this game; or Consume all minions in the Tavern to gain their stats.<br/>
+            <b>Choose One</b> - Give minions in the Tavern +4/+4 this game; or Consume all minions in the Tavern to gain their stats.<br/>
             Tier-6 4/4 Demon/Elemental Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.NetherConstruct_NetherEnergy">
             <summary>
-            Minions in the Tavern have +8/+8 this game.<br/>
+            Give minions in the Tavern +8/+8 this game.<br/>
             0-Cost Spell
             </summary>
         </member>
@@ -140360,7 +140470,7 @@
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.NetherConstruct_NetherEnergyToken">
             <summary>
-            Minions in the Tavern have +4/+4 this game.<br/>
+            Give minions in the Tavern +4/+4 this game.<br/>
             0-Cost Spell
             </summary>
         </member>
@@ -141098,6 +141208,28 @@
             0-Cost Hero
             </summary>
         </member>
+        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.FarseerNobundo_OutlandSunbeam1">
+            <summary>
+            Normal (this):<br/>
+            <b>Battlecry:</b> <b>Discover</b> a Tavern spell that costs (3) or more from any Tier.<br/>
+            Tier-4 5/5 Elemental Minion<br/>
+            --------------------<br/>
+            Triple:<br/>
+            <b>Battlecry:</b> <b>Discover</b> two Tavern spells that cost (3) or more from any Tier.<br/>
+            Tier-4 10/10 Elemental Minion
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.FarseerNobundo_OutlandSunbeam2">
+            <summary>
+            Triple (this):<br/>
+            <b>Battlecry:</b> <b>Discover</b> two Tavern spells that cost (3) or more from any Tier.<br/>
+            Tier-4 10/10 Elemental Minion<br/>
+            --------------------<br/>
+            Normal:<br/>
+            <b>Battlecry:</b> <b>Discover</b> a Tavern spell that costs (3) or more from any Tier.<br/>
+            Tier-4 5/5 Elemental Minion
+            </summary>
+        </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.FarseerNobundo_LamplighterNobundo">
             <summary>
             (No Text)<br/>
@@ -141116,6 +141248,28 @@
             0-Cost Hero
             </summary>
         </member>
+        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.ZerekMasterCloner_MiniZerek1">
+            <summary>
+            Normal (this):<br/>
+            <b>Battlecry:</b> Choose a minion in the Tavern. Transform into a copy of it.<br/>
+            Tier-3 1/1 Minion<br/>
+            --------------------<br/>
+            Triple:<br/>
+            <b>Battlecry:</b> Choose a minion in the Tavern. Transform into a Golden copy of it.<br/>
+            Tier-3 2/2 Minion
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.ZerekMasterCloner_MiniZerek2">
+            <summary>
+            Triple (this):<br/>
+            <b>Battlecry:</b> Choose a minion in the Tavern. Transform into a Golden copy of it.<br/>
+            Tier-3 2/2 Minion<br/>
+            --------------------<br/>
+            Normal:<br/>
+            <b>Battlecry:</b> Choose a minion in the Tavern. Transform into a copy of it.<br/>
+            Tier-3 1/1 Minion
+            </summary>
+        </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.ZerekMasterCloner_DinoClonerZerek">
             <summary>
             (No Text)<br/>
@@ -141132,6 +141286,28 @@
             <summary>
             (No Text)<br/>
             0-Cost Hero
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.ExarchOthaar_TheCelestialArchive1">
+            <summary>
+            Normal (this):<br/>
+            Whenever you buy a Tavern spell that costs (0), get a copy of it.<br/>
+            Tier-2 4/4 Mechanical Minion<br/>
+            --------------------<br/>
+            Triple:<br/>
+            Whenever you buy a Tavern spell that costs (0), get two copies of it.<br/>
+            Tier-2 8/8 Mechanical Minion
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.ExarchOthaar_TheCelestialArchive2">
+            <summary>
+            Triple (this):<br/>
+            Whenever you buy a Tavern spell that costs (0), get two copies of it.<br/>
+            Tier-2 8/8 Mechanical Minion<br/>
+            --------------------<br/>
+            Normal:<br/>
+            Whenever you buy a Tavern spell that costs (0), get a copy of it.<br/>
+            Tier-2 4/4 Mechanical Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.ExarchOthaar_ArathiOthaar">
@@ -141156,6 +141332,28 @@
             <summary>
             (No Text)<br/>
             0-Cost Hero
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.JimRaynor_TychusFindlay1">
+            <summary>
+            Normal (this):<br/>
+            After you cast a Tavern spell, get a random Battlecruiser Upgrade.<br/>
+            Tier-5 5/6 Minion<br/>
+            --------------------<br/>
+            Triple:<br/>
+            After you cast a Tavern spell, get 2 random Battlecruiser Upgrades.<br/>
+            Tier-5 10/12 Minion
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.JimRaynor_TychusFindlay2">
+            <summary>
+            Triple (this):<br/>
+            After you cast a Tavern spell, get 2 random Battlecruiser Upgrades.<br/>
+            Tier-5 10/12 Minion<br/>
+            --------------------<br/>
+            Normal:<br/>
+            After you cast a Tavern spell, get a random Battlecruiser Upgrade.<br/>
+            Tier-5 5/6 Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.JimRaynor_LiftOff">
@@ -141534,6 +141732,40 @@
             0-Cost Hero
             </summary>
         </member>
+        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.Artanis_Probius1">
+            <summary>
+            Normal (this):<br/>
+            <b>Magnetic</b> After you <b>Magnetize</b> this to a Mech, make it Golden.<br/>
+            Tier-4 8/4 Mechanical Minion<br/>
+            --------------------<br/>
+            Triple:<br/>
+            <b>Magnetic</b> After you <b>Magnetize</b> this to a Mech, make it Golden.<br/>
+            Tier-4 16/8 Mechanical Minion
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.Artanis_Probius2">
+            <summary>
+            Triple (this):<br/>
+            <b>Magnetic</b> After you <b>Magnetize</b> this to a Mech, make it Golden.<br/>
+            Tier-4 16/8 Mechanical Minion<br/>
+            --------------------<br/>
+            Normal:<br/>
+            <b>Magnetic</b> After you <b>Magnetize</b> this to a Mech, make it Golden.<br/>
+            Tier-4 8/4 Mechanical Minion
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.Artanis_Probius3">
+            <summary>
+            Increased stats.<br/>
+            Enchantment
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.Artanis_Probius4">
+            <summary>
+            Increased stats.<br/>
+            Enchantment
+            </summary>
+        </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.Artanis_WarpGate">
             <summary>
             <b>Passive.</b> At the start of the game, choose from 2 Protoss minions to get after you buy 14 cards. <i>({0} left!)</i>14<b>Passive.</b> At the start of the game, choose from 2 Protoss minions to get after you buy 14 cards. <i>(Done!)</i><br/>
@@ -141702,6 +141934,34 @@
             0-Cost Hero
             </summary>
         </member>
+        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.KerriganQueenofBlades_BrokenHorn1">
+            <summary>
+            Normal (this):<br/>
+            <b>Battlecry:</b> <b>Discover</b> a Zerg minion and set its stats to 6/6. It doesn't morph.<br/>
+            Tier-5 4/4 Minion<br/>
+            --------------------<br/>
+            Triple:<br/>
+            <b>Battlecry:</b> <b>Discover</b> two Zerg minions and set their stats to 6/6. They don't morph.<br/>
+            Tier-5 8/8 Minion
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.KerriganQueenofBlades_BrokenHorn2">
+            <summary>
+            Triple (this):<br/>
+            <b>Battlecry:</b> <b>Discover</b> two Zerg minions and set their stats to 6/6. They don't morph.<br/>
+            Tier-5 8/8 Minion<br/>
+            --------------------<br/>
+            Normal:<br/>
+            <b>Battlecry:</b> <b>Discover</b> a Zerg minion and set its stats to 6/6. It doesn't morph.<br/>
+            Tier-5 4/4 Minion
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.KerriganQueenofBlades_BrokenIn">
+            <summary>
+            Stats set to {0}/{1}. No longer morphs.<br/>
+            Enchantment
+            </summary>
+        </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.KerriganQueenofBlades_SpawningPool">
             <summary>
             Unlock Tier 2 Zerg. Costs (1) less each turn. <b>Passive:</b> Start the game with a 2/2 Larva.<br/>
@@ -141745,22 +142005,22 @@
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.KerriganQueenofBlades_UltraliskToken1">
             <summary>
             Normal (this):<br/>
-            Also damages adjacent minions. <b>Start of Combat:</b> Double this minion's stats. <i>(Morphs each turn!)</i><br/>
+            Also damages adjacent minions. <b>Start of Combat:</b> Double this minion's stats. <i>(Morphs each turn!)</i>Also damages adjacent minions. <b>Start of Combat:</b> Double this minion's stats.<br/>
             Tier-3 2/2 Minion<br/>
             --------------------<br/>
             Triple:<br/>
-            Also damages adjacent minions. <b>Start of Combat:</b> Triple this minion's stats. <i>(Morphs each turn!)</i><br/>
+            Also damages adjacent minions. <b>Start of Combat:</b> Triple this minion's stats. <i>(Morphs each turn!)</i>Also damages adjacent minions. <b>Start of Combat:</b> Triple this minion's stats.<br/>
             Tier-3 4/4 Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.KerriganQueenofBlades_UltraliskToken2">
             <summary>
             Triple (this):<br/>
-            Also damages adjacent minions. <b>Start of Combat:</b> Triple this minion's stats. <i>(Morphs each turn!)</i><br/>
+            Also damages adjacent minions. <b>Start of Combat:</b> Triple this minion's stats. <i>(Morphs each turn!)</i>Also damages adjacent minions. <b>Start of Combat:</b> Triple this minion's stats.<br/>
             Tier-3 4/4 Minion<br/>
             --------------------<br/>
             Normal:<br/>
-            Also damages adjacent minions. <b>Start of Combat:</b> Double this minion's stats. <i>(Morphs each turn!)</i><br/>
+            Also damages adjacent minions. <b>Start of Combat:</b> Double this minion's stats. <i>(Morphs each turn!)</i>Also damages adjacent minions. <b>Start of Combat:</b> Double this minion's stats.<br/>
             Tier-3 2/2 Minion
             </summary>
         </member>
@@ -141773,44 +142033,44 @@
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.KerriganQueenofBlades_ZerglingToken1">
             <summary>
             Normal (this):<br/>
-            <b>Start of Combat:</b> Summon a copy of this minion. <i>(Morphs each turn!)</i><br/>
+            <b>Start of Combat:</b> Summon a copy of this minion. <i>(Morphs each turn!)</i><b>Start of Combat:</b> Summon a copy of this minion.<br/>
             Tier-1 2/2 Minion<br/>
             --------------------<br/>
             Triple:<br/>
-            <b>Start of Combat:</b> Summon 2 copies of this minion. <i>(Morphs each turn!)</i><br/>
+            <b>Start of Combat:</b> Summon 2 copies of this minion. <i>(Morphs each turn!)</i><b>Start of Combat:</b> Summon 2 copies of this minion.<br/>
             Tier-1 4/4 Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.KerriganQueenofBlades_ZerglingToken2">
             <summary>
             Triple (this):<br/>
-            <b>Start of Combat:</b> Summon 2 copies of this minion. <i>(Morphs each turn!)</i><br/>
+            <b>Start of Combat:</b> Summon 2 copies of this minion. <i>(Morphs each turn!)</i><b>Start of Combat:</b> Summon 2 copies of this minion.<br/>
             Tier-1 4/4 Minion<br/>
             --------------------<br/>
             Normal:<br/>
-            <b>Start of Combat:</b> Summon a copy of this minion. <i>(Morphs each turn!)</i><br/>
+            <b>Start of Combat:</b> Summon a copy of this minion. <i>(Morphs each turn!)</i><b>Start of Combat:</b> Summon a copy of this minion.<br/>
             Tier-1 2/2 Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.KerriganQueenofBlades_RoachToken1">
             <summary>
             Normal (this):<br/>
-            <b>Taunt</b> At the end of your turn, gain Health equal to your Tier. <i>(Morphs each turn!)</i><br/>
+            <b>Taunt</b> At the end of your turn, gain Health equal to your Tier. <i>(Morphs each turn!)</i><b>Taunt</b> At the end of your turn, gain Health equal to your Tier.<br/>
             Tier-1 2/2 Minion<br/>
             --------------------<br/>
             Triple:<br/>
-            <b><b>Taunt</b>.</b> At the end of your turn, gain Health equal to twice your Tier. <i>(Morphs each turn!)</i><br/>
+            <b><b>Taunt</b>.</b> At the end of your turn, gain Health equal to twice your Tier. <i>(Morphs each turn!)</i><b><b>Taunt</b>.</b> At the end of your turn, gain Health equal to twice your Tier.<br/>
             Tier-1 4/4 Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.KerriganQueenofBlades_RoachToken2">
             <summary>
             Triple (this):<br/>
-            <b><b>Taunt</b>.</b> At the end of your turn, gain Health equal to twice your Tier. <i>(Morphs each turn!)</i><br/>
+            <b><b>Taunt</b>.</b> At the end of your turn, gain Health equal to twice your Tier. <i>(Morphs each turn!)</i><b><b>Taunt</b>.</b> At the end of your turn, gain Health equal to twice your Tier.<br/>
             Tier-1 4/4 Minion<br/>
             --------------------<br/>
             Normal:<br/>
-            <b>Taunt</b> At the end of your turn, gain Health equal to your Tier. <i>(Morphs each turn!)</i><br/>
+            <b>Taunt</b> At the end of your turn, gain Health equal to your Tier. <i>(Morphs each turn!)</i><b>Taunt</b> At the end of your turn, gain Health equal to your Tier.<br/>
             Tier-1 2/2 Minion
             </summary>
         </member>
@@ -141823,22 +142083,22 @@
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.KerriganQueenofBlades_HydraliskToken1">
             <summary>
             Normal (this):<br/>
-            <b>Windfury</b> <b>Rally:</b> Gain Attack equal to your Tier permanently. <i>(Morphs each turn!)</i><br/>
+            <b>Windfury</b> <b>Rally:</b> Gain Attack equal to your Tier permanently. <i>(Morphs each turn!)</i><b>Windfury</b> <b>Rally:</b> Gain Attack equal to your Tier permanently.<br/>
             Tier-1 2/2 Minion<br/>
             --------------------<br/>
             Triple:<br/>
-            <b>Windfury</b> <b>Rally:</b> Gain Attack equal to twice your Tier permanently. <i>(Morphs each turn!)</i><br/>
+            <b>Windfury</b> <b>Rally:</b> Gain Attack equal to twice your Tier permanently. <i>(Morphs each turn!)</i><b>Windfury</b> <b>Rally:</b> Gain Attack equal to twice your Tier permanently.<br/>
             Tier-1 4/4 Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.KerriganQueenofBlades_HydraliskToken2">
             <summary>
             Triple (this):<br/>
-            <b>Windfury</b> <b>Rally:</b> Gain Attack equal to twice your Tier permanently. <i>(Morphs each turn!)</i><br/>
+            <b>Windfury</b> <b>Rally:</b> Gain Attack equal to twice your Tier permanently. <i>(Morphs each turn!)</i><b>Windfury</b> <b>Rally:</b> Gain Attack equal to twice your Tier permanently.<br/>
             Tier-1 4/4 Minion<br/>
             --------------------<br/>
             Normal:<br/>
-            <b>Windfury</b> <b>Rally:</b> Gain Attack equal to your Tier permanently. <i>(Morphs each turn!)</i><br/>
+            <b>Windfury</b> <b>Rally:</b> Gain Attack equal to your Tier permanently. <i>(Morphs each turn!)</i><b>Windfury</b> <b>Rally:</b> Gain Attack equal to your Tier permanently.<br/>
             Tier-1 2/2 Minion
             </summary>
         </member>
@@ -141851,44 +142111,44 @@
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.KerriganQueenofBlades_BanelingToken1">
             <summary>
             Normal (this):<br/>
-            <b>Deathrattle:</b> Deal damage equal to this minion's Attack to a random enemy minion. <i>(Morphs each turn!)</i><br/>
+            <b>Deathrattle:</b> Deal damage equal to this minion's Attack to a random enemy minion. <i>(Morphs each turn!)</i><b>Deathrattle:</b> Deal damage equal to this minion's Attack to a random enemy minion.<br/>
             Tier-2 2/2 Minion<br/>
             --------------------<br/>
             Triple:<br/>
-            <b>Deathrattle:</b> Deal damage equal to this minion's Attack to a random enemy minion, twice. <i>(Morphs each turn!)</i><br/>
+            <b>Deathrattle:</b> Deal damage equal to this minion's Attack to a random enemy minion, twice. <i>(Morphs each turn!)</i> <b>Deathrattle:</b> Deal damage equal to this minion's Attack to a random enemy minion, twice.<br/>
             Tier-2 4/4 Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.KerriganQueenofBlades_BanelingToken2">
             <summary>
             Triple (this):<br/>
-            <b>Deathrattle:</b> Deal damage equal to this minion's Attack to a random enemy minion, twice. <i>(Morphs each turn!)</i><br/>
+            <b>Deathrattle:</b> Deal damage equal to this minion's Attack to a random enemy minion, twice. <i>(Morphs each turn!)</i> <b>Deathrattle:</b> Deal damage equal to this minion's Attack to a random enemy minion, twice.<br/>
             Tier-2 4/4 Minion<br/>
             --------------------<br/>
             Normal:<br/>
-            <b>Deathrattle:</b> Deal damage equal to this minion's Attack to a random enemy minion. <i>(Morphs each turn!)</i><br/>
+            <b>Deathrattle:</b> Deal damage equal to this minion's Attack to a random enemy minion. <i>(Morphs each turn!)</i><b>Deathrattle:</b> Deal damage equal to this minion's Attack to a random enemy minion.<br/>
             Tier-2 2/2 Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.KerriganQueenofBlades_MutaliskToken1">
             <summary>
             Normal (this):<br/>
-            After a friendly minion kills an enemy, gain +1 Attack permanently. <i>(Morphs each turn!)</i><br/>
+            After a friendly minion kills an enemy, gain +1 Attack permanently. <i>(Morphs each turn!)</i>After a friendly minion kills an enemy, gain +1 Attack permanently.<br/>
             Tier-2 2/2 Minion<br/>
             --------------------<br/>
             Triple:<br/>
-            After a friendly minion kills an enemy, gain +2 Attack permanently. <i>(Morphs each turn!)</i><br/>
+            After a friendly minion kills an enemy, gain +2 Attack permanently. <i>(Morphs each turn!)</i>After a friendly minion kills an enemy, gain +2 Attack permanently.<br/>
             Tier-2 4/4 Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.KerriganQueenofBlades_MutaliskToken2">
             <summary>
             Triple (this):<br/>
-            After a friendly minion kills an enemy, gain +2 Attack permanently. <i>(Morphs each turn!)</i><br/>
+            After a friendly minion kills an enemy, gain +2 Attack permanently. <i>(Morphs each turn!)</i>After a friendly minion kills an enemy, gain +2 Attack permanently.<br/>
             Tier-2 4/4 Minion<br/>
             --------------------<br/>
             Normal:<br/>
-            After a friendly minion kills an enemy, gain +1 Attack permanently. <i>(Morphs each turn!)</i><br/>
+            After a friendly minion kills an enemy, gain +1 Attack permanently. <i>(Morphs each turn!)</i>After a friendly minion kills an enemy, gain +1 Attack permanently.<br/>
             Tier-2 2/2 Minion
             </summary>
         </member>
@@ -141901,22 +142161,22 @@
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.KerriganQueenofBlades_LurkerToken1">
             <summary>
             Normal (this):<br/>
-            <b><b>Stealth</b>. Avenge (1):</b> Gain +1/+1 permanently. <i>(Morphs each turn!)</i><br/>
+            <b><b>Stealth</b>. Avenge (1):</b> Gain +1/+1 permanently. <i>(Morphs each turn!)</i>1<b><b>Stealth</b>. Avenge (1):</b> Gain +1/+1 permanently.<br/>
             Tier-2 2/2 Minion<br/>
             --------------------<br/>
             Triple:<br/>
-            <b><b>Stealth</b>. Avenge (1):</b> Gain +2/+2 permanently. <i>(Morphs each turn!)</i><br/>
+            <b><b>Stealth</b>. Avenge (1):</b> Gain +2/+2 permanently. <i>(Morphs each turn!)</i>1<b><b>Stealth</b>. Avenge (1):</b> Gain +2/+2 permanently.<br/>
             Tier-2 4/4 Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.KerriganQueenofBlades_LurkerToken2">
             <summary>
             Triple (this):<br/>
-            <b><b>Stealth</b>. Avenge (1):</b> Gain +2/+2 permanently. <i>(Morphs each turn!)</i><br/>
+            <b><b>Stealth</b>. Avenge (1):</b> Gain +2/+2 permanently. <i>(Morphs each turn!)</i>1<b><b>Stealth</b>. Avenge (1):</b> Gain +2/+2 permanently.<br/>
             Tier-2 4/4 Minion<br/>
             --------------------<br/>
             Normal:<br/>
-            <b><b>Stealth</b>. Avenge (1):</b> Gain +1/+1 permanently. <i>(Morphs each turn!)</i><br/>
+            <b><b>Stealth</b>. Avenge (1):</b> Gain +1/+1 permanently. <i>(Morphs each turn!)</i>1<b><b>Stealth</b>. Avenge (1):</b> Gain +1/+1 permanently.<br/>
             Tier-2 2/2 Minion
             </summary>
         </member>
@@ -141929,44 +142189,44 @@
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.KerriganQueenofBlades_ViperToken1">
             <summary>
             Normal (this):<br/>
-            <b>Venomous Immune</b> while attacking. <i>(Morphs each turn!)</i><br/>
+            <b>Venomous Immune</b> while attacking. <i>(Morphs each turn!)</i><b>Venomous Immune</b> while attacking.<br/>
             Tier-3 2/2 Minion<br/>
             --------------------<br/>
             Triple:<br/>
-            <b>Venomous Immune</b> while attacking. <i>(Morphs each turn!)</i><br/>
+            <b>Venomous Immune</b> while attacking. <i>(Morphs each turn!)</i><b>Venomous Immune</b> while attacking.<br/>
             Tier-3 4/4 Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.KerriganQueenofBlades_ViperToken2">
             <summary>
             Triple (this):<br/>
-            <b>Venomous Immune</b> while attacking. <i>(Morphs each turn!)</i><br/>
+            <b>Venomous Immune</b> while attacking. <i>(Morphs each turn!)</i><b>Venomous Immune</b> while attacking.<br/>
             Tier-3 4/4 Minion<br/>
             --------------------<br/>
             Normal:<br/>
-            <b>Venomous Immune</b> while attacking. <i>(Morphs each turn!)</i><br/>
+            <b>Venomous Immune</b> while attacking. <i>(Morphs each turn!)</i><b>Venomous Immune</b> while attacking.<br/>
             Tier-3 2/2 Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.KerriganQueenofBlades_InfestorToken1">
             <summary>
             Normal (this):<br/>
-            Whenever you play a card, give your minions +1/+1. <i>(Morphs each turn!)</i><br/>
+            Whenever you play a card, give your minions +1/+1. <i>(Morphs each turn!)</i>Whenever you play a card, give your minions +1/+1.<br/>
             Tier-3 2/2 Minion<br/>
             --------------------<br/>
             Triple:<br/>
-            Whenever you play a card, give your minions +2/+2. <i>(Morphs each turn!)</i><br/>
+            Whenever you play a card, give your minions +2/+2. <i>(Morphs each turn!)</i>Whenever you play a card, give your minions +2/+2.<br/>
             Tier-3 4/4 Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.KerriganQueenofBlades_InfestorToken2">
             <summary>
             Triple (this):<br/>
-            Whenever you play a card, give your minions +2/+2. <i>(Morphs each turn!)</i><br/>
+            Whenever you play a card, give your minions +2/+2. <i>(Morphs each turn!)</i>Whenever you play a card, give your minions +2/+2.<br/>
             Tier-3 4/4 Minion<br/>
             --------------------<br/>
             Normal:<br/>
-            Whenever you play a card, give your minions +1/+1. <i>(Morphs each turn!)</i><br/>
+            Whenever you play a card, give your minions +1/+1. <i>(Morphs each turn!)</i>Whenever you play a card, give your minions +1/+1.<br/>
             Tier-3 2/2 Minion
             </summary>
         </member>
@@ -143484,6 +143744,34 @@
             0-Cost Hero
             </summary>
         </member>
+        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.ForestLordCenarius_Malorne1">
+            <summary>
+            Normal (this):<br/>
+            Has +1/+1 for every 3 Gold you've spent this game.<br/>
+            Tier-4 1/1 Beast Minion<br/>
+            --------------------<br/>
+            Triple:<br/>
+            Has +2/+2 for every 3 Gold you've spent this game.<br/>
+            Tier-4 2/2 Beast Minion
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.ForestLordCenarius_Malorne2">
+            <summary>
+            Triple (this):<br/>
+            Has +2/+2 for every 3 Gold you've spent this game.<br/>
+            Tier-4 2/2 Beast Minion<br/>
+            --------------------<br/>
+            Normal:<br/>
+            Has +1/+1 for every 3 Gold you've spent this game.<br/>
+            Tier-4 1/1 Beast Minion
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.ForestLordCenarius_PowerOfAncients">
+            <summary>
+            Increased stats.<br/>
+            Enchantment
+            </summary>
+        </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.ForestLordCenarius_WisdomOfAncients">
             <summary>
             Increase your maximum Gold by 1.<br/>
@@ -143494,6 +143782,28 @@
             <summary>
             (No Text)<br/>
             0-Cost Hero
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.Buttons_Zippers1">
+            <summary>
+            Normal (this):<br/>
+            <b>Deathrattle:</b> Get a helpful card.<br/>
+            Tier-5 5/5 Undead Minion<br/>
+            --------------------<br/>
+            Triple:<br/>
+            <b>Deathrattle:</b> Get 2 helpful cards.<br/>
+            Tier-5 10/10 Undead Minion
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.Buttons_Zippers2">
+            <summary>
+            Triple (this):<br/>
+            <b>Deathrattle:</b> Get 2 helpful cards.<br/>
+            Tier-5 10/10 Undead Minion<br/>
+            --------------------<br/>
+            Normal:<br/>
+            <b>Deathrattle:</b> Get a helpful card.<br/>
+            Tier-5 5/5 Undead Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.Buttons_GrowingCollection">
@@ -145136,6 +145446,28 @@
             Tier-6 6/5 Elemental Minion
             </summary>
         </member>
+        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.ExpertTechnician">
+            <summary>
+            Normal (this):<br/>
+            <b>Taunt</b>. <b>Deathrattle:</b> Your left- most minion immediately attacks the enemy minion that killed this.<br/>
+            Tier-4 5/1 Minion<br/>
+            --------------------<br/>
+            Triple:<br/>
+            <b>Taunt</b>. <b>Deathrattle:</b> Your left- most minion immediately attacks the enemy minion that killed this, twice.<br/>
+            Tier-4 10/2 Minion
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.ExpertTechnician_ExpertTechnician">
+            <summary>
+            Triple (this):<br/>
+            <b>Taunt</b>. <b>Deathrattle:</b> Your left- most minion immediately attacks the enemy minion that killed this, twice.<br/>
+            Tier-4 10/2 Minion<br/>
+            --------------------<br/>
+            Normal:<br/>
+            <b>Taunt</b>. <b>Deathrattle:</b> Your left- most minion immediately attacks the enemy minion that killed this.<br/>
+            Tier-4 5/1 Minion
+            </summary>
+        </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.P0UlTr0N">
             <summary>
             Normal (this):<br/>
@@ -145178,6 +145510,28 @@
             Normal:<br/>
             Whenever a friendly <b>Rally</b> minion attacks, play 2 <b>Blood Gems</b> on this.<br/>
             Tier-2 3/4 Quilboar Minion
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.FriendlyBouncer">
+            <summary>
+            Normal (this):<br/>
+            <b>Rally:</b> Get and summon a random <b>Rally</b> minion.<br/>
+            Tier-4 6/4 Minion<br/>
+            --------------------<br/>
+            Triple:<br/>
+            <b>Rally:</b> Get and summon 2 random <b>Rally</b> minions.<br/>
+            Tier-4 12/8 Minion
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.FriendlyBouncer_FriendlyBouncer">
+            <summary>
+            Triple (this):<br/>
+            <b>Rally:</b> Get and summon 2 random <b>Rally</b> minions.<br/>
+            Tier-4 12/8 Minion<br/>
+            --------------------<br/>
+            Normal:<br/>
+            <b>Rally:</b> Get and summon a random <b>Rally</b> minion.<br/>
+            Tier-4 6/4 Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.ExceptionalCaretaker">
@@ -145324,6 +145678,50 @@
             <summary>
             +{0} Attack.<br/>
             Enchantment
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.SuperConstructor">
+            <summary>
+            Normal (this):<br/>
+            <b>Rally:</b> Your Tavern spells that give stats grant an extra +1/+1 this game.<br/>
+            Tier-5 4/7 Mechanical Minion<br/>
+            --------------------<br/>
+            Triple:<br/>
+            <b>Rally:</b> Your Tavern spells that give stats grant an extra +2/+2 this game.<br/>
+            Tier-5 8/14 Mechanical Minion
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.SuperConstructor_SuperConstructor">
+            <summary>
+            Triple (this):<br/>
+            <b>Rally:</b> Your Tavern spells that give stats grant an extra +2/+2 this game.<br/>
+            Tier-5 8/14 Mechanical Minion<br/>
+            --------------------<br/>
+            Normal:<br/>
+            <b>Rally:</b> Your Tavern spells that give stats grant an extra +1/+1 this game.<br/>
+            Tier-5 4/7 Mechanical Minion
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.DivineSparkbot">
+            <summary>
+            Normal (this):<br/>
+            <b>Divine Shield</b>, <b>Taunt</b> <b>Deathrattle:</b> Get a Sanctify.<br/>
+            Tier-5 4/2 Mechanical Minion<br/>
+            --------------------<br/>
+            Triple:<br/>
+            <b>Divine Shield</b>, <b>Taunt</b> <b>Deathrattle:</b> Get 2 Sanctifies.<br/>
+            Tier-5 8/4 Mechanical Minion
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.DivineSparkbot_DivineSparkbot">
+            <summary>
+            Triple (this):<br/>
+            <b>Divine Shield</b>, <b>Taunt</b> <b>Deathrattle:</b> Get 2 Sanctifies.<br/>
+            Tier-5 8/4 Mechanical Minion<br/>
+            --------------------<br/>
+            Normal:<br/>
+            <b>Divine Shield</b>, <b>Taunt</b> <b>Deathrattle:</b> Get a Sanctify.<br/>
+            Tier-5 4/2 Mechanical Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.HealthyBounty">
@@ -145592,6 +145990,28 @@
             Enchantment
             </summary>
         </member>
+        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.AzsharanCutlassier">
+            <summary>
+            Normal (this):<br/>
+            <b>Battlecry:</b> Your Tavern spells that give stats grant an extra +1 Attack this game.<br/>
+            Tier-3 6/4 Pirate Minion<br/>
+            --------------------<br/>
+            Triple:<br/>
+            <b>Battlecry:</b> Your Tavern spells that give stats grant an extra +2 Attack this game.<br/>
+            Tier-3 12/8 Pirate Minion
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.AzsharanCutlassier_AzsharanCutlassier">
+            <summary>
+            Triple (this):<br/>
+            <b>Battlecry:</b> Your Tavern spells that give stats grant an extra +2 Attack this game.<br/>
+            Tier-3 12/8 Pirate Minion<br/>
+            --------------------<br/>
+            Normal:<br/>
+            <b>Battlecry:</b> Your Tavern spells that give stats grant an extra +1 Attack this game.<br/>
+            Tier-3 6/4 Pirate Minion
+            </summary>
+        </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.StompingStegodon">
             <summary>
             Normal (this):<br/>
@@ -145616,7 +146036,7 @@
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.StompingStegodon_GotStomped">
             <summary>
-            +{0}/+{1}.<br/>
+            +{2}/+{3}.<br/>
             Enchantment
             </summary>
         </member>
@@ -145628,7 +146048,7 @@
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.StompingStegodon_GotStompedEnchantment">
             <summary>
-            +{0}/+{1}.<br/>
+            +{2}/+{3}.<br/>
             Enchantment
             </summary>
         </member>
@@ -145744,7 +146164,29 @@
             Enchantment
             </summary>
         </member>
-        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.TavernSpellsCostLessDnt">
+        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.GolemArchivist">
+            <summary>
+            Normal (this):<br/>
+            <b>Battlecry:</b> The next Tavern spell you buy costs (2) less.<br/>
+            Tier-3 4/4 Minion<br/>
+            --------------------<br/>
+            Triple:<br/>
+            <b>Battlecry:</b> The next two Tavern spells you buy cost (2) less.<br/>
+            Tier-3 8/8 Minion
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.GolemArchivist_GolemArchivist">
+            <summary>
+            Triple (this):<br/>
+            <b>Battlecry:</b> The next two Tavern spells you buy cost (2) less.<br/>
+            Tier-3 8/8 Minion<br/>
+            --------------------<br/>
+            Normal:<br/>
+            <b>Battlecry:</b> The next Tavern spell you buy costs (2) less.<br/>
+            Tier-3 4/4 Minion
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.GolemArchivist_TavernSpellsCostLessDnt">
             <summary>
             (No Text)<br/>
             Enchantment
@@ -146016,6 +146458,40 @@
             Enchantment
             </summary>
         </member>
+        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.MurkySplashFisher">
+            <summary>
+            Normal (this):<br/>
+            <b>Battlecry:</b> Get a copy of Murky's Fish.<br/>
+            Tier-4 4/3 Murloc Minion<br/>
+            --------------------<br/>
+            Triple:<br/>
+            <b>Battlecry:</b> Get 2 copies of Murky's Fish.<br/>
+            Tier-4 8/6 Murloc Minion
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.MurkySplashFisher_MurkySplashFisher">
+            <summary>
+            Triple (this):<br/>
+            <b>Battlecry:</b> Get 2 copies of Murky's Fish.<br/>
+            Tier-4 8/6 Murloc Minion<br/>
+            --------------------<br/>
+            Normal:<br/>
+            <b>Battlecry:</b> Get a copy of Murky's Fish.<br/>
+            Tier-4 4/3 Murloc Minion
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.MurkysFish">
+            <summary>
+            Give a Murloc +{0}/+{1}. Repeat for each Murloc you control.<br/>
+            Tier-4 2-Cost BattlegroundSpell
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.MurkysFish_FishyEnchantment">
+            <summary>
+            +{0}/+{1}.<br/>
+            Enchantment
+            </summary>
+        </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.MountingAvalanche">
             <summary>
             Sell a friendly minion. Give its stats to your left-most Elemental.<br/>
@@ -146104,6 +146580,76 @@
             Normal:<br/>
             <b>Rally:</b> Your Tavern spells give an extra +{0} Health this game.<br/>
             Tier-3 1/5 Dragon Minion
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.SummoningPact">
+            <summary>
+            After you upgrade the Tavern, reduce the cost of your next <b>Buddy</b> by (2).<br/>
+            BattlegroundAnomaly
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.SpiritOfFriendship">
+            <summary>
+            After you press your <b>Buddy</b> <b>Button</b>, also <b>Discover</b> a <b>Buddy</b>.<br/>
+            BattlegroundAnomaly
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.ThirdNature">
+            <summary>
+            You can press your <b>Buddy</b> <b>Button</b> a 3rd time for a Golden <b>Buddy</b>. It costs half.<br/>
+            BattlegroundAnomaly
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.ColorfulCamaraderie">
+            <summary>
+            <b>Buddies</b> have all minion types.<br/>
+            BattlegroundAnomaly
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.PartnerInCrimeBATTLEGROUNDS2">
+            <summary>
+            You have no <b>Buddy Button</b>. On turn 4, choose a <b>Quest</b> to get your Golden <b>Buddy</b>.<br/>
+            BattlegroundAnomaly
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.PartnerinCrime_DiscoverQuestFixedBuddyDnt">
+            <summary>
+            <b>Discover</b> a Quest and Reward pair. [DNT]<br/>
+            0-Cost Spell
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.PartnerinCrime_AnInvestigation">
+            <summary>
+            In 3 turns, choose one of three <b>Quests</b>!<br/>
+            Spell
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.AmicableAmendment">
+            <summary>
+            The Cost of your <b><b>Buddy</b> Button</b> is 50% higher, but reduces by (1) after you buy a card.<br/>
+            BattlegroundAnomaly
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.StoneshellGuardian1">
+            <summary>
+            Normal (this):<br/>
+            <b>Start of Combat:</b> Copy your two left-most <b>Rallies</b> <i>(except Stoneshell Guardian)</i>.<br/>
+            Tier-5 3/7 Minion<br/>
+            --------------------<br/>
+            Triple:<br/>
+            <b>Start of Combat:</b> Copy your two left-most <b>Rallies</b> twice <i>(except Stoneshell Guardian)</i>.<br/>
+            Tier-5 6/14 Minion
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.StoneshellGuardian2">
+            <summary>
+            Triple (this):<br/>
+            <b>Start of Combat:</b> Copy your two left-most <b>Rallies</b> twice <i>(except Stoneshell Guardian)</i>.<br/>
+            Tier-5 6/14 Minion<br/>
+            --------------------<br/>
+            Normal:<br/>
+            <b>Start of Combat:</b> Copy your two left-most <b>Rallies</b> <i>(except Stoneshell Guardian)</i>.<br/>
+            Tier-5 3/7 Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.LohTheLivingLegend">
@@ -146869,23 +147415,23 @@
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.FlobbidinousFloop_GloriousGloopling1">
             <summary>
             Normal (this):<br/>
-            At the start of your turn, get a plain copy of your teammate's highest-Tier minion <i>(except <b>Buddies</b>)</i>.<br/>
-            Tier-6 6/1 Minion<br/>
+            At the start of every 2 turns, get a plain copy of your teammate's highest-Tier minion <i>({0} turns left!)</i> 2At the start of every 2 turns, get a plain copy of your teammate's highest-Tier minion <i>(Next turn!)</i><br/>
+            Tier-4 7/7 Minion<br/>
             --------------------<br/>
             Triple:<br/>
-            At the start of your turn, get 2 plain copies of your teammate's highest-Tier minion <i>(except <b>Buddies</b>)</i>.<br/>
-            Tier-6 12/2 Minion
+            At the start of every 2 turns, get two plain copies of your teammate's highest-Tier minion <i>({0} turns left!)</i> 2At the start of every 2 turns, get two plain copies of your teammate's highest-Tier minion <i>(Next turn!)</i><br/>
+            Tier-4 14/14 Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.FlobbidinousFloop_GloriousGloopling2">
             <summary>
             Triple (this):<br/>
-            At the start of your turn, get 2 plain copies of your teammate's highest-Tier minion <i>(except <b>Buddies</b>)</i>.<br/>
-            Tier-6 12/2 Minion<br/>
+            At the start of every 2 turns, get two plain copies of your teammate's highest-Tier minion <i>({0} turns left!)</i> 2At the start of every 2 turns, get two plain copies of your teammate's highest-Tier minion <i>(Next turn!)</i><br/>
+            Tier-4 14/14 Minion<br/>
             --------------------<br/>
             Normal:<br/>
-            At the start of your turn, get a plain copy of your teammate's highest-Tier minion <i>(except <b>Buddies</b>)</i>.<br/>
-            Tier-6 6/1 Minion
+            At the start of every 2 turns, get a plain copy of your teammate's highest-Tier minion <i>({0} turns left!)</i> 2At the start of every 2 turns, get a plain copy of your teammate's highest-Tier minion <i>(Next turn!)</i><br/>
+            Tier-4 7/7 Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.FlobbidinousFloop_SlimeDragonFloop">
@@ -146915,23 +147461,23 @@
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.MadamGoya_MisterChu1">
             <summary>
             Normal (this):<br/>
-            Once per turn, after you <b>Pass</b> a minion, get a plain copy of it <i>(except <b>Buddies</b>)</i>.<br/>
-            Tier-5 6/6 Minion<br/>
+            At the end of your turn, <b>Pass</b> the highest-Tier minion in the Tavern.<br/>
+            Tier-3 5/5 Minion<br/>
             --------------------<br/>
             Triple:<br/>
-            Once per turn, after you <b>Pass</b> a minion, get 2 plain copies of it <i>(except <b>Buddies</b>)</i>.<br/>
-            Tier-5 12/12 Minion
+            At the end of your turn, <b>Pass</b> the 2 highest-Tier minions in the Tavern.<br/>
+            Tier-3 10/10 Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.MadamGoya_MisterChu2">
             <summary>
             Triple (this):<br/>
-            Once per turn, after you <b>Pass</b> a minion, get 2 plain copies of it <i>(except <b>Buddies</b>)</i>.<br/>
-            Tier-5 12/12 Minion<br/>
+            At the end of your turn, <b>Pass</b> the 2 highest-Tier minions in the Tavern.<br/>
+            Tier-3 10/10 Minion<br/>
             --------------------<br/>
             Normal:<br/>
-            Once per turn, after you <b>Pass</b> a minion, get a plain copy of it <i>(except <b>Buddies</b>)</i>.<br/>
-            Tier-5 6/6 Minion
+            At the end of your turn, <b>Pass</b> the highest-Tier minion in the Tavern.<br/>
+            Tier-3 5/5 Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.MadamGoya_EfficientExchange">
@@ -147938,6 +148484,12 @@
             Enchantment
             </summary>
         </member>
+        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.KalecgosArcaneAspect_BroodmotherEnchantment">
+            <summary>
+            Increased stats.<br/>
+            Enchantment
+            </summary>
+        </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.MurozondBATTLEGROUNDS">
             <summary>
             Normal (this):<br/>
@@ -148552,7 +149104,7 @@
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.TheGoodStuff">
             <summary>
-            Minions in the Tavern have +1 Attack this game.<br/>
+            Give minions in the Tavern +1 Attack this game.<br/>
             Tier-1 0-Cost Spell
             </summary>
         </member>
@@ -148808,6 +149360,18 @@
             0-Cost Spell
             </summary>
         </member>
+        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.VenomstrikeTrap_BetterVenomstrikeTrapTavernBrawl">
+            <summary>
+            <b>Secret:</b> When one of your minions is attacked, summon a 2/3 <b>Poisonous</b> Cobra and give it <b>Reborn</b>.<br/>
+            0-Cost Spell
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.VenomstrikeTrap_BetterVenomstrikeEnchantmentTavernBrawl">
+            <summary>
+            <b>Reborn</b><br/>
+            Enchantment
+            </summary>
+        </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.SnakeTrapTavernBrawl">
             <summary>
             <b>Secret:</b> When one of your minions is attacked, summon three 1/1 Snakes.<br/>
@@ -148832,6 +149396,18 @@
             0-Cost Spell
             </summary>
         </member>
+        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.AutodefenseMatrix_BetterAutodefenseMatrixTavernBrawl">
+            <summary>
+            <b>Secret:</b> When one of your minions is attacked, give it <b>Divine Shield</b>. It takes 2 hits to break this combat.<br/>
+            0-Cost Spell
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.AutodefenseMatrix_AutodefenseMatrixEnchantmentTavernBrawl">
+            <summary>
+            <b>Divine Shield</b>.<br/>
+            Enchantment
+            </summary>
+        </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.AvengeTavernBrawl">
             <summary>
             <b>Secret:</b> When one of your minions dies, give a random friendly minion +3/+2.<br/>
@@ -148841,6 +149417,12 @@
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.RedemptionTavernBrawl">
             <summary>
             <b>Secret:</b> When a friendly minion dies, return it to life with 1 Health.<br/>
+            0-Cost Spell
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.Redemption_BetterRedemptionTavernBrawl">
+            <summary>
+            <b>Secret:</b> When a friendly minion dies, return it to life with full Health and enchantments.<br/>
             0-Cost Spell
             </summary>
         </member>
@@ -148877,6 +149459,12 @@
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.PackTacticsTavernBrawl">
             <summary>
             <b>Secret:</b> When a friendly minion is attacked, summon a 3/3 copy.<br/>
+            0-Cost Spell
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.PackTactics_BetterPackTacticsTavernBrawl">
+            <summary>
+            <b>Secret:</b> When a friendly minion is attacked, summon a copy of it.<br/>
             0-Cost Spell
             </summary>
         </member>
@@ -148963,9 +149551,9 @@
             Tier-1 4/4 Minion
             </summary>
         </member>
-        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.EdwinVanCleef_ScoutingTavernBrawl1">
+        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.EdwinVanCleef_ScoutingTavernBrawl">
             <summary>
-            +1/+1.<br/>
+            +{0}/+{1}.<br/>
             Enchantment
             </summary>
         </member>
@@ -148978,12 +149566,6 @@
             Normal:<br/>
             After you buy a card, gain +1/+1.<br/>
             Tier-1 2/2 Minion
-            </summary>
-        </member>
-        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.EdwinVanCleef_ScoutingTavernBrawl2">
-            <summary>
-            +2/+2.<br/>
-            Enchantment
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.EdwinVanCleef_KingpinEdwinTavernBrawl">
@@ -149147,53 +149729,23 @@
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.TradePrinceGallywix_BilgewaterMogulTavernBrawl1">
             <summary>
             Normal (this):<br/>
-            <b>Choose One - </b>Give a minion +1 Attack; or +1 Health. <i>(Improved by each Gold you've spent this turn!)</i><br/>
-            Tier-3 6/3 Minion<br/>
+            At the end of your turn, increase your maximum Gold by 1.<br/>
+            Tier-3 6/5 Minion<br/>
             --------------------<br/>
             Triple:<br/>
-            <b>Choose One - </b>Give a minion +2 Attack; or +2 Health. <i>(Improved by each Gold you've spent this turn!)</i><br/>
-            Tier-3 12/6 Minion
+            At the end of your turn, increase your maximum Gold by 2.<br/>
+            Tier-3 12/10 Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.TradePrinceGallywix_BilgewaterMogulTavernBrawl2">
             <summary>
             Triple (this):<br/>
-            <b>Choose One - </b>Give a minion +2 Attack; or +2 Health. <i>(Improved by each Gold you've spent this turn!)</i><br/>
-            Tier-3 12/6 Minion<br/>
+            At the end of your turn, increase your maximum Gold by 2.<br/>
+            Tier-3 12/10 Minion<br/>
             --------------------<br/>
             Normal:<br/>
-            <b>Choose One - </b>Give a minion +1 Attack; or +1 Health. <i>(Improved by each Gold you've spent this turn!)</i><br/>
-            Tier-3 6/3 Minion
-            </summary>
-        </member>
-        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.TradePrinceGallywix_SmuggledRingTavernBrawl1">
-            <summary>
-            Give a minion +2 Health. <i>(Improved by each Gold you've spent this turn!)</i><br/>
-            0-Cost Spell
-            </summary>
-        </member>
-        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.TradePrinceGallywix_HardEarnedRingTavernBrawl1">
-            <summary>
-            Give a minion +2 Attack. <i>(Improved by each Gold you've spent this turn!)</i><br/>
-            0-Cost Spell
-            </summary>
-        </member>
-        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.TradePrinceGallywix_BrutalLuxuryTavernBrawl">
-            <summary>
-            Increased Attack.<br/>
-            Enchantment
-            </summary>
-        </member>
-        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.TradePrinceGallywix_SmuggledRingTavernBrawl2">
-            <summary>
-            Give a minion +1 Health. <i>(Improved by each Gold you've spent this turn!)</i><br/>
-            0-Cost Spell
-            </summary>
-        </member>
-        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.TradePrinceGallywix_HardEarnedRingTavernBrawl2">
-            <summary>
-            Give a minion +1 Attack. <i>(Improved by each Gold you've spent this turn!)</i><br/>
-            0-Cost Spell
+            At the end of your turn, increase your maximum Gold by 1.<br/>
+            Tier-3 6/5 Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.TradePrinceGallywix_MoneyhoggerGallywixTavernBrawl">
@@ -149450,7 +150002,7 @@
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.QueenWagtoggle_StrengthOfTheEldersTavernBrawl">
             <summary>
-            Increased stats.<br/>
+            +{0}/+{1}.<br/>
             Enchantment
             </summary>
         </member>
@@ -149507,9 +150059,9 @@
             Tier-2 6/8 Minion
             </summary>
         </member>
-        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.GeorgetheFallen_LostAndFoundTavernBrawl1">
+        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.GeorgetheFallen_LostAndFoundTavernBrawl">
             <summary>
-            +2 Attack.<br/>
+            +{0}/+{1}.<br/>
             Enchantment
             </summary>
         </member>
@@ -149522,12 +150074,6 @@
             Normal:<br/>
             After you use your Hero Power, give your <b>Divine Shield</b> minions +2 Attack.<br/>
             Tier-2 3/4 Minion
-            </summary>
-        </member>
-        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.GeorgetheFallen_LostAndFoundTavernBrawl2">
-            <summary>
-            +4 Attack.<br/>
-            Enchantment
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.GeorgetheFallen_GeorgeTheAscendedTavernBrawl">
@@ -149575,35 +150121,29 @@
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.AFKay_SnackVendorTavernBrawl1">
             <summary>
             Normal (this):<br/>
-            At the end of your turn, give your Tier 3 minions +1/+2.<br/>
-            Tier-3 3/2 Minion<br/>
+            At the end of your turn, give this minion's stats to a different Tier 3 minion.<br/>
+            Tier-3 4/4 Minion<br/>
             --------------------<br/>
             Triple:<br/>
-            At the end of your turn, give your Tier 3 minions +2/+4.<br/>
-            Tier-3 6/4 Minion
+            At the end of your turn, give this minion's stats to a different Tier 3 minion, twice.<br/>
+            Tier-3 8/8 Minion
             </summary>
         </member>
-        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.AFKay_SnackFilledTavernBrawl1">
+        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.AFKay_SnackFilledTavernBrawl">
             <summary>
-            +1/+2.<br/>
+            +{0}/+{1}.<br/>
             Enchantment
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.AFKay_SnackVendorTavernBrawl2">
             <summary>
             Triple (this):<br/>
-            At the end of your turn, give your Tier 3 minions +2/+4.<br/>
-            Tier-3 6/4 Minion<br/>
+            At the end of your turn, give this minion's stats to a different Tier 3 minion, twice.<br/>
+            Tier-3 8/8 Minion<br/>
             --------------------<br/>
             Normal:<br/>
-            At the end of your turn, give your Tier 3 minions +1/+2.<br/>
-            Tier-3 3/2 Minion
-            </summary>
-        </member>
-        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.AFKay_SnackFilledTavernBrawl2">
-            <summary>
-            +2/+4.<br/>
-            Enchantment
+            At the end of your turn, give this minion's stats to a different Tier 3 minion.<br/>
+            Tier-3 4/4 Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.AFKay_SunloungerAFKayTavernBrawl">
@@ -149670,22 +150210,22 @@
             <summary>
             Normal (this):<br/>
             <b>Deathrattle:</b> Deal 2 damage to a random enemy minion for each of your Mechs that died this combat.<br/>
-            Tier-4 4/4 Mechanical Minion<br/>
+            Tier-4 4/4 Mechanical/Beast Minion<br/>
             --------------------<br/>
             Triple:<br/>
             <b>Deathrattle:</b> Deal 4 damage to a random enemy minion for each of your Mechs that died this combat.<br/>
-            Tier-4 8/8 Mechanical Minion
+            Tier-4 8/8 Mechanical/Beast Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.MillificentManastorm_ElementiumSquirrelBombTavernBrawl2">
             <summary>
             Triple (this):<br/>
             <b>Deathrattle:</b> Deal 4 damage to a random enemy minion for each of your Mechs that died this combat.<br/>
-            Tier-4 8/8 Mechanical Minion<br/>
+            Tier-4 8/8 Mechanical/Beast Minion<br/>
             --------------------<br/>
             Normal:<br/>
             <b>Deathrattle:</b> Deal 2 damage to a random enemy minion for each of your Mechs that died this combat.<br/>
-            Tier-4 4/4 Mechanical Minion
+            Tier-4 4/4 Mechanical/Beast Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.MillificentManastorm_MissileshotTavernBrawl">
@@ -149727,28 +150267,22 @@
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.PatchesthePirate_TuskarrRaiderTavernBrawl1">
             <summary>
             Normal (this):<br/>
-            <b>Battlecry:</b> Give a minion +1/+1. <i>(Improved by each Pirate you've played this game!)</i><br/>
+            <b>Battlecry, Deathrattle, and Rally:</b> Get a random <b>Bounty</b>.<br/>
             Tier-5 4/4 Pirate Minion<br/>
             --------------------<br/>
             Triple:<br/>
-            <b>Battlecry:</b> Give a minion +2/+2. <i>(Improved by each Pirate you've played this game!)</i><br/>
+            <b>Battlecry, Deathrattle, and Rally:</b> Get 2 random <b>Bounties</b>.<br/>
             Tier-5 8/8 Pirate Minion
-            </summary>
-        </member>
-        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.PatchesthePirate_RaidingWithTuskarrTavernBrawl">
-            <summary>
-            Increased stats.<br/>
-            Enchantment
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.PatchesthePirate_TuskarrRaiderTavernBrawl2">
             <summary>
             Triple (this):<br/>
-            <b>Battlecry:</b> Give a minion +2/+2. <i>(Improved by each Pirate you've played this game!)</i><br/>
+            <b>Battlecry, Deathrattle, and Rally:</b> Get 2 random <b>Bounties</b>.<br/>
             Tier-5 8/8 Pirate Minion<br/>
             --------------------<br/>
             Normal:<br/>
-            <b>Battlecry:</b> Give a minion +1/+1. <i>(Improved by each Pirate you've played this game!)</i><br/>
+            <b>Battlecry, Deathrattle, and Rally:</b> Get a random <b>Bounty</b>.<br/>
             Tier-5 4/4 Pirate Minion
             </summary>
         </member>
@@ -149809,23 +150343,23 @@
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.TheGreatAkazamzarak_StreetMagicianTavernBrawl1">
             <summary>
             Normal (this):<br/>
-            At the end of your turn, cast a random <b>Secret</b>.<br/>
-            Tier-3 3/5 Minion<br/>
+            'Prestidigitation' chooses from Better <b>Secrets</b>.<br/>
+            Tier-4 3/5 Minion<br/>
             --------------------<br/>
             Triple:<br/>
-            At the end of your turn, cast 2 random <b>Secrets</b>.<br/>
-            Tier-3 6/10 Minion
+            'Prestidigitation' chooses from Better <b>Secrets</b> twice.<br/>
+            Tier-4 6/10 Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.TheGreatAkazamzarak_StreetMagicianTavernBrawl2">
             <summary>
             Triple (this):<br/>
-            At the end of your turn, cast 2 random <b>Secrets</b>.<br/>
-            Tier-3 6/10 Minion<br/>
+            'Prestidigitation' chooses from Better <b>Secrets</b> twice.<br/>
+            Tier-4 6/10 Minion<br/>
             --------------------<br/>
             Normal:<br/>
-            At the end of your turn, cast a random <b>Secret</b>.<br/>
-            Tier-3 3/5 Minion
+            'Prestidigitation' chooses from Better <b>Secrets</b>.<br/>
+            Tier-4 3/5 Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.TheGreatAkazamzarak_CrashinThrashinAkazamzarakTavernBrawl">
@@ -149882,7 +150416,7 @@
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.TheLichKing_DoggonedItTavernBrawl">
             <summary>
-            Increased Attack.<br/>
+            +{0}/+{1}.<br/>
             Enchantment
             </summary>
         </member>
@@ -149945,12 +150479,6 @@
             Tier-5 10/10 Minion
             </summary>
         </member>
-        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.Shudderwock_MuckedUpTavernBrawl1">
-            <summary>
-            +2/+2.<br/>
-            Enchantment
-            </summary>
-        </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.Shudderwock_MuckslingerTavernBrawl2">
             <summary>
             Triple (this):<br/>
@@ -149960,12 +150488,6 @@
             Normal:<br/>
             <b>Battlecry:</b> Get a random <b>Battlecry</b> minion.<br/>
             Tier-5 5/5 Minion
-            </summary>
-        </member>
-        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.Shudderwock_MuckedUpTavernBrawl2">
-            <summary>
-            +4/+4.<br/>
-            Enchantment
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.Shudderwock_GentlemanShudderwockTavernBrawl">
@@ -150021,9 +150543,9 @@
             Tier-4 10/10 Undead Minion
             </summary>
         </member>
-        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.LichBazhial_RecoveryTavernBrawl1">
+        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.LichBazhial_RecoveryTavernBrawl">
             <summary>
-            Increased stats.<br/>
+            +{0}/+{1}.<br/>
             Enchantment
             </summary>
         </member>
@@ -150036,12 +150558,6 @@
             Normal:<br/>
             Whenever your hero takes damage, rewind it and gain stats equal to that amount.<br/>
             Tier-4 5/5 Undead Minion
-            </summary>
-        </member>
-        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.LichBazhial_RecoveryTavernBrawl2">
-            <summary>
-            +4/+4.<br/>
-            Enchantment
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.LichBazhial_MargraveBazhialTavernBrawl">
@@ -150083,23 +150599,23 @@
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.Sindragosa_ThawedChampionTavernBrawl1">
             <summary>
             Normal (this):<br/>
-            At the end of your turn, get a random <b>Frozen</b> card from the Tavern.<br/>
-            Tier-3 5/7 Minion<br/>
+            At the end of your turn, make a random <b>Frozen</b> minion in the Tavern Golden.<br/>
+            Tier-5 4/5 Minion<br/>
             --------------------<br/>
             Triple:<br/>
-            At the end of your turn, get 2 random <b>Frozen</b> cards from the Tavern.<br/>
-            Tier-3 10/14 Minion
+            At the end of your turn, make 2 random <b>Frozen</b> minions in the Tavern Golden.<br/>
+            Tier-5 8/10 Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.Sindragosa_ThawedChampionTavernBrawl2">
             <summary>
             Triple (this):<br/>
-            At the end of your turn, get 2 random <b>Frozen</b> cards from the Tavern.<br/>
-            Tier-3 10/14 Minion<br/>
+            At the end of your turn, make 2 random <b>Frozen</b> minions in the Tavern Golden.<br/>
+            Tier-5 8/10 Minion<br/>
             --------------------<br/>
             Normal:<br/>
-            At the end of your turn, get a random <b>Frozen</b> card from the Tavern.<br/>
-            Tier-3 5/7 Minion
+            At the end of your turn, make a random <b>Frozen</b> minion in the Tavern Golden.<br/>
+            Tier-5 4/5 Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.Sindragosa_SindragosaTheBlueTavernBrawl">
@@ -150219,9 +150735,9 @@
             Tier-2 6/6 Minion
             </summary>
         </member>
-        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.CThun_AllEyesOnMeTavernBrawl1">
+        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.CThun_AllEyesOnMeTavernBrawl">
             <summary>
-            +1/+1 until next turn.<br/>
+            +{0}/+{1} until next turn.<br/>
             Enchantment
             </summary>
         </member>
@@ -150234,12 +150750,6 @@
             Normal:<br/>
             After a different friendly minion gains stats, gain +1/+1 until next turn.<br/>
             Tier-2 3/3 Minion
-            </summary>
-        </member>
-        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.CThun_AllEyesOnMeTavernBrawl2">
-            <summary>
-            +2/+2 until next turn.<br/>
-            Enchantment
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.CThun_CutethunTavernBrawl">
@@ -150315,7 +150825,7 @@
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.TheCurator_AmalfamTavernBrawl">
             <summary>
-            Increased stats.<br/>
+            +{0}/+{1}.<br/>
             Enchantment
             </summary>
         </member>
@@ -150375,28 +150885,28 @@
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.Patchwerk_WeebominationTavernBrawl1">
             <summary>
             Normal (this):<br/>
-            <b>Battlecry:</b> Give a minion +1 Health. <i>(Improved by each Health your hero is missing!)</i><br/>
+            At the end of your turn, give the minion to the left +1 Health. <i>(Improved by each Health your hero is missing!)</i><br/>
             Tier-4 6/6 Undead Minion<br/>
             --------------------<br/>
             Triple:<br/>
-            <b>Battlecry:</b> Give a minion +2 Health. <i>(Improved by each Health your hero is missing!)</i><br/>
+            At the end of your turn, give adjacent minions +1 Health. <i>(Improved by each Health your hero is missing!)</i><br/>
             Tier-4 12/12 Undead Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.Patchwerk_PatchedUpTavernBrawl">
             <summary>
-            Increased Health.<br/>
+            +{0}/+{1}.<br/>
             Enchantment
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.Patchwerk_WeebominationTavernBrawl2">
             <summary>
             Triple (this):<br/>
-            <b>Battlecry:</b> Give a minion +2 Health. <i>(Improved by each Health your hero is missing!)</i><br/>
+            At the end of your turn, give adjacent minions +1 Health. <i>(Improved by each Health your hero is missing!)</i><br/>
             Tier-4 12/12 Undead Minion<br/>
             --------------------<br/>
             Normal:<br/>
-            <b>Battlecry:</b> Give a minion +1 Health. <i>(Improved by each Health your hero is missing!)</i><br/>
+            At the end of your turn, give the minion to the left +1 Health. <i>(Improved by each Health your hero is missing!)</i><br/>
             Tier-4 6/6 Undead Minion
             </summary>
         </member>
@@ -150484,13 +150994,7 @@
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.YoggSaronHopesEnd_FleshyTavernBrawl">
             <summary>
-            Increased stats.<br/>
-            Enchantment
-            </summary>
-        </member>
-        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.YoggSaronHopesEnd_CurseOfFleshedTavernBrawl">
-            <summary>
-            Stats shuffled with other minions.<br/>
+            +{0}/+{1}.<br/>
             Enchantment
             </summary>
         </member>
@@ -150508,14 +151012,8 @@
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.YoggSaronHopesEnd_PyrobuffedTavernBrawl">
             <summary>
-            +10/+10.<br/>
+            +{0}/+{1}.<br/>
             Enchantment
-            </summary>
-        </member>
-        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.YoggSaronHopesEnd_PyrobuffTavernBrawl">
-            <summary>
-            Give a minion +4/+4.<br/>
-            0-Cost Spell
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.YoggSaronHopesEnd_MysteryboxTavernBrawl3">
@@ -150532,7 +151030,7 @@
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.YoggSaronHopesEnd_MindflayerGogglesPlayerEnchantDntTavernBrawl">
             <summary>
-            Minions in the Tavern have +3/+3 from Mindflayer Goggles.<br/>
+            Minions in the Tavern have increased stats from Mindflayer Goggles.<br/>
             Enchantment
             </summary>
         </member>
@@ -150595,9 +151093,9 @@
             Tier-2 4/4 Minion
             </summary>
         </member>
-        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.DancinDeryl_DashingHatTavernBrawl1">
+        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.DancinDeryl_DashingHatTavernBrawl">
             <summary>
-            +1/+1.<br/>
+            +{0}/+{1}.<br/>
             Enchantment
             </summary>
         </member>
@@ -150610,12 +151108,6 @@
             Normal:<br/>
             After you sell a minion, gain a +1/+1 hat that passes to a friendly minion when sold.<br/>
             Tier-2 2/2 Minion
-            </summary>
-        </member>
-        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.DancinDeryl_DashingHatTavernBrawl2">
-            <summary>
-            +2/+2.<br/>
-            Enchantment
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.DancinDeryl_TheInvisibleMurlocTavernBrawl">
@@ -150733,35 +151225,23 @@
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.KingMukla_CrazyMonkeyTavernBrawl1">
             <summary>
             Normal (this):<br/>
-            After you feed a minion a Banana, give it +1/+1.<br/>
-            Tier-2 4/4 Beast Minion<br/>
+            When you sell this, feed {2} Banana to your minions. After you cast 2 spells, improve this. <i>({0} left!)</i>2When you sell this, feed {2} Bananas to your minions. After you cast 2 spells, improve this. <i>({0} left!)</i><br/>
+            Tier-2 1/4 Beast Minion<br/>
             --------------------<br/>
             Triple:<br/>
-            After you feed a minion a Banana, give it +2/+2.<br/>
-            Tier-2 8/8 Beast Minion
-            </summary>
-        </member>
-        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.KingMukla_BananaPeelTavernBrawl1">
-            <summary>
-            +1/+1.<br/>
-            Enchantment
+            When you sell this, feed {2} Banana to your minions. After you cast 2 spells, improve this. <i>({0} left!)</i>2When you sell this, feed {2} Bananas to your minions. After you cast 2 spells, improve this. <i>({0} left!)</i><br/>
+            Tier-2 2/8 Beast Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.KingMukla_CrazyMonkeyTavernBrawl2">
             <summary>
             Triple (this):<br/>
-            After you feed a minion a Banana, give it +2/+2.<br/>
-            Tier-2 8/8 Beast Minion<br/>
+            When you sell this, feed {2} Banana to your minions. After you cast 2 spells, improve this. <i>({0} left!)</i>2When you sell this, feed {2} Bananas to your minions. After you cast 2 spells, improve this. <i>({0} left!)</i><br/>
+            Tier-2 2/8 Beast Minion<br/>
             --------------------<br/>
             Normal:<br/>
-            After you feed a minion a Banana, give it +1/+1.<br/>
-            Tier-2 4/4 Beast Minion
-            </summary>
-        </member>
-        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.KingMukla_BananaPeelTavernBrawl2">
-            <summary>
-            +2/+2.<br/>
-            Enchantment
+            When you sell this, feed {2} Banana to your minions. After you cast 2 spells, improve this. <i>({0} left!)</i>2When you sell this, feed {2} Bananas to your minions. After you cast 2 spells, improve this. <i>({0} left!)</i><br/>
+            Tier-2 1/4 Beast Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.KingMukla_BananaManMuklaTavernBrawl">
@@ -150803,29 +151283,29 @@
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.Pyramad_TitanicGuardianTavernBrawl1">
             <summary>
             Normal (this):<br/>
-            Whenever a different friendly minion gains Health, this gains it too.<br/>
-            Tier-4 5/2 Minion<br/>
+            Whenever a different minion in your hand or board gains Health, this also gains it.<br/>
+            Tier-5 5/2 Elemental Minion<br/>
             --------------------<br/>
             Triple:<br/>
-            Whenever a different friendly minion gains Health, this gains twice that amount.<br/>
-            Tier-4 10/4 Minion
+            Whenever a different minion in your hand or board gains Health, this also gains twice that amount.<br/>
+            Tier-5 10/4 Elemental Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.Pyramad_FracturedFocusedTavernBrawl">
             <summary>
-            Increased Health.<br/>
+            +{0}/+{1}.<br/>
             Enchantment
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.Pyramad_TitanicGuardianTavernBrawl2">
             <summary>
             Triple (this):<br/>
-            Whenever a different friendly minion gains Health, this gains twice that amount.<br/>
-            Tier-4 10/4 Minion<br/>
+            Whenever a different minion in your hand or board gains Health, this also gains twice that amount.<br/>
+            Tier-5 10/4 Elemental Minion<br/>
             --------------------<br/>
             Normal:<br/>
-            Whenever a different friendly minion gains Health, this gains it too.<br/>
-            Tier-4 5/2 Minion
+            Whenever a different minion in your hand or board gains Health, this also gains it.<br/>
+            Tier-5 5/2 Elemental Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.Pyramad_PyramellowTavernBrawl">
@@ -151247,23 +151727,23 @@
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.MillhouseManastorm_MagnusManastormTavernBrawl1">
             <summary>
             Normal (this):<br/>
-            After you buy a card, add one of the same Tier to the Tavern.<br/>
-            Tier-5 4/4 Minion<br/>
+            2 <b>Refreshes</b> each turn cost (0). <i>(2 left!)</i><br/>
+            Tier-3 4/4 Minion<br/>
             --------------------<br/>
             Triple:<br/>
-            After you buy a card, add two of the same Tier to the Tavern.<br/>
-            Tier-5 8/8 Minion
+            4 <b>Refreshes</b> each turn cost (0). <i>(4 left!)</i><br/>
+            Tier-3 8/8 Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.MillhouseManastorm_MagnusManastormTavernBrawl2">
             <summary>
             Triple (this):<br/>
-            After you buy a card, add two of the same Tier to the Tavern.<br/>
-            Tier-5 8/8 Minion<br/>
+            4 <b>Refreshes</b> each turn cost (0). <i>(4 left!)</i><br/>
+            Tier-3 8/8 Minion<br/>
             --------------------<br/>
             Normal:<br/>
-            After you buy a card, add one of the same Tier to the Tavern.<br/>
-            Tier-5 4/4 Minion
+            2 <b>Refreshes</b> each turn cost (0). <i>(2 left!)</i><br/>
+            Tier-3 4/4 Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.MillhouseManastorm_PyrospikeMillhouseTavernBrawl">
@@ -151395,9 +151875,9 @@
             Tier-4 4/12 Dragon Minion
             </summary>
         </member>
-        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.Deathwing_DraconicBlessingTavernBrawl1">
+        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.Deathwing_DraconicBlessingTavernBrawl">
             <summary>
-            Increased Health.<br/>
+            +{0}/+{1}.<br/>
             Enchantment
             </summary>
         </member>
@@ -151410,12 +151890,6 @@
             Normal:<br/>
             Whenever a friendly minion gains Attack during combat, give it +1 Health permanently.<br/>
             Tier-4 2/6 Dragon Minion
-            </summary>
-        </member>
-        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.Deathwing_DraconicBlessingTavernBrawl2">
-            <summary>
-            +6 Attack.<br/>
-            Enchantment
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.Deathwing_DeathwingTheBlackTavernBrawl">
@@ -151465,12 +151939,6 @@
             Tier-4 12/8 Dragon Minion
             </summary>
         </member>
-        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.Ysera_PleasantDreamTavernBrawl">
-            <summary>
-            Stats increased by Valithria Dreamwalker.<br/>
-            Enchantment
-            </summary>
-        </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.Ysera_ValithriaDreamwalkerTavernBrawl2">
             <summary>
             Triple (this):<br/>
@@ -151484,7 +151952,7 @@
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.Ysera_SweetDreamsTavernBrawl">
             <summary>
-            Increased stats.<br/>
+            +{0}/+{1}.<br/>
             Enchantment
             </summary>
         </member>
@@ -151591,29 +152059,23 @@
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.Alexstrasza_VaelastraszTavernBrawl1">
             <summary>
             Normal (this):<br/>
-            <b>Battlecry and Start of Combat:</b> Give your other minions +3/+3.<br/>
-            Tier-5 6/6 Dragon Minion<br/>
+            <b>Rally:</b> Get a random Dragon.<br/>
+            Tier-5 7/7 Dragon Minion<br/>
             --------------------<br/>
             Triple:<br/>
-            <b>Battlecry and Start of Combat:</b> Give your other minions +6/+6.<br/>
-            Tier-5 12/12 Dragon Minion
+            <b>Rally:</b> Get 2 random Dragons.<br/>
+            Tier-5 14/14 Dragon Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.Alexstrasza_VaelastraszTavernBrawl2">
             <summary>
             Triple (this):<br/>
-            <b>Battlecry and Start of Combat:</b> Give your other minions +6/+6.<br/>
-            Tier-5 12/12 Dragon Minion<br/>
+            <b>Rally:</b> Get 2 random Dragons.<br/>
+            Tier-5 14/14 Dragon Minion<br/>
             --------------------<br/>
             Normal:<br/>
-            <b>Battlecry and Start of Combat:</b> Give your other minions +3/+3.<br/>
-            Tier-5 6/6 Dragon Minion
-            </summary>
-        </member>
-        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.Alexstrasza_PrinceOfDragonsTavernBrawl">
-            <summary>
-            Increased stats.<br/>
-            Enchantment
+            <b>Rally:</b> Get a random Dragon.<br/>
+            Tier-5 7/7 Dragon Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.Alexstrasza_AlexstraszaTheRedTavernBrawl">
@@ -151655,28 +152117,22 @@
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.Nozdormu_ChromieTavernBrawl1">
             <summary>
             Normal (this):<br/>
-            Minions in the Tavern have +1/+1 for each time it was <b>Refreshed</b> this turn.<br/>
+            1 <b>Refresh</b> each turn is helpful! <i>(1 left!)</i><br/>
             Tier-4 6/6 Minion<br/>
             --------------------<br/>
             Triple:<br/>
-            Minions in the Tavern have +2/+2 for each time it was <b>Refreshed</b> this turn.<br/>
+            2 <b>Refreshes</b> each turn are helpful! <i>(2 left!)</i><br/>
             Tier-4 12/12 Minion
-            </summary>
-        </member>
-        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.Nozdormu_FlowOfTimeTavernBrawl">
-            <summary>
-            Stats increased by Chromie.<br/>
-            Enchantment
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.Nozdormu_ChromieTavernBrawl2">
             <summary>
             Triple (this):<br/>
-            Minions in the Tavern have +2/+2 for each time it was <b>Refreshed</b> this turn.<br/>
+            2 <b>Refreshes</b> each turn are helpful! <i>(2 left!)</i><br/>
             Tier-4 12/12 Minion<br/>
             --------------------<br/>
             Normal:<br/>
-            Minions in the Tavern have +1/+1 for each time it was <b>Refreshed</b> this turn.<br/>
+            1 <b>Refresh</b> each turn is helpful! <i>(1 left!)</i><br/>
             Tier-4 6/6 Minion
             </summary>
         </member>
@@ -151777,22 +152233,22 @@
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.ArannaStarseeker_SklibbDemonHunterTavernBrawl1">
             <summary>
             Normal (this):<br/>
-            After you buy a card, your next <b>Refresh</b> costs (0).<br/>
+            The Tavern offers an extra minion of a higher Tier whenever it is <b>Refreshed</b>.<br/>
             Tier-3 4/4 Minion<br/>
             --------------------<br/>
             Triple:<br/>
-            After you buy a card, your next two <b>Refreshes</b> cost (0).<br/>
+            The Tavern offers two extra minions of a higher Tier whenever it is <b>Refreshed</b>.<br/>
             Tier-3 8/8 Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.ArannaStarseeker_SklibbDemonHunterTavernBrawl2">
             <summary>
             Triple (this):<br/>
-            After you buy a card, your next two <b>Refreshes</b> cost (0).<br/>
+            The Tavern offers two extra minions of a higher Tier whenever it is <b>Refreshed</b>.<br/>
             Tier-3 8/8 Minion<br/>
             --------------------<br/>
             Normal:<br/>
-            After you buy a card, your next <b>Refresh</b> costs (0).<br/>
+            The Tavern offers an extra minion of a higher Tier whenever it is <b>Refreshed</b>.<br/>
             Tier-3 4/4 Minion
             </summary>
         </member>
@@ -151883,35 +152339,29 @@
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.KaelthasSunstrider_CrimsonHandCenturionTavernBrawl1">
             <summary>
             Normal (this):<br/>
-            After 'Verdant Spheres' triggers, give your hand and board +1/+1.<br/>
-            Tier-4 7/5 Minion<br/>
+            <b>Divine Shield</b>. After 'Verdant Spheres' triggers, gain the stats of the last minion you bought.<br/>
+            Tier-3 3/3 Minion<br/>
             --------------------<br/>
             Triple:<br/>
-            After 'Verdant Spheres' triggers, give your hand and board +2/+2.<br/>
-            Tier-4 14/10 Minion
+            <b><b>Divine Shield</b>.</b> After 'Verdant Spheres' triggers, gain double the stats of the last minion you bought.<br/>
+            Tier-3 6/6 Minion
             </summary>
         </member>
-        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.KaelthasSunstrider_VerdantTavernBrawl1">
+        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.KaelthasSunstrider_VerdantTavernBrawl">
             <summary>
-            +1/+1.<br/>
+            +{0}/+{1}.<br/>
             Enchantment
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.KaelthasSunstrider_CrimsonHandCenturionTavernBrawl2">
             <summary>
             Triple (this):<br/>
-            After 'Verdant Spheres' triggers, give your hand and board +2/+2.<br/>
-            Tier-4 14/10 Minion<br/>
+            <b><b>Divine Shield</b>.</b> After 'Verdant Spheres' triggers, gain double the stats of the last minion you bought.<br/>
+            Tier-3 6/6 Minion<br/>
             --------------------<br/>
             Normal:<br/>
-            After 'Verdant Spheres' triggers, give your hand and board +1/+1.<br/>
-            Tier-4 7/5 Minion
-            </summary>
-        </member>
-        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.KaelthasSunstrider_VerdantTavernBrawl2">
-            <summary>
-            +2/+2.<br/>
-            Enchantment
+            <b>Divine Shield</b>. After 'Verdant Spheres' triggers, gain the stats of the last minion you bought.<br/>
+            Tier-3 3/3 Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.KaelthasSunstrider_ChainedKaelthasTavernBrawl">
@@ -152037,9 +152487,9 @@
             Tier-2 10/10 Pirate Minion
             </summary>
         </member>
-        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.CaptainEudora_GoldAboundTavernBrawl1">
+        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.CaptainEudora_GoldAboundTavernBrawl">
             <summary>
-            Increased stats.<br/>
+            +{0}/+{1}.<br/>
             Enchantment
             </summary>
         </member>
@@ -152052,12 +152502,6 @@
             Normal:<br/>
             At the end of your turn, give a random friendly Golden minion +5/+5.<br/>
             Tier-2 5/5 Pirate Minion
-            </summary>
-        </member>
-        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.CaptainEudora_GoldAboundTavernBrawl2">
-            <summary>
-            +10/+10.<br/>
-            Enchantment
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.CaptainEudora_BlasterfoxTavernBrawl">
@@ -152291,23 +152735,23 @@
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.TheJailer_MawswornSoulkeeperTavernBrawl1">
             <summary>
             Normal (this):<br/>
-            <b>Deathrattle:</b> Summon 3 random Tier 1 minions.<br/>
-            Tier-1 2/2 Undead Minion<br/>
+            <b>Deathrattle:</b> Summon 2 random Undead.<br/>
+            Tier-3 2/2 Undead Minion<br/>
             --------------------<br/>
             Triple:<br/>
-            <b>Deathrattle:</b> Summon 6 random Tier 1 minions.<br/>
-            Tier-1 4/4 Undead Minion
+            <b>Deathrattle:</b> Summon 4 random Undead.<br/>
+            Tier-3 4/4 Undead Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.TheJailer_MawswornSoulkeeperTavernBrawl2">
             <summary>
             Triple (this):<br/>
-            <b>Deathrattle:</b> Summon 6 random Tier 1 minions.<br/>
-            Tier-1 4/4 Undead Minion<br/>
+            <b>Deathrattle:</b> Summon 4 random Undead.<br/>
+            Tier-3 4/4 Undead Minion<br/>
             --------------------<br/>
             Normal:<br/>
-            <b>Deathrattle:</b> Summon 3 random Tier 1 minions.<br/>
-            Tier-1 2/2 Undead Minion
+            <b>Deathrattle:</b> Summon 2 random Undead.<br/>
+            Tier-3 2/2 Undead Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.TheJailer_KabalJailerTavernBrawl">
@@ -152349,29 +152793,29 @@
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.JandiceBarov_JandicesApprenticeTavernBrawl1">
             <summary>
             Normal (this):<br/>
-            After you swap minions, give them stats equal to your Tier.<br/>
-            Tier-2 4/4 Minion<br/>
+            After you play a minion you've already played this turn, give your minions stats equal to your Tier.<br/>
+            Tier-4 5/4 Minion<br/>
             --------------------<br/>
             Triple:<br/>
-            After you swap minions, give them stats equal to your Tier twice.<br/>
-            Tier-2 8/8 Minion
+            After you play a minion you've already played this turn, give your minions stats equal to twice your Tier.<br/>
+            Tier-4 10/8 Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.JandiceBarov_SpinningTavernBrawl">
             <summary>
-            Increased stats.<br/>
+            +{0}/+{1}.<br/>
             Enchantment
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.JandiceBarov_JandicesApprenticeTavernBrawl2">
             <summary>
             Triple (this):<br/>
-            After you swap minions, give them stats equal to your Tier twice.<br/>
-            Tier-2 8/8 Minion<br/>
+            After you play a minion you've already played this turn, give your minions stats equal to twice your Tier.<br/>
+            Tier-4 10/8 Minion<br/>
             --------------------<br/>
             Normal:<br/>
-            After you swap minions, give them stats equal to your Tier.<br/>
-            Tier-2 4/4 Minion
+            After you play a minion you've already played this turn, give your minions stats equal to your Tier.<br/>
+            Tier-4 5/4 Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.JandiceBarov_MirrorgrinTavernBrawl">
@@ -152485,12 +152929,6 @@
             Tier-5 18/14 Minion
             </summary>
         </member>
-        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.ForestWardenOmu_EvergreenTavernBrawl">
-            <summary>
-            Increased stats.<br/>
-            Enchantment
-            </summary>
-        </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.ForestWardenOmu_EvergreenBotaniTavernBrawl2">
             <summary>
             Triple (this):<br/>
@@ -152547,22 +152985,22 @@
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.Rakanishu_LanternTenderTavernBrawl1">
             <summary>
             Normal (this):<br/>
-            At the end of your turn, get 2 Lantern Lights that give a minion stats equal to your Tier.<br/>
+            At the end of your turn, get 2 random Tavern spells that give stats.<br/>
             Tier-5 6/4 Minion<br/>
             --------------------<br/>
             Triple:<br/>
-            At the end of your turn, get 4 Lantern Lights that give a minion stats equal to your Tier.<br/>
+            At the end of your turn, get 4 random Tavern spells that give stats.<br/>
             Tier-5 12/8 Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.Rakanishu_LanternTenderTavernBrawl2">
             <summary>
             Triple (this):<br/>
-            At the end of your turn, get 4 Lantern Lights that give a minion stats equal to your Tier.<br/>
+            At the end of your turn, get 4 random Tavern spells that give stats.<br/>
             Tier-5 12/8 Minion<br/>
             --------------------<br/>
             Normal:<br/>
-            At the end of your turn, get 2 Lantern Lights that give a minion stats equal to your Tier.<br/>
+            At the end of your turn, get 2 random Tavern spells that give stats.<br/>
             Tier-5 6/4 Minion
             </summary>
         </member>
@@ -152760,7 +153198,7 @@
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.SilasDarkmoon_BurthedTavernBrawl">
             <summary>
-            Increased stats.<br/>
+            +{0}/+{1}.<br/>
             Enchantment
             </summary>
         </member>
@@ -152873,35 +153311,29 @@
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.YShaarj_BabyYshaarjTavernBrawl1">
             <summary>
             Normal (this):<br/>
-            Whenever you summon a minion of your Tier, give it +4/+4.<br/>
-            Tier-4 6/6 Minion<br/>
+            After you play a minion of your Tier, give your minions +1/+1.<br/>
+            Tier-3 6/6 Minion<br/>
             --------------------<br/>
             Triple:<br/>
-            Whenever you summon a minion of your Tier, give it +8/+8.<br/>
-            Tier-4 12/12 Minion
+            After you play a minion of your Tier, give your minions +2/+2.<br/>
+            Tier-3 12/12 Minion
             </summary>
         </member>
-        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.YShaarj_RageUnboundTavernBrawl1">
+        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.YShaarj_RageUnboundTavernBrawl">
             <summary>
-            +4/+4.<br/>
+            +{0}/+{1}.<br/>
             Enchantment
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.YShaarj_BabyYshaarjTavernBrawl2">
             <summary>
             Triple (this):<br/>
-            Whenever you summon a minion of your Tier, give it +8/+8.<br/>
-            Tier-4 12/12 Minion<br/>
+            After you play a minion of your Tier, give your minions +2/+2.<br/>
+            Tier-3 12/12 Minion<br/>
             --------------------<br/>
             Normal:<br/>
-            Whenever you summon a minion of your Tier, give it +4/+4.<br/>
-            Tier-4 6/6 Minion
-            </summary>
-        </member>
-        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.YShaarj_RageUnboundTavernBrawl2">
-            <summary>
-            +8/+8.<br/>
-            Enchantment
+            After you play a minion of your Tier, give your minions +1/+1.<br/>
+            Tier-3 6/6 Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.YShaarj_MawOfYshaarjTavernBrawl">
@@ -153055,9 +153487,9 @@
             Tier-5 4/14 Minion
             </summary>
         </member>
-        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.Greybough_HappyLittleTreeTavernBrawl1">
+        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.Greybough_HappyLittleTreeTavernBrawl">
             <summary>
-            Increased Attack.<br/>
+            +{0}/+{1}.<br/>
             Enchantment
             </summary>
         </member>
@@ -153070,12 +153502,6 @@
             Normal:<br/>
             Whenever a friendly <b>Taunt</b> minion is attacked, give your minions +1 Attack permanently.<br/>
             Tier-5 2/7 Minion
-            </summary>
-        </member>
-        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.Greybough_HappyLittleTreeTavernBrawl2">
-            <summary>
-            Health Tripled.<br/>
-            Enchantment
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.Greybough_WinterboughTavernBrawl">
@@ -153165,7 +153591,13 @@
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.BoonOfLightTavernBrawl">
             <summary>
             Give a minion <b>Divine Shield</b>.<br/>
-            2-Cost HeroPower
+            1-Cost HeroPower
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.BoonofLight_BoonOfLightEnchantmentTavernBrawl">
+            <summary>
+            <b>Divine Shield</b>.<br/>
+            Enchantment
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.GalakrondsGreedTavernBrawl">
@@ -153176,32 +153608,14 @@
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.StayFrostyTavernBrawl">
             <summary>
-            <b>Freeze</b> a card in the Tavern. <b>Passive:</b> At the end of your turn, <b>Frozen</b> minions get +2/+2.<br/>
-            0-Cost HeroPower
-            </summary>
-        </member>
-        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.StayFrosty_FrostyEnchantmentTavernBrawl">
-            <summary>
-            +2/+2.<br/>
-            Enchantment
+            <b><b>Passive</b>.</b> Minions cost (2). The Tavern offers one fewer minion and <b><b>Freeze</b>s</b> at the end of each turn.<br/>
+            HeroPower
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.TinkerTavernBrawl">
             <summary>
-            <b>Passive</b> Whenever you summon a Mech, give it +3 Attack.<br/>
-            HeroPower
-            </summary>
-        </member>
-        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.Tinker_TinkeredEnchantmentTavernBrawl1">
-            <summary>
-            +2/+1.<br/>
-            Enchantment
-            </summary>
-        </member>
-        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.Tinker_TinkeredEnchantmentTavernBrawl2">
-            <summary>
-            +3 Attack.<br/>
-            Enchantment
+            <b>Discover</b> a <b>Magnetic</b> Mech. <i>(Unlocks at Tier 4.)</i><br/>
+            1-Cost HeroPower
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.MurlocKingTavernBrawl">
@@ -153228,7 +153642,7 @@
             Enchantment
             </summary>
         </member>
-        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.DieInsectsTavernBrawl1">
+        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.DieInsectsTavernBrawl">
             <summary>
             <b>Start of Combat:</b> Deal 8 damage to two random enemy minions.<br/>
             2-Cost HeroPower
@@ -153422,8 +153836,8 @@
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.BloodfuryTavernBrawl">
             <summary>
-            Choose a friendly Demon. It consumes a minion in the Tavern to gain its stats.<br/>
-            1-Cost HeroPower
+            <b><b>Passive</b>.</b> After friendly minions deal 100 damage, open a portal to the Twisting Nether! <i>(100 left!)</i><br/>
+            0-Cost HeroPower
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.Bloodfury_DemonicDraughtEnchantmentTavernBrawl1">
@@ -153438,9 +153852,15 @@
             Enchantment
             </summary>
         </member>
+        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.Bloodfury_NetherPortalTokenTavernBrawl">
+            <summary>
+            <b>Passive</b> At the start of each turn, get 2 random Demons.<br/>
+            HeroPower
+            </summary>
+        </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.WaxWarbandTavernBrawl">
             <summary>
-            <b>Passive.</b> <b>Start of Combat:</b> Give a friendly minion of each type stats equal to its Tier.<br/>
+            <b><b>Passive</b>.</b> <b>Start of Combat:</b> Give a friendly minion of each type +{2}/+{2}. <i>(Upgrades after you spend 10 Gold!)</i>10<b>Start of Combat:</b> Give a friendly minion of each type +{2}/+{2}. <i>(Spend {0} Gold to upgrade!)</i><br/>
             HeroPower
             </summary>
         </member>
@@ -153492,15 +153912,21 @@
             Enchantment
             </summary>
         </member>
+        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.PuzzleBox_PuzzleBoxTokenTavernBrawl">
+            <summary>
+            <b>Passive</b> At the start of your turn, you cast a random Tavern spell.<br/>
+            HeroPower
+            </summary>
+        </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.BrickByBrickTavernBrawl">
             <summary>
-            Give a minion +2 Health. <i>(Gains +1 Health each turn you don't use this!)</i><br/>
-            0-Cost HeroPower
+            Steal a random minion from the Tavern. Double its Health.<br/>
+            2-Cost HeroPower
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.BrickbyBrick_BuiltUpEnchantmentTavernBrawl">
             <summary>
-            Increased Health.<br/>
+            Health set to {1}.<br/>
             Enchantment
             </summary>
         </member>
@@ -153596,7 +154022,7 @@
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.ProcrastinateTavernBrawl">
             <summary>
-            <b>Passive</b> Skip your first two turns, then <b>Discover</b> two minions from Tier 3.<br/>
+            <b>Passive</b> Skip your first two turns, then <b>Discover</b> a minion from Tier 3 and Tier 4.<br/>
             HeroPower
             </summary>
         </member>
@@ -153758,14 +154184,8 @@
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.VerdantSpheresTavernBrawl">
             <summary>
-            <b>Passive</b> Every third minion you play gains +1/+1 and improves this by +1/+1.<br/>
+            <b>Passive</b> After you buy 3 minions, get a Gold Coin.<br/>
             HeroPower
-            </summary>
-        </member>
-        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.VerdantSpheres_VerdantEnchantmentTavernBrawl">
-            <summary>
-            Increased stats.<br/>
-            Enchantment
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.ImprisonTavernBrawl">
@@ -153830,7 +154250,7 @@
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.PiggyBankTavernBrawl">
             <summary>
-            Gain 1 Gold. Increases each turn. <i>(Once per game.)</i><br/>
+            Gain 2 Gold. Increases by 1 each turn. <i>(Once per game.)</i><br/>
             0-Cost HeroPower
             </summary>
         </member>
@@ -153888,27 +154308,33 @@
             Enchantment
             </summary>
         </member>
+        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.TavernLighting_TavernLightingTokenTavernBrawl">
+            <summary>
+            <b>Passive</b> Your Tavern spells that give stats grant an extra +1/+1.<br/>
+            HeroPower
+            </summary>
+        </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.SwattingInsectsTavernBrawl">
             <summary>
             <b>Passive</b> <b>Start of Combat:</b> Give your left-most minion <b>Windfury</b>, <b>Divine Shield</b>, and <b>Taunt</b>.<br/>
             HeroPower
             </summary>
         </member>
-        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.DieInsectsTavernBrawl2">
+        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.BuyInsectTavernBrawl">
             <summary>
-            <b>Passive</b> After you kill 16 enemy minions, get Sulfuras. <i>(16 left!)</i><br/>
+            <b>Passive</b> After you buy 16 cards, get Sulfuras. <i>(16 left!)</i><br/>
             HeroPower
             </summary>
         </member>
-        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.DIEINSECTS_SulfurasTokenTavernBrawl">
+        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.BUYINSECT_SulfurasTokenTavernBrawl">
             <summary>
-            <b>Passive</b> At the end of your turn, give your left- and right- most minions +4/+4.<br/>
+            <b>Passive</b> At the end of your turn, give your left- and right-most minions +8/+8.<br/>
             HeroPower
             </summary>
         </member>
-        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.DIEINSECTS_HandOfRagnarosEnchantmentTokenTavernBrawl">
+        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.BUYINSECT_HandOfRagnarosEnchantmentTokenTavernBrawl">
             <summary>
-            +4/+4.<br/>
+            +{0}/+{1}.<br/>
             Enchantment
             </summary>
         </member>
@@ -153950,13 +154376,13 @@
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.SaturdayCthunsTavernBrawl">
             <summary>
-            At end of turn, give a friendly minion +2/+1. Repeat times. <i> (Upgrades each turn!)</i><br/>
-            2-Cost HeroPower
+            At end of turn, give a friendly minion +1/+1. Repeat times. <i> (Upgrades each turn!)</i><br/>
+            1-Cost HeroPower
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.SaturdayCThuns_SaturdayCthunsEnchantmentTavernBrawl">
             <summary>
-            +2/+1.<br/>
+            +{0}/+{1}.<br/>
             Enchantment
             </summary>
         </member>
@@ -154020,6 +154446,12 @@
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.RunicEmpowermentTavernBrawl">
             <summary>
             Give a minion +{1}/+{1}. Upgrades after five friendly minions die. <i>({0} left!)</i>5Give a minion +{1}/+{1}. Upgrades after five friendly minions die. <i>({0} left!)</i><br/>
+            1-Cost HeroPower
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.RunicEmpowerment_RuneOfDamnationTokenTavernBrawl">
+            <summary>
+            Destroy a friendly Undead to get a random Undead.<br/>
             1-Cost HeroPower
             </summary>
         </member>
@@ -180081,6 +180513,12 @@
             Spell
             </summary>
         </member>
+        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.TheCoinEVENT1">
+            <summary>
+            Gain 1 Mana Crystal this turn only.<br/>
+            0-Cost Spell
+            </summary>
+        </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.SharpEyedLookout_NewlyDiscoveredEnchantment">
             <summary>
             Costs (1) less this turn.<br/>
@@ -180135,7 +180573,7 @@
             0-Cost Spell
             </summary>
         </member>
-        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.TheCoinEVENT">
+        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.TheCoinEVENT2">
             <summary>
             Gain 1 Mana Crystal this turn only.<br/>
             0-Cost Spell
@@ -180681,6 +181119,12 @@
             Enchantment
             </summary>
         </member>
+        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.UndercoverCultist_NestingRaptorToken">
+            <summary>
+            <b>Rush</b><br/>
+            1-Cost 2/1 Beast Minion
+            </summary>
+        </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.CityChiefEsho_KinEnchantment">
             <summary>
             +2/+2.<br/>
@@ -180823,6 +181267,54 @@
             <summary>
             Gain 1 Mana Crystal this turn only.<br/>
             0-Cost Spell
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.SemiStablePortal_KeepTimelineToken">
+            <summary>
+            Do nothing. <i>This timeline is perfect as-is!</i><br/>
+            Spell
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.SemiStablePortal_RewindTimelineToken">
+            <summary>
+            <b>Rewind</b> the card's effect.<br/>
+            Spell
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.PortalVanguard_GuardingTimeEnchantment">
+            <summary>
+            +2/+2.<br/>
+            Enchantment
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.MisterClocksworth_MisterClocksworthToken1">
+            <summary>
+            <b>Rewind</b>, <b>Rewind</b> <b>Battlecry:</b> Summon 2 random <b>Legendary</b> minions.<br/>
+            8-Cost 3/3 Mechanical Minion
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.MisterClocksworth_MisterClocksworthToken2">
+            <summary>
+            <b>Rewind</b> <b>Battlecry:</b> Summon 2 random <b>Legendary</b> minions.<br/>
+            8-Cost 3/3 Mechanical Minion
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.MisterClocksworth_MisterClocksworthToken3">
+            <summary>
+            <b>Battlecry:</b> Summon 2 random <b>Legendary</b> minions.<br/>
+            8-Cost 3/3 Mechanical Minion
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.TimelordNozdormu_LordOfTimeEnchantment">
+            <summary>
+            <b>Dormant</b>. Awaken in 5 turns.<br/>
+            Enchantment
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.NonCollectible.Neutral.TimelordNozdormu_NozdormuPlayEnchantEnchantment">
+            <summary>
+            After you play a card from the newest expansion, awaken 1 turn sooner.<br/>
+            Enchantment
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.ClassicKrush">
@@ -185449,6 +185941,18 @@
             2-Cost HeroPower
             </summary>
         </member>
+        <member name="F:HearthDb.CardIds.NonCollectible.Priest.AnduinWrynnHeroic_LesserHealHeroSkinsEnchantment">
+            <summary>
+            <b>Hero Power</b> Restore #2 Health.<br/>
+            2-Cost HeroPower
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.NonCollectible.Priest.AnduinWrynnHeroic_HealHeroSkinsEnchantment">
+            <summary>
+            <b>Hero Power</b> Restore #4 Health.<br/>
+            2-Cost HeroPower
+            </summary>
+        </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Priest.AnduinWrynn_LesserHealHeroSkins7">
             <summary>
             <b>Hero Power</b> Restore #2 Health.<br/>
@@ -188874,13 +189378,13 @@
             2-Cost HeroPower
             </summary>
         </member>
-        <member name="F:HearthDb.CardIds.NonCollectible.Rogue.ValeeraSanguinar_DaggerMasteryHeroSkins10">
+        <member name="F:HearthDb.CardIds.NonCollectible.Rogue.ValeeraSanguinar_TessGreymaneHeroSkins">
             <summary>
-            <b>Hero Power</b> Equip a 1/2 Dagger.<br/>
-            2-Cost HeroPower
+            (No Text)<br/>
+            0-Cost Hero
             </summary>
         </member>
-        <member name="F:HearthDb.CardIds.NonCollectible.Rogue.ValeeraSanguinar_DaggerMasteryHeroSkins11">
+        <member name="F:HearthDb.CardIds.NonCollectible.Rogue.ValeeraSanguinar_DaggerMasteryHeroSkins10">
             <summary>
             <b>Hero Power</b> Equip a 1/2 Dagger.<br/>
             2-Cost HeroPower
@@ -188892,7 +189396,25 @@
             2-Cost HeroPower
             </summary>
         </member>
+        <member name="F:HearthDb.CardIds.NonCollectible.Rogue.ValeeraSanguinar_DaggerMasteryHeroSkins11">
+            <summary>
+            <b>Hero Power</b> Equip a 1/2 Dagger.<br/>
+            2-Cost HeroPower
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.NonCollectible.Rogue.ValeeraSanguinar_DaggerMasteryHeroSkins12">
+            <summary>
+            <b>Hero Power</b> Equip a 1/2 Dagger.<br/>
+            2-Cost HeroPower
+            </summary>
+        </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Rogue.ValeeraSanguinar_PoisonedDaggersHeroSkins11">
+            <summary>
+            <b>Hero Power</b> Equip a 2/2 Weapon.<br/>
+            2-Cost HeroPower
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.NonCollectible.Rogue.ValeeraSanguinar_PoisonedDaggersHeroSkins12">
             <summary>
             <b>Hero Power</b> Equip a 2/2 Weapon.<br/>
             2-Cost HeroPower
@@ -188905,18 +189427,6 @@
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Rogue.ValeeraSanguinar_PoisonedDaggersHeroSkinsEnchantment">
-            <summary>
-            <b>Hero Power</b> Equip a 2/2 Weapon.<br/>
-            2-Cost HeroPower
-            </summary>
-        </member>
-        <member name="F:HearthDb.CardIds.NonCollectible.Rogue.ValeeraSanguinar_DaggerMasteryHeroSkins12">
-            <summary>
-            <b>Hero Power</b> Equip a 1/2 Dagger.<br/>
-            2-Cost HeroPower
-            </summary>
-        </member>
-        <member name="F:HearthDb.CardIds.NonCollectible.Rogue.ValeeraSanguinar_PoisonedDaggersHeroSkins12">
             <summary>
             <b>Hero Power</b> Equip a 2/2 Weapon.<br/>
             2-Cost HeroPower
@@ -188941,6 +189451,18 @@
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Rogue.ValeeraSanguinar_PoisonedDaggersHeroSkins14">
+            <summary>
+            <b>Hero Power</b> Equip a 2/2 Weapon.<br/>
+            2-Cost HeroPower
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.NonCollectible.Rogue.ValeeraSanguinar_DaggerMasteryHeroSkins15">
+            <summary>
+            <b>Hero Power</b> Equip a 1/2 Dagger.<br/>
+            2-Cost HeroPower
+            </summary>
+        </member>
+        <member name="F:HearthDb.CardIds.NonCollectible.Rogue.ValeeraSanguinar_PoisonedDaggersHeroSkins15">
             <summary>
             <b>Hero Power</b> Equip a 2/2 Weapon.<br/>
             2-Cost HeroPower
