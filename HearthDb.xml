@@ -6,8 +6,8 @@
     <members>
         <member name="F:HearthDb.CardIds.Collectible.Deathknight.VictorNefarius">
             <summary>
-            <b>Battlecry:</b> If you're holding a Dragon, craft a custom Undead Dragon. It costs (3) less.<br/>
-            5-Cost 5/5 Undead Minion
+            <b>Battlecry:</b> Craft a custom Undead Dragon. If you're holding a Dragon, reduce the Creation's Cost by (3).<br/>
+            4-Cost 4/4 Undead Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.Collectible.Deathknight.PoisonBreathCore">
@@ -4146,7 +4146,7 @@
         </member>
         <member name="F:HearthDb.CardIds.Collectible.Druid.YsielWindsinger">
             <summary>
-            Your spells cost (1).<br/>
+            <b>Battlecry:</b> Your spells cost (1) this turn.<br/>
             9-Cost 5/5 Minion
             </summary>
         </member>
@@ -15293,7 +15293,7 @@
         </member>
         <member name="F:HearthDb.CardIds.Collectible.Neutral.WarmasterBlackhorn">
             <summary>
-            <b>Battlecry:</b> Destroy all cards that cost (2) or less in both player's hands and decks.<br/>
+            <b>Battlecry:</b> Destroy all cards that cost (2) or less in both players' decks.<br/>
             7-Cost 6/6 Minion
             </summary>
         </member>
@@ -24341,7 +24341,7 @@
         <member name="F:HearthDb.CardIds.Collectible.Neutral.SpiritsingerUmbra">
             <summary>
             After you summon a minion, trigger its <b>Deathrattle</b> effect.<br/>
-            4-Cost 3/4 Minion
+            5-Cost 3/4 Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.Collectible.Neutral.Ozruk">
@@ -41583,8 +41583,8 @@
         </member>
         <member name="F:HearthDb.CardIds.Collectible.Warlock.SoulBarrage">
             <summary>
-            When you play or discard this, deal $6 damage randomly split among all enemies.<br/>
-            5-Cost Spell
+            When you play or discard this, deal $5 damage randomly split among all enemies.<br/>
+            4-Cost Spell
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.Collectible.Warlock.SavageYmirjar">
@@ -122927,7 +122927,7 @@
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.YsielWindsinger_YsielWindsingerEnchantment">
             <summary>
-            Costs (1).<br/>
+            Cards in your hand cost (1) this turn.<br/>
             Enchantment
             </summary>
         </member>
@@ -125039,7 +125039,7 @@
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.FallenSunCleric">
             <summary>
             <b>Battlecry:</b> Give a friendly minion +1/+1.<br/>
-            Tier-2 2/1 Undead Minion
+            Tier-1 2/1 Undead Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.FallenSunCleric_ClericsBlessingEnchantmentBATTLEGROUNDS">
@@ -128864,7 +128864,7 @@
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.Onyxia_GrowingWhelpEnchantment">
             <summary>
-            Stats set to {0}/{1}.<br/>
+            +{0}/+{1}.<br/>
             Enchantment
             </summary>
         </member>
@@ -131352,11 +131352,11 @@
             <summary>
             Normal (this):<br/>
             Has +{0}/+{1} for each friendly Eternal Knight that died this game <i>(wherever this is)</i>.<br/>
-            Tier-2 3/1 Undead Minion<br/>
+            Tier-2 4/1 Undead Minion<br/>
             --------------------<br/>
             Triple:<br/>
             Has +{0}/+{1} for each friendly Eternal Knight that died this game <i>(wherever this is)</i>.<br/>
-            Tier-2 6/2 Undead Minion
+            Tier-2 8/2 Undead Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.EternalKnight_EternalLegion">
@@ -131369,11 +131369,11 @@
             <summary>
             Triple (this):<br/>
             Has +{0}/+{1} for each friendly Eternal Knight that died this game <i>(wherever this is)</i>.<br/>
-            Tier-2 6/2 Undead Minion<br/>
+            Tier-2 8/2 Undead Minion<br/>
             --------------------<br/>
             Normal:<br/>
             Has +{0}/+{1} for each friendly Eternal Knight that died this game <i>(wherever this is)</i>.<br/>
-            Tier-2 3/1 Undead Minion
+            Tier-2 4/1 Undead Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.EternalKnight_EternalKnightPlayerEnchantDnt">
@@ -132806,22 +132806,22 @@
             <summary>
             Normal (this):<br/>
             <b>Battlecry:</b> Your <b>Blood Gems</b> give an extra +1 Health this game.<br/>
-            Tier-2 2/3 Quilboar Minion<br/>
+            Tier-2 1/3 Quilboar Minion<br/>
             --------------------<br/>
             Triple:<br/>
             <b>Battlecry:</b> Your <b>Blood Gems</b> give an extra +2 Health this game.<br/>
-            Tier-2 4/6 Quilboar Minion
+            Tier-2 2/6 Quilboar Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.MoonBaconJazzer_MoonBaconJazzer">
             <summary>
             Triple (this):<br/>
             <b>Battlecry:</b> Your <b>Blood Gems</b> give an extra +2 Health this game.<br/>
-            Tier-2 4/6 Quilboar Minion<br/>
+            Tier-2 2/6 Quilboar Minion<br/>
             --------------------<br/>
             Normal:<br/>
             <b>Battlecry:</b> Your <b>Blood Gems</b> give an extra +1 Health this game.<br/>
-            Tier-2 2/3 Quilboar Minion
+            Tier-2 1/3 Quilboar Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.MoonBaconJazzer_BloodGemPlayerEnchantDnt">
@@ -134103,7 +134103,7 @@
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.LostSpirit">
             <summary>
             <b>Deathrattle:</b> Give your minions +1 Attack.<br/>
-            Tier-3 1/1 Undead Minion
+            Tier-1 1/1 Undead Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.LostSpirit_SpookySacrificeEnchantmentBATTLEGROUNDS">
@@ -134253,7 +134253,7 @@
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.SunborneValkyr">
             <summary>
             <b>Battlecry:</b> Give adjacent minions +2 Health.<br/>
-            Tier-4 5/4 Undead Minion
+            Tier-3 5/4 Undead Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.BoneBaron">
@@ -134361,7 +134361,7 @@
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.ArmsDealer">
             <summary>
             After you summon an Undead, give it +1 Attack.<br/>
-            Tier-2 1/2 Undead Minion
+            Tier-1 1/2 Undead Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.FoulEgg">
@@ -135626,7 +135626,7 @@
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.FalseIdols">
             <summary>
-            You only need 2 copies of a minion to make it Golden. Instead of a Triple Reward, get a Gold Coin.<br/>
+            You only need 2 copies of a minion to make it Golden. Instead of a Triple Reward, get a Tavern Coin.<br/>
             BattlegroundAnomaly
             </summary>
         </member>
@@ -138086,22 +138086,22 @@
             <summary>
             Normal (this):<br/>
             Whenever a friendly Beast takes damage, give a friendly Beast other than it +{0}/+{1} permanently.<br/>
-            Tier-5 3/7 Beast Minion<br/>
+            Tier-5 3/8 Beast Minion<br/>
             --------------------<br/>
             Triple:<br/>
             Whenever a friendly Beast takes damage, give a friendly Beast other than it +{0}/+{1} permanently.<br/>
-            Tier-5 6/14 Beast Minion
+            Tier-5 6/16 Beast Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.IridescentSkyblazer_IridescentSkyblazer">
             <summary>
             Triple (this):<br/>
             Whenever a friendly Beast takes damage, give a friendly Beast other than it +{0}/+{1} permanently.<br/>
-            Tier-5 6/14 Beast Minion<br/>
+            Tier-5 6/16 Beast Minion<br/>
             --------------------<br/>
             Normal:<br/>
             Whenever a friendly Beast takes damage, give a friendly Beast other than it +{0}/+{1} permanently.<br/>
-            Tier-5 3/7 Beast Minion
+            Tier-5 3/8 Beast Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.IridescentSkyblazer_SkiesABlazingEnchantment">
@@ -142064,22 +142064,22 @@
             <summary>
             Normal (this):<br/>
             <b>Battlecry:</b> Your Beetles have +{2}/+{3} this game. <b>Deathrattle:</b> Summon a {0}/{1} Beetle.<br/>
-            Tier-2 3/2 Beast Minion<br/>
+            Tier-2 1/1 Beast Minion<br/>
             --------------------<br/>
             Triple:<br/>
             <b>Battlecry:</b> Your Beetles have +{2}/+{3} this game. <b>Deathrattle:</b> Summon two {0}/{1} Beetles.<br/>
-            Tier-2 6/4 Beast Minion
+            Tier-2 2/2 Beast Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.ForestRover_ForestRover">
             <summary>
             Triple (this):<br/>
             <b>Battlecry:</b> Your Beetles have +{2}/+{3} this game. <b>Deathrattle:</b> Summon two {0}/{1} Beetles.<br/>
-            Tier-2 6/4 Beast Minion<br/>
+            Tier-2 2/2 Beast Minion<br/>
             --------------------<br/>
             Normal:<br/>
             <b>Battlecry:</b> Your Beetles have +{2}/+{3} this game. <b>Deathrattle:</b> Summon a {0}/{1} Beetle.<br/>
-            Tier-2 3/2 Beast Minion
+            Tier-2 1/1 Beast Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.KarmicChameleon">
@@ -142152,22 +142152,22 @@
             <summary>
             Normal (this):<br/>
             <b>Avenge (3):</b> Your Beetles have +2/+2 this game. <b>Deathrattle:</b> Summon a {0}/{1} Beetle.<br/>
-            Tier-5 2/8 Beast Minion<br/>
+            Tier-4 2/8 Beast Minion<br/>
             --------------------<br/>
             Triple:<br/>
             <b>Avenge (3):</b> Your Beetles have +4/+4 this game. <b>Deathrattle:</b> Summon two {0}/{1} Beetles.<br/>
-            Tier-5 4/16 Beast Minion
+            Tier-4 4/16 Beast Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.RunedProgenitor_RunedProgenitor">
             <summary>
             Triple (this):<br/>
             <b>Avenge (3):</b> Your Beetles have +4/+4 this game. <b>Deathrattle:</b> Summon two {0}/{1} Beetles.<br/>
-            Tier-5 4/16 Beast Minion<br/>
+            Tier-4 4/16 Beast Minion<br/>
             --------------------<br/>
             Normal:<br/>
             <b>Avenge (3):</b> Your Beetles have +2/+2 this game. <b>Deathrattle:</b> Summon a {0}/{1} Beetle.<br/>
-            Tier-5 2/8 Beast Minion
+            Tier-4 2/8 Beast Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.RunedProgenitor_BeetleArmyEnchantment">
@@ -142186,22 +142186,22 @@
             <summary>
             Normal (this):<br/>
             <b>Deathrattle:</b> Your Beetles have +{2}/+{3} this game. Summon a {0}/{1} Beetle.<br/>
-            Tier-4 2/4 Beast Minion<br/>
+            Tier-5 4/4 Beast Minion<br/>
             --------------------<br/>
             Triple:<br/>
             <b>Deathrattle:</b> Your Beetles have +{2}/+{3} this game. Summon two {0}/{1} Beetles.<br/>
-            Tier-4 4/8 Beast Minion
+            Tier-5 8/8 Beast Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.TurquoiseSkitterer_TurquoiseSkitterer">
             <summary>
             Triple (this):<br/>
             <b>Deathrattle:</b> Your Beetles have +{2}/+{3} this game. Summon two {0}/{1} Beetles.<br/>
-            Tier-4 4/8 Beast Minion<br/>
+            Tier-5 8/8 Beast Minion<br/>
             --------------------<br/>
             Normal:<br/>
             <b>Deathrattle:</b> Your Beetles have +{2}/+{3} this game. Summon a {0}/{1} Beetle.<br/>
-            Tier-4 2/4 Beast Minion
+            Tier-5 4/4 Beast Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.UltravioletAscendant">
@@ -144150,7 +144150,7 @@
             <summary>
             Normal (this):<br/>
             <b>Avenge (4):</b> Summon a {1}/{1} Interceptor. Then improve this permanently.<br/>
-            Tier-5 4/12 Mechanical Minion<br/>
+            Tier-7 4/12 Mechanical Minion<br/>
             --------------------<br/>
             Triple:<br/>
             <b>Avenge (4):</b> Summon a {1}/{1} Interceptor. Then improve this permanently.<br/>
@@ -144165,7 +144165,7 @@
             --------------------<br/>
             Normal:<br/>
             <b>Avenge (4):</b> Summon a {1}/{1} Interceptor. Then improve this permanently.<br/>
-            Tier-5 4/12 Mechanical Minion
+            Tier-7 4/12 Mechanical Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.Artanis_GravitonCatapult">
@@ -144255,22 +144255,22 @@
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.Artanis_Mothership1">
             <summary>
             Normal (this):<br/>
-            <b>Avenge (5):</b> Get a random Protoss minion.<br/>
+            <b>Avenge (4):</b> Get a random Protoss minion.<br/>
             Tier-5 6/8 Mechanical Minion<br/>
             --------------------<br/>
             Triple:<br/>
-            <b>Avenge (5):</b> Get 2 random Protoss minions.<br/>
+            <b>Avenge (4):</b> Get 2 random Protoss minions.<br/>
             Tier-5 12/16 Mechanical Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.Artanis_Mothership2">
             <summary>
             Triple (this):<br/>
-            <b>Avenge (5):</b> Get 2 random Protoss minions.<br/>
+            <b>Avenge (4):</b> Get 2 random Protoss minions.<br/>
             Tier-5 12/16 Mechanical Minion<br/>
             --------------------<br/>
             Normal:<br/>
-            <b>Avenge (5):</b> Get a random Protoss minion.<br/>
+            <b>Avenge (4):</b> Get a random Protoss minion.<br/>
             Tier-5 6/8 Mechanical Minion
             </summary>
         </member>
@@ -144819,23 +144819,23 @@
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.SilkyShimmermoth">
             <summary>
             Normal (this):<br/>
-            After this gains Attack, your Beetles have +{2}/+{3} this game. <b>Deathrattle:</b> Summon a {0}/{1} Beetle.<br/>
-            Tier-6 8/3 Beast Minion<br/>
+            Whenever this takes damage, your Beetles have +{2}/+{3} this game. <b>Deathrattle:</b> Summon a {0}/{1} Beetle.<br/>
+            Tier-6 3/8 Beast Minion<br/>
             --------------------<br/>
             Triple:<br/>
-            After this gains Attack, your Beetles have +{2}/+{3} this game. <b>Deathrattle:</b> Summon two {0}/{1} Beetles.<br/>
-            Tier-6 16/6 Beast Minion
+            Whenever this takes damage, your Beetles have +{2}/+{3} this game. <b>Deathrattle:</b> Summon two {0}/{1} Beetle.<br/>
+            Tier-6 6/16 Beast Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.SilkyShimmermoth_SilkyShimmermoth">
             <summary>
             Triple (this):<br/>
-            After this gains Attack, your Beetles have +{2}/+{3} this game. <b>Deathrattle:</b> Summon two {0}/{1} Beetles.<br/>
-            Tier-6 16/6 Beast Minion<br/>
+            Whenever this takes damage, your Beetles have +{2}/+{3} this game. <b>Deathrattle:</b> Summon two {0}/{1} Beetle.<br/>
+            Tier-6 6/16 Beast Minion<br/>
             --------------------<br/>
             Normal:<br/>
-            After this gains Attack, your Beetles have +{2}/+{3} this game. <b>Deathrattle:</b> Summon a {0}/{1} Beetle.<br/>
-            Tier-6 8/3 Beast Minion
+            Whenever this takes damage, your Beetles have +{2}/+{3} this game. <b>Deathrattle:</b> Summon a {0}/{1} Beetle.<br/>
+            Tier-6 3/8 Beast Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.StarryEyedExplorer">
@@ -145798,22 +145798,22 @@
             <summary>
             Normal (this):<br/>
             After you play an Elemental, give your Elementals +{0}/+{1}.<br/>
-            Tier-5 5/3 Elemental Minion<br/>
+            Tier-5 5/4 Elemental Minion<br/>
             --------------------<br/>
             Triple:<br/>
             After you play an Elemental, give your Elementals +{0}/+{1} twice.<br/>
-            Tier-5 10/6 Elemental Minion
+            Tier-5 10/8 Elemental Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.UnleashedManaSurge_UnleashedManaSurge">
             <summary>
             Triple (this):<br/>
             After you play an Elemental, give your Elementals +{0}/+{1} twice.<br/>
-            Tier-5 10/6 Elemental Minion<br/>
+            Tier-5 10/8 Elemental Minion<br/>
             --------------------<br/>
             Normal:<br/>
             After you play an Elemental, give your Elementals +{0}/+{1}.<br/>
-            Tier-5 5/3 Elemental Minion
+            Tier-5 5/4 Elemental Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.UnleashedManaSurge_SurgingManaEnchantment">
@@ -149296,44 +149296,44 @@
             <summary>
             Normal (this):<br/>
             <b>Magnetic</b>. The first time this is played or <b>Magnetized</b>, your Volumizers have +{1} Attack this game <i>(wherever they are)</i>.<br/>
-            Tier-2 4/1 Mechanical Minion<br/>
+            Tier-2 3/1 Mechanical Minion<br/>
             --------------------<br/>
             Triple:<br/>
             <b>Magnetic</b>. The first time this is played or <b>Magnetized</b>, your Volumizers have +{1} Attack this game <i>(wherever they are)</i>.<br/>
-            Tier-2 8/2 Mechanical Minion
+            Tier-2 6/2 Mechanical Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.AutoAccelerator_RedVolumizerToken2">
             <summary>
             Triple (this):<br/>
             <b>Magnetic</b>. The first time this is played or <b>Magnetized</b>, your Volumizers have +{1} Attack this game <i>(wherever they are)</i>.<br/>
-            Tier-2 8/2 Mechanical Minion<br/>
+            Tier-2 6/2 Mechanical Minion<br/>
             --------------------<br/>
             Normal:<br/>
             <b>Magnetic</b>. The first time this is played or <b>Magnetized</b>, your Volumizers have +{1} Attack this game <i>(wherever they are)</i>.<br/>
-            Tier-2 4/1 Mechanical Minion
+            Tier-2 3/1 Mechanical Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.AutoAccelerator_BlueVolumizerToken1">
             <summary>
             Normal (this):<br/>
             <b>Magnetic</b>. The first time this is played or <b>Magnetized</b>, your Volumizers have +{1} Health this game <i>(wherever they are)</i>.<br/>
-            Tier-2 1/4 Mechanical Minion<br/>
+            Tier-2 1/3 Mechanical Minion<br/>
             --------------------<br/>
             Triple:<br/>
             <b>Magnetic</b>. The first time this is played or <b>Magnetized</b>, your Volumizers have +{1} Health this game <i>(wherever they are)</i>.<br/>
-            Tier-2 2/8 Mechanical Minion
+            Tier-2 2/6 Mechanical Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.AutoAccelerator_BlueVolumizerToken2">
             <summary>
             Triple (this):<br/>
             <b>Magnetic</b>. The first time this is played or <b>Magnetized</b>, your Volumizers have +{1} Health this game <i>(wherever they are)</i>.<br/>
-            Tier-2 2/8 Mechanical Minion<br/>
+            Tier-2 2/6 Mechanical Minion<br/>
             --------------------<br/>
             Normal:<br/>
             <b>Magnetic</b>. The first time this is played or <b>Magnetized</b>, your Volumizers have +{1} Health this game <i>(wherever they are)</i>.<br/>
-            Tier-2 1/4 Mechanical Minion
+            Tier-2 1/3 Mechanical Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.AutoAccelerator_BlueVolumizerToken3">
@@ -149352,22 +149352,22 @@
             <summary>
             Normal (this):<br/>
             <b>Magnetic</b>. The first time this is played or <b>Magnetized</b>, your Volumizers have +{1}/+{2} this game <i>(wherever they are)</i>.<br/>
-            Tier-2 2/2 Mechanical Minion<br/>
+            Tier-2 3/3 Mechanical Minion<br/>
             --------------------<br/>
             Triple:<br/>
             <b>Magnetic</b>. The first time this is played or <b>Magnetized</b>, your Volumizers have +{1}/+{2} this game <i>(wherever they are)</i>.<br/>
-            Tier-2 4/4 Mechanical Minion
+            Tier-2 6/6 Mechanical Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.AutoAccelerator_GreenVolumizerToken2">
             <summary>
             Triple (this):<br/>
             <b>Magnetic</b>. The first time this is played or <b>Magnetized</b>, your Volumizers have +{1}/+{2} this game <i>(wherever they are)</i>.<br/>
-            Tier-2 4/4 Mechanical Minion<br/>
+            Tier-2 6/6 Mechanical Minion<br/>
             --------------------<br/>
             Normal:<br/>
             <b>Magnetic</b>. The first time this is played or <b>Magnetized</b>, your Volumizers have +{1}/+{2} this game <i>(wherever they are)</i>.<br/>
-            Tier-2 2/2 Mechanical Minion
+            Tier-2 3/3 Mechanical Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.AutoAccelerator_GreenVolumizerToken3">
@@ -149485,23 +149485,23 @@
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.MetalDispenser">
             <summary>
             Normal (this):<br/>
-            <b>Divine Shield</b> <b>Avenge ({0}):</b> Get a random <b>Magnetic</b> Volumizer.<br/>
-            Tier-5 2/7 Mechanical Minion<br/>
+            <b>Divine Shield</b> <b>Avenge ({0}):</b> <b>Magnetize</b> a random Volumizer to this. Get a copy of it.<br/>
+            Tier-5 2/8 Mechanical Minion<br/>
             --------------------<br/>
             Triple:<br/>
-            <b>Divine Shield</b> <b>Avenge ({0}):</b> Get 2 random <b>Magnetic</b> Volumizers.<br/>
-            Tier-5 4/14 Mechanical Minion
+            <b>Divine Shield</b> <b>Avenge ({0}):</b> <b>Magnetize</b> a random Volumizer to this. Get 2 copies of it.<br/>
+            Tier-5 4/16 Mechanical Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.MetalDispenser_MetalDispenser">
             <summary>
             Triple (this):<br/>
-            <b>Divine Shield</b> <b>Avenge ({0}):</b> Get 2 random <b>Magnetic</b> Volumizers.<br/>
-            Tier-5 4/14 Mechanical Minion<br/>
+            <b>Divine Shield</b> <b>Avenge ({0}):</b> <b>Magnetize</b> a random Volumizer to this. Get 2 copies of it.<br/>
+            Tier-5 4/16 Mechanical Minion<br/>
             --------------------<br/>
             Normal:<br/>
-            <b>Divine Shield</b> <b>Avenge ({0}):</b> Get a random <b>Magnetic</b> Volumizer.<br/>
-            Tier-5 2/7 Mechanical Minion
+            <b>Divine Shield</b> <b>Avenge ({0}):</b> <b>Magnetize</b> a random Volumizer to this. Get a copy of it.<br/>
+            Tier-5 2/8 Mechanical Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.DoubleDemolisher">
@@ -149596,22 +149596,22 @@
             <summary>
             Normal (this):<br/>
             After you gain Gold, give your Pirates +{0}/+{1}.<br/>
-            Tier-6 3/8 Pirate Minion<br/>
+            Tier-5 3/7 Pirate Minion<br/>
             --------------------<br/>
             Triple:<br/>
             After you gain Gold, give your Pirates +{0}/+{1} twice.<br/>
-            Tier-6 6/16 Pirate Minion
+            Tier-5 6/14 Pirate Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.CannonCorsair_CannonCorsair">
             <summary>
             Triple (this):<br/>
             After you gain Gold, give your Pirates +{0}/+{1} twice.<br/>
-            Tier-6 6/16 Pirate Minion<br/>
+            Tier-5 6/14 Pirate Minion<br/>
             --------------------<br/>
             Normal:<br/>
             After you gain Gold, give your Pirates +{0}/+{1}.<br/>
-            Tier-6 3/8 Pirate Minion
+            Tier-5 3/7 Pirate Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.CannonCorsair_CorsairsChargeEnchantment">
@@ -149623,7 +149623,7 @@
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.TimeSnap">
             <summary>
             <b>Discover</b> a 1-Cost minion from the Major <b>Timewarp</b>.<br/>
-            Tier-6 2-Cost BattlegroundSpell
+            Tier-7 2-Cost BattlegroundSpell
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.MenagerieTableware">
@@ -149866,22 +149866,22 @@
             <summary>
             Normal (this):<br/>
             <b>Avenge ({0}):</b> Summon an Eternal Knight. It attacks immediately.<br/>
-            Tier-5 2/7 Undead Minion<br/>
+            Tier-5 2/9 Undead Minion<br/>
             --------------------<br/>
             Triple:<br/>
             <b>Avenge ({0}):</b> Summon a Golden Eternal Knight. It attacks immediately.<br/>
-            Tier-5 4/14 Undead Minion
+            Tier-5 4/18 Undead Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.EternalTycoon_EternalTycoon">
             <summary>
             Triple (this):<br/>
             <b>Avenge ({0}):</b> Summon a Golden Eternal Knight. It attacks immediately.<br/>
-            Tier-5 4/14 Undead Minion<br/>
+            Tier-5 4/18 Undead Minion<br/>
             --------------------<br/>
             Normal:<br/>
             <b>Avenge ({0}):</b> Summon an Eternal Knight. It attacks immediately.<br/>
-            Tier-5 2/7 Undead Minion
+            Tier-5 2/9 Undead Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.RelentlessDeflector">
@@ -149915,28 +149915,28 @@
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.AzsharanVeteran">
             <summary>
             Normal (this):<br/>
-            <b>Spellcraft:</b> Give your minions +{0}/+{1}. Repeat for each <b>Bonus Keyword</b> in your warband.<br/>
-            Tier-5 4/4 Naga Minion<br/>
+            <b>Spellcraft:</b> Give your minions +{0}/+{1} for each different <b>Bonus Keyword</b> in your warband.<br/>
+            Tier-5 4/5 Naga Minion<br/>
             --------------------<br/>
             Triple:<br/>
-            <b>Spellcraft:</b> Give your minions +{0}/+{1}. Repeat for each <b>Bonus Keyword</b> in your warband.<br/>
-            Tier-5 8/8 Naga Minion
+            <b>Spellcraft:</b> Give your minions +{0}/+{1} for each different <b>Bonus Keyword</b> in your warband.<br/>
+            Tier-5 8/10 Naga Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.AzsharanVeteran_AzsharanVeteran">
             <summary>
             Triple (this):<br/>
-            <b>Spellcraft:</b> Give your minions +{0}/+{1}. Repeat for each <b>Bonus Keyword</b> in your warband.<br/>
-            Tier-5 8/8 Naga Minion<br/>
+            <b>Spellcraft:</b> Give your minions +{0}/+{1} for each different <b>Bonus Keyword</b> in your warband.<br/>
+            Tier-5 8/10 Naga Minion<br/>
             --------------------<br/>
             Normal:<br/>
-            <b>Spellcraft:</b> Give your minions +{0}/+{1}. Repeat for each <b>Bonus Keyword</b> in your warband.<br/>
-            Tier-5 4/4 Naga Minion
+            <b>Spellcraft:</b> Give your minions +{0}/+{1} for each different <b>Bonus Keyword</b> in your warband.<br/>
+            Tier-5 4/5 Naga Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.AzsharanVeteran_VeteransTactics">
             <summary>
-            Give your minions +{0}/+{1}. Repeat for each <b>Bonus Keyword</b> in your warband.<br/>
+            Give your minions +{0}/+{1} for each different <b>Bonus Keyword</b> in your warband.<br/>
             0-Cost Spell
             </summary>
         </member>
@@ -149948,7 +149948,7 @@
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.AzsharanVeteran_VeteransTacticsToken">
             <summary>
-            Give your minions +{0}/+{1}. Repeat for each <b>Bonus Keyword</b> in your warband.<br/>
+            Give your minions +{0}/+{1} for each different <b>Bonus Keyword</b> in your warband.<br/>
             0-Cost Spell
             </summary>
         </member>
@@ -149984,22 +149984,22 @@
             <summary>
             Normal (this):<br/>
             Your Pirates and Elementals give an extra +{0}/+{1}.<br/>
-            Tier-6 4/5 Pirate/Elemental Minion<br/>
+            Tier-6 8/10 Pirate/Elemental Minion<br/>
             --------------------<br/>
             Triple:<br/>
             Your Pirates and Elementals give an extra +{0}/+{1}.<br/>
-            Tier-6 8/10 Pirate/Elemental Minion
+            Tier-6 16/20 Pirate/Elemental Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.ShoreMarauder_ShoreMarauder">
             <summary>
             Triple (this):<br/>
             Your Pirates and Elementals give an extra +{0}/+{1}.<br/>
-            Tier-6 8/10 Pirate/Elemental Minion<br/>
+            Tier-6 16/20 Pirate/Elemental Minion<br/>
             --------------------<br/>
             Normal:<br/>
             Your Pirates and Elementals give an extra +{0}/+{1}.<br/>
-            Tier-6 4/5 Pirate/Elemental Minion
+            Tier-6 8/10 Pirate/Elemental Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.SpiritDrake">
@@ -150427,22 +150427,22 @@
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.GhostlyYmirjar">
             <summary>
             Normal (this):<br/>
-            <b>Avenge ({0}):</b> Gain a free <b>Refresh</b>.<br/>
+            <b>Avenge (4):</b> Gain a free <b>Refresh</b>.<br/>
             Tier-2 2/5 Undead Minion<br/>
             --------------------<br/>
             Triple:<br/>
-            <b>Avenge ({0}):</b> Gain 2 free <b>Refreshes</b>.<br/>
+            <b>Avenge (4):</b> Gain 2 free <b>Refreshes</b>.<br/>
             Tier-2 4/10 Undead Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.GhostlyYmirjar_GhostlyYmirjar">
             <summary>
             Triple (this):<br/>
-            <b>Avenge ({0}):</b> Gain 2 free <b>Refreshes</b>.<br/>
+            <b>Avenge (4):</b> Gain 2 free <b>Refreshes</b>.<br/>
             Tier-2 4/10 Undead Minion<br/>
             --------------------<br/>
             Normal:<br/>
-            <b>Avenge ({0}):</b> Gain a free <b>Refresh</b>.<br/>
+            <b>Avenge (4):</b> Gain a free <b>Refresh</b>.<br/>
             Tier-2 2/5 Undead Minion
             </summary>
         </member>
@@ -150503,14 +150503,14 @@
             Tier-5 6/6 Mechanical Minion<br/>
             --------------------<br/>
             Triple:<br/>
-            <b>Deathrattle:</b> Deal {0} damage to the highest-Health enemy minion, twice. <i>(Improved by Tavern spells you've cast this game!)</i><br/>
+            <b>Deathrattle:</b> Deal {0} damage to the highest-Health enemy minion twice. <i>(Improved by Tavern spells you've cast this game!)</i><br/>
             Tier-5 12/12 Mechanical Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.Photobomber_Photobomber">
             <summary>
             Triple (this):<br/>
-            <b>Deathrattle:</b> Deal {0} damage to the highest-Health enemy minion, twice. <i>(Improved by Tavern spells you've cast this game!)</i><br/>
+            <b>Deathrattle:</b> Deal {0} damage to the highest-Health enemy minion twice. <i>(Improved by Tavern spells you've cast this game!)</i><br/>
             Tier-5 12/12 Mechanical Minion<br/>
             --------------------<br/>
             Normal:<br/>
@@ -150969,45 +150969,45 @@
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.TimewarpedSeer">
             <summary>
             Normal (this):<br/>
-            One Tavern spell each turn costs (0). <i>({0} left!)</i><br/>
-            Tier-3 9/9 Demon/Naga Minion<br/>
+            Two Tavern spells each turn cost (2) less. <i>({0} left!)</i><br/>
+            Tier-3 8/8 Demon/Naga Minion<br/>
             --------------------<br/>
             Triple:<br/>
-            Two Tavern spells each turn cost (0). <i>({0} left!)</i><br/>
-            Tier-3 18/18 Demon/Naga Minion
+            Four Tavern spells each turn cost (2) less. <i>({0} left!)</i><br/>
+            Tier-3 16/16 Demon/Naga Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.TimewarpedSeer_TimewarpedSeer">
             <summary>
             Triple (this):<br/>
-            Two Tavern spells each turn cost (0). <i>({0} left!)</i><br/>
-            Tier-3 18/18 Demon/Naga Minion<br/>
+            Four Tavern spells each turn cost (2) less. <i>({0} left!)</i><br/>
+            Tier-3 16/16 Demon/Naga Minion<br/>
             --------------------<br/>
             Normal:<br/>
-            One Tavern spell each turn costs (0). <i>({0} left!)</i><br/>
-            Tier-3 9/9 Demon/Naga Minion
+            Two Tavern spells each turn cost (2) less. <i>({0} left!)</i><br/>
+            Tier-3 8/8 Demon/Naga Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.TimewarpedAlleycat">
             <summary>
             Normal (this):<br/>
             At the end of your turn, summon a Tabbycat with this minion's stats.<br/>
-            Tier-3 5/5 Beast Minion<br/>
+            Tier-3 7/7 Beast Minion<br/>
             --------------------<br/>
             Triple:<br/>
             At the end of your turn, summon 2 Tabbycats with this minion's stats.<br/>
-            Tier-3 10/10 Beast Minion
+            Tier-3 14/14 Beast Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.TimewarpedAlleycat_TimewarpedAlleycat">
             <summary>
             Triple (this):<br/>
             At the end of your turn, summon 2 Tabbycats with this minion's stats.<br/>
-            Tier-3 10/10 Beast Minion<br/>
+            Tier-3 14/14 Beast Minion<br/>
             --------------------<br/>
             Normal:<br/>
             At the end of your turn, summon a Tabbycat with this minion's stats.<br/>
-            Tier-3 5/5 Beast Minion
+            Tier-3 7/7 Beast Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.TimewarpedAlleycat_AlleyOopEnchantment">
@@ -151500,22 +151500,22 @@
             <summary>
             Normal (this):<br/>
             <b>Divine Shield</b> <b>Rally:</b> Give a different friendly minion <b>Divine Shield</b> permanently.<br/>
-            Tier-3 3/7 Mechanical Minion<br/>
+            Tier-3 5/10 Mechanical Minion<br/>
             --------------------<br/>
             Triple:<br/>
             <b>Divine Shield</b> <b>Rally:</b> Give 2 different friendly minions <b>Divine Shield</b> permanently.<br/>
-            Tier-3 6/14 Mechanical Minion
+            Tier-3 10/20 Mechanical Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.TimewarpedGuard_TimewarpedGuard">
             <summary>
             Triple (this):<br/>
             <b>Divine Shield</b> <b>Rally:</b> Give 2 different friendly minions <b>Divine Shield</b> permanently.<br/>
-            Tier-3 6/14 Mechanical Minion<br/>
+            Tier-3 10/20 Mechanical Minion<br/>
             --------------------<br/>
             Normal:<br/>
             <b>Divine Shield</b> <b>Rally:</b> Give a different friendly minion <b>Divine Shield</b> permanently.<br/>
-            Tier-3 3/7 Mechanical Minion
+            Tier-3 5/10 Mechanical Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.TimewarpedPiper">
@@ -152673,22 +152673,22 @@
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.TimewarpedRadioStar">
             <summary>
             Normal (this):<br/>
-            <b>Deathrattle:</b> Get a copy of the enemy minion that killed this with full Health and enchantments.<br/>
+            <b>Deathrattle:</b> Get a copy of the minion that killed this with full Health and enchantments.<br/>
             Tier-5 1/1 Undead Minion<br/>
             --------------------<br/>
             Triple:<br/>
-            <b>Deathrattle:</b> Get 2 copies of the enemy minion that killed this with full Health and enchantments.<br/>
+            <b>Deathrattle:</b> Get 2 copies of the minion that killed this with full Health and enchantments.<br/>
             Tier-5 2/2 Undead Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.TimewarpedRadioStar_TimewarpedRadioStar">
             <summary>
             Triple (this):<br/>
-            <b>Deathrattle:</b> Get 2 copies of the enemy minion that killed this with full Health and enchantments.<br/>
+            <b>Deathrattle:</b> Get 2 copies of the minion that killed this with full Health and enchantments.<br/>
             Tier-5 2/2 Undead Minion<br/>
             --------------------<br/>
             Normal:<br/>
-            <b>Deathrattle:</b> Get a copy of the enemy minion that killed this with full Health and enchantments.<br/>
+            <b>Deathrattle:</b> Get a copy of the minion that killed this with full Health and enchantments.<br/>
             Tier-5 1/1 Undead Minion
             </summary>
         </member>
@@ -152884,22 +152884,22 @@
             <summary>
             Normal (this):<br/>
             <b>Deathrattle:</b> Your Beasts have +{0}/+{1} this game <i>(wherever they are)</i>.<br/>
-            Tier-5 6/4 Beast Minion<br/>
+            Tier-5 6/6 Beast Minion<br/>
             --------------------<br/>
             Triple:<br/>
             <b>Deathrattle:</b> Your Beasts have +{0}/+{1} this game <i>(wherever they are)</i>.<br/>
-            Tier-5 12/8 Beast Minion
+            Tier-5 12/12 Beast Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.TimewarpedGoldrinn_TimewarpedGoldrinn">
             <summary>
             Triple (this):<br/>
             <b>Deathrattle:</b> Your Beasts have +{0}/+{1} this game <i>(wherever they are)</i>.<br/>
-            Tier-5 12/8 Beast Minion<br/>
+            Tier-5 12/12 Beast Minion<br/>
             --------------------<br/>
             Normal:<br/>
             <b>Deathrattle:</b> Your Beasts have +{0}/+{1} this game <i>(wherever they are)</i>.<br/>
-            Tier-5 6/4 Beast Minion
+            Tier-5 6/6 Beast Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.TimewarpedGoldrinn_SpiritOfTheBeastEnchantment">
@@ -153446,44 +153446,44 @@
             <summary>
             Normal (this):<br/>
             If you have any unspent Gold at the end of your turn, increase your maximum Gold by 1.<br/>
-            Tier-3 3/4 Minion<br/>
+            Tier-3 6/8 Minion<br/>
             --------------------<br/>
             Triple:<br/>
             If you have any unspent Gold at the end of your turn, increase your maximum Gold by 2.<br/>
-            Tier-3 6/8 Minion
+            Tier-3 12/16 Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.TimewarpedTipper_TimewarpedTipper">
             <summary>
             Triple (this):<br/>
             If you have any unspent Gold at the end of your turn, increase your maximum Gold by 2.<br/>
-            Tier-3 6/8 Minion<br/>
+            Tier-3 12/16 Minion<br/>
             --------------------<br/>
             Normal:<br/>
             If you have any unspent Gold at the end of your turn, increase your maximum Gold by 1.<br/>
-            Tier-3 3/4 Minion
+            Tier-3 6/8 Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.TimewarpedTraveler">
             <summary>
             Normal (this):<br/>
             <b>Avenge ({0}):</b> Get a random 1-Cost card from the Minor <b>Timewarp</b>.<br/>
-            Tier-3 4/5 Minion<br/>
+            Tier-3 4/8 Minion<br/>
             --------------------<br/>
             Triple:<br/>
             <b>Avenge ({0}):</b> Get two random 1-Cost cards from the Minor <b>Timewarp</b>.<br/>
-            Tier-3 8/10 Minion
+            Tier-3 8/16 Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.TimewarpedTraveler_TimewarpedTraveler">
             <summary>
             Triple (this):<br/>
             <b>Avenge ({0}):</b> Get two random 1-Cost cards from the Minor <b>Timewarp</b>.<br/>
-            Tier-3 8/10 Minion<br/>
+            Tier-3 8/16 Minion<br/>
             --------------------<br/>
             Normal:<br/>
             <b>Avenge ({0}):</b> Get a random 1-Cost card from the Minor <b>Timewarp</b>.<br/>
-            Tier-3 4/5 Minion
+            Tier-3 4/8 Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.TimewarpedLilQuilboar">
@@ -153967,23 +153967,23 @@
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.TimewarpedMythrax">
             <summary>
             Normal (this):<br/>
-            <b>Start of Combat:</b> Gain the stats of 3 friendly minions of different types.<br/>
-            Tier-5 8/8 Minion<br/>
+            <b>Start of Combat:</b> Gain the stats of 3 friendly minions of different types <i>(except Timewarped Mythrax)</i>.<br/>
+            Tier-5 8/9 All Minion<br/>
             --------------------<br/>
             Triple:<br/>
-            <b>Start of Combat:</b> Gain twice the stats of 3 friendly minions of different types.<br/>
-            Tier-5 16/16 Minion
+            <b>Start of Combat:</b> Gain twice the stats of 3 friendly minions of different types. <i>(except Timewarped Mythrax)</i>.<br/>
+            Tier-5 16/18 All Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.TimewarpedMythrax_TimewarpedMythrax">
             <summary>
             Triple (this):<br/>
-            <b>Start of Combat:</b> Gain twice the stats of 3 friendly minions of different types.<br/>
-            Tier-5 16/16 Minion<br/>
+            <b>Start of Combat:</b> Gain twice the stats of 3 friendly minions of different types. <i>(except Timewarped Mythrax)</i>.<br/>
+            Tier-5 16/18 All Minion<br/>
             --------------------<br/>
             Normal:<br/>
-            <b>Start of Combat:</b> Gain the stats of 3 friendly minions of different types.<br/>
-            Tier-5 8/8 Minion
+            <b>Start of Combat:</b> Gain the stats of 3 friendly minions of different types <i>(except Timewarped Mythrax)</i>.<br/>
+            Tier-5 8/9 All Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.TimewarpedSwirler">
@@ -154381,22 +154381,22 @@
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.TimewarpedSubstrate">
             <summary>
             Normal (this):<br/>
-            At the end of your turn, get a Temperature Shift.<br/>
+            <b>Divine Shield</b> At the end of your turn, get a Temperature Shift.<br/>
             Tier-5 8/8 Elemental Minion<br/>
             --------------------<br/>
             Triple:<br/>
-            At the end of your turn, get 2 Temperature Shifts.<br/>
+            <b>Divine Shield</b> At the end of your turn, get 2 Temperature Shifts.<br/>
             Tier-5 16/16 Elemental Minion
             </summary>
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.TimewarpedSubstrate_TimewarpedSubstrate">
             <summary>
             Triple (this):<br/>
-            At the end of your turn, get 2 Temperature Shifts.<br/>
+            <b>Divine Shield</b> At the end of your turn, get 2 Temperature Shifts.<br/>
             Tier-5 16/16 Elemental Minion<br/>
             --------------------<br/>
             Normal:<br/>
-            At the end of your turn, get a Temperature Shift.<br/>
+            <b>Divine Shield</b> At the end of your turn, get a Temperature Shift.<br/>
             Tier-5 8/8 Elemental Minion
             </summary>
         </member>
@@ -157554,7 +157554,7 @@
         </member>
         <member name="F:HearthDb.CardIds.NonCollectible.Neutral.ReservePrices_ReservePricesPlayerEnchantDnt">
             <summary>
-            Tavern spells cost (2) less this turn.<br/>
+            Tavern spells cost (1) less this turn.<br/>
             Enchantment
             </summary>
         </member>
